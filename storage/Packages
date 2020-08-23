@@ -1879,6 +1879,21 @@ SHA512: d8d7cbee9bdd5d9dfddd822fdf8fd73a89631adae3a786e106e612cf3f64b8829ae9d554
 Homepage: https://www.xunscore.cn/
 Description: 让你简易自由地创建和分享乐谱。
 
+Package: xunscore
+Architecture: amd64
+Version: 1.2.7.1
+Priority: optional
+Maintainer: Anysets <1443454956@qq.com>
+Installed-Size: 96748
+Filename: store/music/xunscore/xunscore_1.2.7.1_amd64.deb
+Size: 32564432
+MD5sum: c06fcb36ff5493396074f9208c78370c
+SHA1: 9d902856f4c361359fbf908c95b57aa6d2482164
+SHA256: 155e2879c960fb7e90fe106ea4456f8e435c32a4fde3a226336cf8e866ca8426
+SHA512: c048b7b84514fc2e5599b7f8f2bf3cffabaf9c729559ff9715de3f5001e337187551b074c6eeb92b9de3cbbae4271f8974af5340cf9f3382d2f362b2050505ae
+Homepage: https://www.xunscore.cn/
+Description: 让你简易自由地创建和分享乐谱。编辑器之所以称为“埙”，是寄望它更多地兼顾华夏民族乐谱，更好地符合国人使用习惯。
+
 Package: ziipoo
 Architecture: amd64
 Version: 2.4.0.3
