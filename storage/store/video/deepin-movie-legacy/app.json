@@ -1,0 +1,12 @@
+{
+   "Name":"深度影院",
+   "Version":"3.2.20-1",
+   "Filename":"deepin-movie-legacy_3.2.20-1_amd64.deb",
+   "Pkgname":"deepin-movie-legacy",
+   "Author":"Deepin",
+   "Contributor":"zty199",
+   "Website":"https://github.com/linuxdeepin/deepin-movie",
+   "Update":"2020-06-25 11:06",
+   "Size":"381.71KB",
+   "More":"深度影院3.2.7版，从Debian 10仓库中翻出来的旧版本，修改了安装位置与桌面文件名称和图标并重新进行打包，与商店现有新版本进行区分。"
+}

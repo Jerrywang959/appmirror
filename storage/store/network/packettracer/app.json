@@ -1,0 +1,12 @@
+{
+   "Name":"Cisco Packet Tracer",
+   "Version":"7.2.0",
+   "Filename":"PacketTracer_7.2.0_amd64.deb",
+   "Pkgname":"packettracer",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://www.netacad.com/virtual/app/introduction-packet-tracer",
+   "Update":"2020-06-30 22:32",
+   "Size":"217.57MB",
+   "More":"Cisco Packet Tracer 是由Cisco公司发布的一个辅助学习工具，为学习CCNA课程的网络初学者去设计、配置、排除网络故障提供了网络模拟环境。学生可在软件的图形用户界面上直接使用拖曳方法建立网络拓扑，软件中实现的IOS子集允许学生配置设备；并可提供数据包在网络中行进的详细处理过程，观察网络实时运行情况。"
+}

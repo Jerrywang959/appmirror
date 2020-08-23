@@ -1,0 +1,12 @@
+{
+   "Name":"draw.io",
+   "Version":"13.4.4-310",
+   "Filename":"draw.io-amd64-13.4.4.deb",
+   "Pkgname":"draw.io",
+   "Author":"JGraph <support@draw.io>",
+   "Contributor":"anima",
+   "Website":"https://github.com/jgraph/drawio",
+   "Update":"2020-07-17 11:50",
+   "Size":"71.80MB",
+   "More":"draw.io 是一个强大简洁的绘图软件，支持流程图，UML图，架构图，原型图等图标。支持Github，Google Drive, One drive等网盘同步，并且永久免费。draw.io也提供Web版供使用。"
+}

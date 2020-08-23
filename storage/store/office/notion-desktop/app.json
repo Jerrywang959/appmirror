@@ -1,0 +1,12 @@
+{
+   "Name":"notion",
+   "Version":"2.0.8-win",
+   "Filename":"notion-desktop_2.0.8-win_amd64.deb",
+   "Pkgname":"notion-desktop",
+   "Author":"davidbailey00",
+   "Contributor":"jerrywang",
+   "Website":"https://github.com/davidbailey00/notion-deb-builder",
+   "Update":"2020-07-02 19:57",
+   "Size":"80.38MB",
+   "More":"一个将笔记、任务管理和知识库相结合的跨平台协作工具, 非常好的笔记软件. 官网: https://notion.so本软件是非官方包, 是github大神的在debian上的移植, 效果和win上的差不多, 可在有缓存的情况下离线编辑"
+}

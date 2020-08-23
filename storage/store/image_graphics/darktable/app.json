@@ -1,0 +1,12 @@
+{
+   "Name":"darktable",
+   "Version":"3.0.2-1.1",
+   "Filename":"darktable_3.0.2-1.1_amd64.deb",
+   "Pkgname":"darktable",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.darktable.org/",
+   "Update":"2020-07-19 13:51",
+   "Size":"3.96MB",
+   "More":"darktablej是一款开源的 RAW 处理软件，有两项特色功能：一是集成了 USB 控制相机的拍摄工具 gphoto2，二是影调调整工具 Zone System、以及连 Lightroom 都没有的 Tone Equalizer，黑白照后期利器呀"
+}

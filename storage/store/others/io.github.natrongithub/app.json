@@ -1,0 +1,12 @@
+{
+   "Name":"natron",
+   "Version":"2.3.15",
+   "Filename":"io.github.natrongithub_2.3.15_amd64.deb",
+   "Pkgname":"io.github.natrongithub",
+   "Author":" ",
+   "Contributor":"cht",
+   "Website":"https://natrongithub.github.io/",
+   "Update":"2020-07-04 10:16",
+   "Size":"180.16MB",
+   "More":"视觉效果和动态图形行业的跨平台开源合成软件.Natron是功能强大的数字合成器，可以满足您的2D / 2.5D需求。Natron强大的OIIO文件格式和OpenFX架构使Natron成为视觉效果社区最灵活的开源合成器。在所有平台（如MacOS，Linux和Windows）上，其界面和功能均相同。Natron具有功能强大的抠像，roto / rotopaint，2D跟踪工具，是当前所有需要视觉效果的电影制作项目的必备工具"
+}

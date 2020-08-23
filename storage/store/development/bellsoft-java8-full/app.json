@@ -1,0 +1,12 @@
+{
+   "Name":"Liberica JDK8 完整版",
+   "Version":"1.8.0.262+10",
+   "Filename":"bellsoft-jdk8u262_plus_10-linux-amd64-full.deb",
+   "Pkgname":"bellsoft-java8-full",
+   "Author":"BellSoft",
+   "Contributor":"ArchIte",
+   "Website":"https://bell-sw.com/",
+   "Update":"2020-08-12 14:49",
+   "Size":"108.50MB",
+   "More":"Liberica JDK 是一个友好的 OpenJDK 发行版。其完整版本默认捆绑了 Open JFX。可以免去繁杂的配置过程。该套件可确保与 Java SE 规范 100% 兼容。\n卸载方式：终端输入 sudo apt remove bellsoft-java8-full\n（打包者的话：可使用此 JDK 运行 HMCL 启动器 和游玩纯净版和 1.7.10 版本及更新版本的 Minecraft ）"
+}

@@ -1,0 +1,157 @@
+[
+{
+   "Name":"深度影院",
+   "Version":"3.2.20-1",
+   "Filename":"deepin-movie-legacy_3.2.20-1_amd64.deb",
+   "Pkgname":"deepin-movie-legacy",
+   "Author":"Deepin",
+   "Contributor":"zty199",
+   "Website":"https://github.com/linuxdeepin/deepin-movie",
+   "Update":"2020-06-25 11:06",
+   "Size":"381.71KB",
+   "More":"深度影院3.2.7版，从Debian 10仓库中翻出来的旧版本，修改了安装位置与桌面文件名称和图标并重新进行打包，与商店现有新版本进行区分。"
+}
+,
+{
+   "Name":"bilibili录播姬",
+   "Version":"1.8.0",
+   "Filename":"live-recorder_1.8.0_amd64.deb",
+   "Pkgname":"live-recorder",
+   "Author":"B站录播机",
+   "Contributor":"zty199",
+   "Website":"http://live.weibo333.com/",
+   "Update":"2020-08-08 22:55",
+   "Size":"34.95MB",
+   "More":"B站录播机，不再错过每一场直播。\n*建议和BUG反馈\nQQ交流群：7307708\n来自打包者吐槽：不知道 shenmo 从哪里翻出来的远古版本，更新了一下还要重新打包，也不晓得作者信息啥的对不对......看着像是 Electron 封装的网页？不过至少能用。"
+}
+,
+{
+   "Name":"MystiQ影音转换器",
+   "Version":"20.03.23-1",
+   "Filename":"mystiq_20.03.23-1_amd64.deb",
+   "Pkgname":"mystiq",
+   "Author":"swl-x",
+   "Contributor":"anima",
+   "Website":"https://github.com/swl-x/MystiQ",
+   "Update":"2020-06-25 18:15",
+   "Size":"583.85KB",
+   "More":"MystiQ是一款基于 Qt5/C++ 的 FFmpeg 媒体格式转换器。"
+}
+,
+{
+   "Name":"QMPlay2",
+   "Version":"20.07.04-1",
+   "Filename":"QMPlay2_20.07.04-1-amd64_a2d.deb",
+   "Pkgname":"qmplay2",
+   "Author":" ",
+   "Contributor":"momen",
+   "Website":" ",
+   "Update":"2020-08-06 15:09",
+   "Size":"19.12MB",
+   "More":"这个播放器是万能播放器,还可以播放电视节目哦"
+}
+,
+{
+   "Name":"NextPlayer",
+   "Version":"1.7.2+1",
+   "Filename":"nextplayer_1.7.2_plus_1_a2d_amd64.deb",
+   "Pkgname":"nextplayer",
+   "Author":"sudormroot",
+   "Contributor":"sudormroot",
+   "Website":"https://github.com/sudormroot/nextplayer-project/releases",
+   "Update":"2020-07-20 14:30",
+   "Size":"76.85MB",
+   "More":"下一代跨平台的蓝光播放器，支持macOS，Linux和FreeBSD等。"
+}
+,
+{
+   "Name":"SMplayer",
+   "Version":"20.6.0+3.2",
+   "Filename":"smplayer_20.6.0_plus_3.2_amd64.deb",
+   "Pkgname":"smplayer",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.smplayer.info/",
+   "Update":"2020-08-16 22:45",
+   "Size":"3.30MB",
+   "More":"SMPlayer 是个适用于 Windows 和 Linux 的免费媒体播放器， 内置解码器，可以播放几乎所有格式的视频和音频文件，无需再安装任何外部解码器。 只要安装了 SMPlayer， 你就能够播放所有的格式，不用再费事查找安装解码包"
+}
+,
+{
+   "Name":"Flash Player",
+   "Version":"32.0.0",
+   "Filename":"flashplayer_amd64.deb",
+   "Pkgname":"flashplayer-32",
+   "Author":" ",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-28 19:28",
+   "Size":"4.58MB",
+   "More":"Flash PLayer for Linux"
+}
+,
+{
+   "Name":"lossless-cut",
+   "Version":"3.23.7",
+   "Filename":"losslesscut.spark.deb",
+   "Pkgname":"losslesscut.spark",
+   "Author":"Mikael Finstad",
+   "Contributor":"Fredoong",
+   "Website":"https://github.com/mifi/lossless-cut",
+   "Update":"2020-07-07 16:04",
+   "Size":"88.42MB",
+   "More":"losslesscut被称为无损视频剪辑的瑞士军刀，常用于粗剪（无损剪切、合并）。——by Fredoong"
+}
+,
+{
+   "Name":"资源播放器",
+   "Version":"2.3.6",
+   "Filename":"zyplayer_2.3.6_amd64.deb",
+   "Pkgname":"zyplayer",
+   "Author":"Hunlongyu",
+   "Contributor":"sgb76",
+   "Website":"http://zyplayer.fun/",
+   "Update":"2020-08-18 01:18",
+   "Size":"51.63MB",
+   "More":"资源播放器，全网资源，一个搞定"
+}
+,
+{
+   "Name":"lightworks",
+   "Version":"2020.1",
+   "Filename":"lightworks-2020.1-r122068-amd64.deb",
+   "Pkgname":"lightworks",
+   "Author":" ",
+   "Contributor":"sgb76 ",
+   "Website":"https://www.lwks.com/",
+   "Update":"2020-07-18 17:06",
+   "Size":"61.97MB",
+   "More":"lightworks是一款免费的视频编辑器"
+}
+,
+{
+   "Name":"kdenlive",
+   "Version":"20.04.1",
+   "Filename":"org.kde.kdenlive_20.04.1_a2d.deb",
+   "Pkgname":"org.kde.kdenlive",
+   "Author":"KDE",
+   "Contributor":"chaodn",
+   "Website":"https://kdenlive.org/",
+   "Update":"2020-06-29 15:48",
+   "Size":"154.76MB",
+   "More":"Kdenlive是一款免费的功能强大的视频剪辑软件，是KDE非线性视频编辑器(KDE Non-Linear Video Editor)的缩写，Kdenlive背后包含了kde、ffmpeg、qt这些开源组织和相关软件，所以在版本更新、功能等方面都有强大的支持!"
+}
+,
+{
+   "Name":"全聚合影视",
+   "Version":"2.55",
+   "Filename":"vst-video.deb",
+   "Pkgname":"vst-video",
+   "Author":" ",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-29 09:07",
+   "Size":"121.69KB",
+   "More":"全聚合影视是一款点播播放器"
+}
+]

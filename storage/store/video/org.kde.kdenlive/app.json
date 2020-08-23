@@ -1,0 +1,12 @@
+{
+   "Name":"kdenlive",
+   "Version":"20.04.1",
+   "Filename":"org.kde.kdenlive_20.04.1_a2d.deb",
+   "Pkgname":"org.kde.kdenlive",
+   "Author":"KDE",
+   "Contributor":"chaodn",
+   "Website":"https://kdenlive.org/",
+   "Update":"2020-06-29 15:48",
+   "Size":"154.76MB",
+   "More":"Kdenlive是一款免费的功能强大的视频剪辑软件，是KDE非线性视频编辑器(KDE Non-Linear Video Editor)的缩写，Kdenlive背后包含了kde、ffmpeg、qt这些开源组织和相关软件，所以在版本更新、功能等方面都有强大的支持!"
+}

@@ -1,0 +1,12 @@
+{
+   "Name":"deadbeef",
+   "Version":"1.8.4",
+   "Filename":"deadbeef_1.8.4_amd64.deb",
+   "Pkgname":"deadbeef",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://deadbeef.sourceforge.io/",
+   "Update":"2020-07-20 23:34",
+   "Size":"5.45MB",
+   "More":"DeaDBeeF在GNU/Linux系统下是一款音频播放器，原生GTK2和GTK3 GUI、支持多种格式，自定义UI、内存占用小、很多额外功能的插件。"
+}

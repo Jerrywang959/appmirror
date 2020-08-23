@@ -1,0 +1,12 @@
+{
+   "Name":"网易云音乐（GTK）",
+   "Version":"1.1.1",
+   "Filename":"netease-cloud-music-gtk_1.1.1_amd64.deb",
+   "Pkgname":"netease-cloud-music-gtk",
+   "Author":"gmg137",
+   "Contributor":"乾一巽五",
+   "Website":"https://github.com/gmg137/netease-cloud-music-gtk",
+   "Update":"2020-06-29 18:30",
+   "Size":"1.33MB",
+   "More":"Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器。"
+}

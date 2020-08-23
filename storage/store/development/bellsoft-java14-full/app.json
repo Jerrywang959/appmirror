@@ -1,0 +1,12 @@
+{
+   "Name":"Liberica JDK14 完整版",
+   "Version":"14.0.2+13",
+   "Filename":"bellsoft-jdk14.0.2_plus_13-linux-amd64-full.deb",
+   "Pkgname":"bellsoft-java14-full",
+   "Author":"BellSoft",
+   "Contributor":"ArchIte",
+   "Website":"https://bell-sw.com/",
+   "Update":"2020-08-12 13:24",
+   "Size":"250.71MB",
+   "More":"Liberica JDK 是一个友好的 OpenJDK 发行版。其完整版本默认捆绑了 Open JFX。可以免去繁杂的配置过程。该套件可确保与 Java SE 规范 100% 兼容。\n卸载方式：终端输入 sudo apt remove bellsoft-java14-full\n（打包者的话：可使用此 JDK 运行 HMCL 启动器 和游玩纯净版和搭载 Fabric 的 Minecraft ，但无法运行搭载 Forge 的 Minecraft ，因为 Forge 只支持 Java 8）\n"
+}

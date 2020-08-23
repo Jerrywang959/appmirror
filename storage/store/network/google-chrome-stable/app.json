@@ -1,0 +1,12 @@
+{
+   "Name":"chrome浏览器",
+   "Version":"83.0.4103.116-1",
+   "Filename":"google-chrome-stable_current_amd64.deb",
+   "Pkgname":"google-chrome-stable",
+   "Author":"Google",
+   "Contributor":"Maicss",
+   "Website":"https://www.google.cn/intl/zh-CN/chrome/",
+   "Update":"2020年6月27日",
+   "Size":"68.6M",
+   "More":"全球范围内最受欢迎的浏览器之一，得益于内置的 Google 智能工具，Chrome 现在更易用、更安全、更快速。"
+}

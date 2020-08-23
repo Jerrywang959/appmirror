@@ -1,0 +1,12 @@
+{
+   "Name":"VSCodium",
+   "Version":"1.47.2-1594983014",
+   "Filename":"codium_1.47.2-1594983014_amd64.deb",
+   "Pkgname":"codium",
+   "Author":"VSCodium",
+   "Contributor":"xingjiapeng",
+   "Website":"https://vscodium.com/",
+   "Update":"2020-07-24 15:47",
+   "Size":"62.19MB",
+   "More":"从源码编译的Visual Studio Code版本，由社区维护。"
+}

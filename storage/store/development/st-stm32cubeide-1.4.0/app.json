@@ -1,0 +1,12 @@
+{
+   "Name":"STM32CubeIDE",
+   "Version":"1.4.0-7511-20200720-0928-1",
+   "Filename":"st-stm32cubeide_1.4.0_7511_20200720_0928_amd64.deb",
+   "Pkgname":"st-stm32cubeide-1.4.0",
+   "Author":"STMicroelectronics",
+   "Contributor":"lidanger",
+   "Website":"https://www.st.com",
+   "Update":"2020-08-14 09:05",
+   "Size":"732.14MB",
+   "More":"STM32CubeIDE 是 ST 公司新推出的 STM32 开发工具，集成了 TrueSTUDIO 和 STM32CubeMX，是 STM32Cube 软件生态系统的一部分。STM32CubeIDE 是一个先进的 C/C++ 开发平台，具有 STM32 微控制器的 IP 配置、代码生成、代码编译和调试功能。软件基于 ECLIPSE/CDT，采用 GCC、GDB 进行开发和调试，支持 Linux、Windows、Mac，支持 J-Link 和 ST-Link。"
+}

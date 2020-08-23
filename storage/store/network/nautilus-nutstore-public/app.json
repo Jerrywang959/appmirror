@@ -1,0 +1,12 @@
+{
+   "Name":"坚果云",
+   "Version":"5.0.1",
+   "Filename":"nautilus_nutstore_5.0.1_amd64.deb",
+   "Pkgname":"nautilus-nutstore-public",
+   "Author":"上海亦存网络科技有限公司",
+   "Contributor":"Maicss",
+   "Website":"https://www.jianguoyun.com",
+   "Update":"2020年8月9日",
+   "Size":"30.1M",
+   "More":"任何设备，随时随地实现文件共享。\n官方坚果云无法直接在V20中安装并正常使用，此版本为修复问题后重新打包版本，经测试一切正常。"
+}

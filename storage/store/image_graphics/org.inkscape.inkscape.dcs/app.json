@@ -1,0 +1,12 @@
+{
+   "Name":"Inkscape",
+   "Version":"1.0+spark",
+   "Filename":"org.inkscape.inkscape.dcs_1.0_plus_spark_amd64.deb",
+   "Pkgname":"org.inkscape.inkscape.dcs",
+   "Author":" ",
+   "Contributor":"zty199",
+   "Website":"https://inkscape.org/",
+   "Update":"2020-07-21 17:20",
+   "Size":"16.50MB",
+   "More":"Inkscape 是一款专业的开源矢量图形编辑软件，支持 Linux，macOS 和 Windows 平台。\n感谢论坛坛友 ylxdxx 的编译版，在添加了数个依赖后重新打包，可以在 deepin v20 上运行，修复了原版 AppImage 不能使用 fcitx 输入法框架输入中文的问题。"
+}

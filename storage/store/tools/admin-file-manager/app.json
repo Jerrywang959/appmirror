@@ -1,0 +1,12 @@
+{
+   "Name":"以管理员身份打开",
+   "Version":"1.0",
+   "Filename":"admin-file-manager_1.0_amd64.deb",
+   "Pkgname":"admin-file-manager",
+   "Author":"lidanger",
+   "Contributor":"zty199",
+   "Website":"https://bbs.deepin.org/forum.php?mod=viewthread&tid=192071",
+   "Update":"2020-07-14 21:46",
+   "Size":"1.15KB",
+   "More":"深度文件管理器右键菜单扩展——以管理员身份打开。该功能预计会在V20正式版中回归，到时候可以删掉。源文件来自论坛用户 lidanger 。"
+}

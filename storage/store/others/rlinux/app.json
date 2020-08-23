@@ -1,0 +1,12 @@
+{
+   "Name":"R-Linux数据恢复",
+   "Version":"5.6.175721",
+   "Filename":"RLinux5_i386.deb",
+   "Pkgname":"rlinux",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.r-tt.com/",
+   "Update":"2020-07-09 17:31",
+   "Size":"59.15MB",
+   "More":"R-Linux是Linux中使用的Ext2 / Ext3 / Ext4 FS文件系统的免费文件恢复实用程序。 R-Linux使用InteligentScan技术，并通过灵活的参数设置为Linux平台提供最快、最可靠的文件恢复。"
+}

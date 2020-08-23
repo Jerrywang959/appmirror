@@ -1,0 +1,12 @@
+{
+   "Name":"共享文件夹",
+   "Version":"1.5",
+   "Filename":"SendByLAN_v1.5.deb",
+   "Pkgname":"sendbylan",
+   "Author":"Maicss",
+   "Contributor":"Maicss",
+   "Website":"https://gitee.com/Maicss/SendByLAN",
+   "Update":"2020年6月28日",
+   "Size":"52.8Kb",
+   "More":"这是一个简易的文件夹共享插件，集成到文件管理器右键中，仅支持deepin文件管理器。"
+}

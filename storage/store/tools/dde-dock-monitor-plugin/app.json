@@ -1,0 +1,12 @@
+{
+   "Name":"任务栏网速插件",
+   "Version":"1.4+spark",
+   "Filename":"dde-dock-monitor-plugin_1.4_plus_spark_amd64.deb",
+   "Pkgname":"dde-dock-monitor-plugin",
+   "Author":"q77190858",
+   "Contributor":"shenmo",
+   "Website":"https://gitee.com/q77190858/dde-sys-monitor-plugin/",
+   "Update":"2020-08-18 14:15",
+   "Size":"62.30KB",
+   "More":"一款方便的任务栏插件，可以显示网速、内存、CPU等信息。仅支持 deepin v20，安装完成后需要注销或重启生效。\n\n【更新内容】\nv1.4+spark\n1.新增图表模式，显示更直观。\n2.文字模式新增支持字体颜色跟随系统主题变化。"
+}

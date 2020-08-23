@@ -1,0 +1,12 @@
+{
+   "Name":"PDMan",
+   "Version":"2.1.6",
+   "Filename":"PDMan-linux_v2.1.6.deb",
+   "Pkgname":"pdman",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"http://www.pdman.cn/#/",
+   "Update":"2020-07-22 10:06",
+   "Size":"83.20MB",
+   "More":"PDMan是一款开源免费的数据库模型建模工具，支持Windows,Mac,Linux等操作系统，支持常见数据库MySQL,Oracle,SQLServer,DB2等。"
+}

@@ -1,0 +1,118 @@
+[
+{
+   "Name":"Smartisan主题",
+   "Version":"1.0",
+   "Filename":"smartisan_1.0_amd64.deb",
+   "Pkgname":"smartisan",
+   "Author":"Panasony",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-25 18:17",
+   "Size":"6.22MB",
+   "More":"锤粉福音"
+}
+,
+{
+   "Name":"blossom主题（精简包）",
+   "Version":"1.0",
+   "Filename":"blossom_1.0_all.deb",
+   "Pkgname":"blossom",
+   "Author":"Deepin",
+   "Contributor":"zty199",
+   "Website":" ",
+   "Update":"2020-06-29 21:35",
+   "Size":"54.69KB",
+   "More":"blossom主题精简包依赖于官方bloom和bloom-dark主题，把启动器logo换回了deepin经典图标，添加了512×512分辨率的logo，保留了其他新图标样式。弥补强迫症患者对于 bloom-classic-dark 混合图标风格的不满。"
+}
+,
+{
+   "Name":"deepin 20风格fcitx皮肤",
+   "Version":"1:0.1-2",
+   "Filename":"fcitx-ui-deepin-v20_all.deb",
+   "Pkgname":"fcitx-ui-deepin-v20",
+   "Author":"maicss",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-25 08:42",
+   "Size":"134.36KB",
+   "More":"让sunpinyin从此不同"
+}
+,
+{
+   "Name":"一只动态壁纸",
+   "Version":"0.3beta",
+   "Filename":"top.yzzi.wallpaper_0.3beta_amd64",
+   "Pkgname":"top.yzzi.wallpaper",
+   "Author":"一只科技菌",
+   "Contributor":"一只科技菌",
+   "Website":"https://blog.yzzi.top",
+   "Update":"2020-08-08 16:13",
+   "Size":"46.07KB",
+   "More":"一个动态壁纸加载工具，DTK界面哦"
+}
+,
+{
+   "Name":"OREO 蓝色光标",
+   "Version":"1.0",
+   "Filename":"oreo_blue_cursors_1.0_amd64.deb",
+   "Pkgname":"oreo-blue-cursors",
+   "Author":" ",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-07-10 11:52",
+   "Size":"50.22KB",
+   "More":"非常好看的图表主题"
+}
+,
+{
+   "Name":"OREO 茶韵 光标主题",
+   "Version":"1.0",
+   "Filename":"oreo_teal_cursors_1.0_amd64.deb",
+   "Pkgname":"oreo-teal-cursors",
+   "Author":" ",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-07-10 16:53",
+   "Size":"51.91KB",
+   "More":"OREO 茶韵光标主题～"
+}
+,
+{
+   "Name":"海洋风格图标主题",
+   "Version":"2020.04.13-1",
+   "Filename":"sea-icon-theme_2020.04.13-1_all.deb",
+   "Pkgname":"sea-icon-theme",
+   "Author":" ",
+   "Contributor":"panasony",
+   "Website":" ",
+   "Update":"2020-07-19 21:55",
+   "Size":"1.92MB",
+   "More":"一款海洋风格的图表主题，为你平淡的生活增添一丝大海的气息～～～"
+}
+,
+{
+    "Name":"OSX主题",
+    "Version":"1.0.0",
+    "Filename":"osx-icons-ps.deb",
+    "Pkgname":"osx-icons",
+    "Author":"Panasony",
+    "Contributor":"shenmo",
+    "Website":"http:.//www.shenmo.tech:420/",
+    "Update":"2020.06.23",
+    "Size":"5.42MB",
+    "More":"OSX图标主题"
+}
+,
+{
+   "Name":"windows10主题",
+   "Version":"1.0",
+   "Filename":"windows10-icons_1.0_amd64.deb",
+   "Pkgname":"windows10-icons",
+   "Author":"Panasony",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-25 18:21",
+   "Size":"10.53MB",
+   "More":"windows10主题"
+}
+]

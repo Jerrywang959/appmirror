@@ -1,0 +1,12 @@
+{
+   "Name":"Xournal++",
+   "Version":"1.0.18~git20200415.1911",
+   "Filename":"xournalpp-1.0.18-Debian-buster-x86_64.deb",
+   "Pkgname":"xournalpp",
+   "Author":"Ulrich Huber & Bryan Tan",
+   "Contributor":"Andreas Butti",
+   "Website":"https://xournalpp.github.io/",
+   "Update":"2020-07-30 04:16",
+   "Size":"12.88MB",
+   "More":"Xournal++ is a hand note taking software written in C++ with the target of flexibility, functionality and speed."
+}

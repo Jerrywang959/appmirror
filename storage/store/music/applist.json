@@ -1,0 +1,196 @@
+[
+{
+   "Name":"XunScore",
+   "Version":"1.2.4.2",
+   "Filename":"XunScore_1.2.4.2_amd64.deb",
+   "Pkgname":"xunscore",
+   "Author":" ",
+   "Contributor":"Anysets",
+   "Website":"https://www.xunscore.cn/",
+   "Update":"2020-06-25 17:10",
+   "Size":"32.40MB",
+   "More":"让你简易自由地创建和分享乐谱。编辑器之所以称为“埙”, 是寄望它更多地兼顾华夏民族乐谱，更好地符合国人使用习惯。"
+}
+,
+{
+   "Name":"deadbeef",
+   "Version":"1.8.4",
+   "Filename":"deadbeef_1.8.4_amd64.deb",
+   "Pkgname":"deadbeef",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://deadbeef.sourceforge.io/",
+   "Update":"2020-07-20 23:34",
+   "Size":"5.45MB",
+   "More":"DeaDBeeF在GNU/Linux系统下是一款音频播放器，原生GTK2和GTK3 GUI、支持多种格式，自定义UI、内存占用小、很多额外功能的插件。"
+}
+,
+{
+   "Name":"易谱",
+   "Version":"2.4.0.3",
+   "Filename":"ziipoo_2.4.0.3_amd64.deb",
+   "Pkgname":"ziipoo",
+   "Author":"Ziipoo",
+   "Contributor":"anima",
+   "Website":"http://www.ziipoo.cn/",
+   "Update":"2020-07-12 12:25",
+   "Size":"152.09MB",
+   "More":"让音乐更靠谱。"
+}
+,
+{
+   "Name":"洛雪音乐助手",
+   "Version":"1.0.1-119",
+   "Filename":"lx-music-desktop.v1.0.1.x64.deb",
+   "Pkgname":"lx-music-desktop",
+   "Author":"lyswhut",
+   "Contributor":"Anysets",
+   "Website":"https://github.com/lyswhut/lx-music-desktop",
+   "Update":"2020-08-05 19:31",
+   "Size":"51.90MB",
+   "More":"洛雪音乐助手，一个免费的音乐下载助手"
+}
+,
+{
+   "Name":"Petal",
+   "Version":"2.25.0",
+   "Filename":"petal_2.25.0_amd64.deb",
+   "Pkgname":"petal",
+   "Author":"ilime",
+   "Contributor":"anima",
+   "Website":"https://github.com/ilime/Petal",
+   "Update":"2020-06-25 17:17",
+   "Size":"49.58MB",
+   "More":"Douban.FM Client With Extra - - - 一个简洁的豆瓣FM客户端。"
+}
+,
+{
+   "Name":"QQ音乐（wine）",
+   "Version":"17.77",
+   "Filename":"com.qq.y.dcs_17.77_i386.deb",
+   "Pkgname":"com.qq.y.dcs",
+   "Author":"gorquan",
+   "Contributor":"zty199",
+   "Website":"https://github.com/gorquan/QQMusic",
+   "Update":"2020-07-16 21:20",
+   "Size":"88.90MB",
+   "More":"Tencent QQMusic Client on Deepin Wine. 使用了 gorquan 大佬的 Deepin-QQMusic 容器以及启动脚本，模仿官方的打包方式直接打包。"
+}
+,
+{
+   "Name":"深度音乐",
+   "Version":"3.1.14+ds-1",
+   "Filename":"deepin-music-legacy_3.1.14+ds-1_amd64.deb",
+   "Pkgname":"deepin-music-legacy",
+   "Author":"Deepin",
+   "Contributor":"zty199",
+   "Website":"https://github.com/linuxdeepin/deepin-music",
+   "Update":"2020-06-25 11:08",
+   "Size":"456.69KB",
+   "More":"深度音乐3.1.14版，从Debian 10仓库中翻出来的旧版本，修改了安装位置与桌面文件名称和图标并重新进行打包，与商店现有新版本进行区分。与新版不兼容，请卸载新版再使用"
+}
+,
+{
+   "Name":"酷狗音乐（wine）",
+   "Version":"9.1.44.23567spark0",
+   "Filename":"com.kugou.spark_9.1.44.23567spark0_i386.deb",
+   "Pkgname":"com.kugou.spark",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://www.kugou.com/",
+   "Update":"2020-08-12 22:47",
+   "Size":"101.100MB",
+   "More":"就是歌多    大有不同"
+}
+,
+{
+   "Name":"Chord弦音乐",
+   "Version":"0.2.29-174",
+   "Filename":"chord-0.2.29-linux-amd64.deb",
+   "Pkgname":"chord",
+   "Author":" ",
+   "Contributor":"神末shenmo",
+   "Website":" ",
+   "Update":"2020-06-29 10:46",
+   "Size":"78.47MB",
+   "More":"美观高效，弦音乐。来自github的投稿"
+}
+,
+{
+   "Name":"Coco Music",
+   "Version":"2.0.7",
+   "Filename":"cocomusic_2.0.7_amd64.deb",
+   "Pkgname":"cocomusic",
+   "Author":" ",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-29 13:10",
+   "Size":"42.37MB",
+   "More":"Coco Music，美观的第三方QQ音乐"
+}
+,
+{
+   "Name":"MoonFM",
+   "Version":"1.8.16",
+   "Filename":"moonFM-1.8.16_amd64.deb",
+   "Pkgname":"moonfm",
+   "Author":" ",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-07-07 16:59",
+   "Size":"56.40MB",
+   "More":"一款网络广播软件"
+}
+,
+{
+   "Name":"Listen1",
+   "Version":"2.7.2",
+   "Filename":"Listen1_2.7.2_linux_amd64.deb",
+   "Pkgname":"listen1",
+   "Author":"listen1",
+   "Contributor":"anima",
+   "Website":"https://github.com/listen1/listen1_desktop",
+   "Update":"2020-07-18 21:08",
+   "Size":"48.03MB",
+   "More":"Listen 1可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单。"
+}
+,
+{
+   "Name":"网易云音乐（GTK）",
+   "Version":"1.1.1",
+   "Filename":"netease-cloud-music-gtk_1.1.1_amd64.deb",
+   "Pkgname":"netease-cloud-music-gtk",
+   "Author":"gmg137",
+   "Contributor":"乾一巽五",
+   "Website":"https://github.com/gmg137/netease-cloud-music-gtk",
+   "Update":"2020-06-29 18:30",
+   "Size":"1.33MB",
+   "More":"Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器。"
+}
+,
+{
+   "Name":"Iease-Music",
+   "Version":"1.3.4",
+   "Filename":"ieaseMusic-1.3.4-linux-amd64.deb",
+   "Pkgname":"iease-music",
+   "Author":"trazyn",
+   "Contributor":"jalawov",
+   "Website":"https://github.com/trazyn/ieaseMusic",
+   "Update":"2020-07-09 09:23",
+   "Size":"55.37MB",
+   "More":"美观的第三方网易云,由Electron, React, MobX, JSS构建"
+}
+,
+{
+   "Name":"vocal",
+   "Version":"2.4.1",
+   "Filename":"com.github.needle-and-thread.vocal2.4.1-e2548e.deb",
+   "Pkgname":"com.github.needle-and-thread.vocal",
+   "Author":" ",
+   "Contributor":"neko",
+   "Website":" ",
+   "Update":"2020-06-25 22:07",
+   "Size":"377.035KB",
+   "More":"￼Vocal是一个功能强大，快速且直观的应用程序，可帮助用户查找新的播客，管理其库，并享受独立音频和视频发布所能提供的最佳体验。Vocal具有对剧集下载和流媒体，本机系统集成，iTunes Store搜索和前100个图表（具有国际结果支持），iTunes链接解析，OPML导入和导出等功能的全面支持。此外，它还具有出色的智能功能，例如自动保持您的媒体库中的旧文件清洁，以及设置自定义跳过间隔的功能。"
+}
+]

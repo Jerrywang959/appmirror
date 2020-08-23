@@ -1,0 +1,12 @@
+{
+   "Name":"AppImage安装器",
+   "Version":"1.0.3",
+   "Filename":"appimage-installer_1.0.3_amd64.deb",
+   "Pkgname":"appimage-installer",
+   "Author":"Maicss",
+   "Contributor":"Maicss",
+   "Website":"https://gitee.com/Maicss/appimage-installer",
+   "Update":"2020-08-02",
+   "Size":"30.5KB",
+   "More":"他可以非常快速方便的将AppImage软件添加到开始菜单，这会为你节省很多时间。"
+}

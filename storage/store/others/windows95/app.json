@@ -1,0 +1,12 @@
+{
+   "Name":"Windows 95",
+   "Version":"2.2.1",
+   "Filename":"windows95-linux-2.2.1_amd64.deb",
+   "Pkgname":"windows95",
+   "Author":"felixrieseberg",
+   "Contributor":"Anysets",
+   "Website":"https://github.com/felixrieseberg/windows95",
+   "Update":"2020-08-03 15:57",
+   "Size":"224.88MB",
+   "More":"基于 Electron 运行的 Windows 95 操作系统。支持 macOS，Linux 以及 Windows 平台。"
+}

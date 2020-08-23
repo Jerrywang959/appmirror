@@ -1,0 +1,12 @@
+{
+   "Name":"blossom主题（精简包）",
+   "Version":"1.0",
+   "Filename":"blossom_1.0_all.deb",
+   "Pkgname":"blossom",
+   "Author":"Deepin",
+   "Contributor":"zty199",
+   "Website":" ",
+   "Update":"2020-06-29 21:35",
+   "Size":"54.69KB",
+   "More":"blossom主题精简包依赖于官方bloom和bloom-dark主题，把启动器logo换回了deepin经典图标，添加了512×512分辨率的logo，保留了其他新图标样式。弥补强迫症患者对于 bloom-classic-dark 混合图标风格的不满。"
+}

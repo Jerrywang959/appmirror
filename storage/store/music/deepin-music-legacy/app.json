@@ -1,0 +1,12 @@
+{
+   "Name":"深度音乐",
+   "Version":"3.1.14+ds-1",
+   "Filename":"deepin-music-legacy_3.1.14+ds-1_amd64.deb",
+   "Pkgname":"deepin-music-legacy",
+   "Author":"Deepin",
+   "Contributor":"zty199",
+   "Website":"https://github.com/linuxdeepin/deepin-music",
+   "Update":"2020-06-25 11:08",
+   "Size":"456.69KB",
+   "More":"深度音乐3.1.14版，从Debian 10仓库中翻出来的旧版本，修改了安装位置与桌面文件名称和图标并重新进行打包，与商店现有新版本进行区分。与新版不兼容，请卸载新版再使用"
+}

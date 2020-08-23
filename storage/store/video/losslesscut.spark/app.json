@@ -1,0 +1,12 @@
+{
+   "Name":"lossless-cut",
+   "Version":"3.23.7",
+   "Filename":"losslesscut.spark.deb",
+   "Pkgname":"losslesscut.spark",
+   "Author":"Mikael Finstad",
+   "Contributor":"Fredoong",
+   "Website":"https://github.com/mifi/lossless-cut",
+   "Update":"2020-07-07 16:04",
+   "Size":"88.42MB",
+   "More":"losslesscut被称为无损视频剪辑的瑞士军刀，常用于粗剪（无损剪切、合并）。——by Fredoong"
+}

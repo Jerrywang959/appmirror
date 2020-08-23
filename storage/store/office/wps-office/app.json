@@ -1,0 +1,12 @@
+{
+   "Name":"WPS 2019 官网版",
+   "Version":"11.1.0.9604",
+   "Filename":"wps-office_11.1.0.9615_amd64.deb",
+   "Pkgname":"wps-office",
+   "Author":"WPS Team",
+   "Contributor":"shenmo",
+   "Website":"https://linux.wps.cn/",
+   "Update":"2020-07-02 11:56",
+   "Size":"286.61MB",
+   "More":"WPS Office 的官网版本，相比于官方商店的社区版没有了缓慢的字体获取过程，不会卡住20分钟了～"
+}

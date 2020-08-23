@@ -1,0 +1,12 @@
+{
+   "Name":"深度右键刷新插件",
+   "Version":"1.0.0",
+   "Filename":"sm-refresh_1.0.0_amd64.deb",
+   "Pkgname":"sm-refresh",
+   "Author":"shenmo",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-29 11:53",
+   "Size":"12.30KB",
+   "More":"深度右键刷新插件，卸载请sudo apt purge sm-refresh -y"
+}

@@ -1,0 +1,12 @@
+{
+   "Name":"mockingbot",
+   "FileName":"mockingbot_0.7.8_amd64.deb",
+   "Version":"0.7.8",
+   "Author":"qygw",
+   "Contributor":"",
+   "Pkgname":"mockingbot",
+   "Website":"https://modao.cc",
+   "Update":"2020.07.01",
+   "Size":"48MB",
+   "More":"一款简洁易用，功能强大的UI/UE/UX设计程序（注：采用electron编写，貌似是网页版打包）"
+}

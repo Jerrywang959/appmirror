@@ -1,0 +1,105 @@
+[
+{
+   "Name":"腾讯会议（wine）",
+   "Version":"1.7.6.413",
+   "Filename":"com.tencent.meeting.dcs_1.7.6.413_i386.deb",
+   "Pkgname":"com.tencent.meeting.dcs",
+   "Author":"Tencent",
+   "Contributor":"zty199",
+   "Website":"https://meeting.tencent.com/",
+   "Update":"2020-07-30 23:59",
+   "Size":"83.99MB",
+   "More":"Tencent WeMeet Client on Deepin Wine 5.\n使用 deepin-wine5 重新打包，使用了官方的 Deepin-QQ 容器，调整 Windows 版本为 Windows 7，测试中功能基本正常，但是摄像头可以打开，显示黑屏，原因未知。\n感谢官方开发 deepin-wine5，以及 gorquan 大佬修改过的启动脚本。仅供尝鲜使用。"
+}
+,
+{
+   "Name":"微信（wine）",
+   "Version":"2.9.5.56",
+   "Filename":"com.qq.weixin.dcs_2.9.5.56_i386.deb",
+   "Pkgname":"com.qq.weixin.dcs",
+   "Author":"Tencent",
+   "Contributor":"zty199",
+   "Website":"https://weixin.qq.com/",
+   "Update":"2020-07-30 23:01",
+   "Size":"118.73MB",
+   "More":"Tencent WeChat Client on Deepin Wine 5.\n使用 deepin-wine5 重新打包，使用了官方的容器，调整 Windows 版本为 Windows 7，可以看到小程序面板，但是测试中打不开小程序，原因未知。根据论坛坛友描述，修复了 deepin-wine 2.18 安装高于 2.7版本微信时大图片和文件无法传输的问题。\n感谢官方开发 deepin-wine5 ，以及 gorquan 大佬修改过的启动脚本。仅供尝鲜使用。"
+}
+,
+{
+   "Name":"钉钉（wine）",
+   "Version":"5.1.15.24",
+   "Filename":"com.dingtalk.dcs_5.1.15.24_i386.deb",
+   "Pkgname":"com.dingtalk.dcs",
+   "Author":"钉钉（中国）信息技术有限公司",
+   "Contributor":"zty199",
+   "Website":"https://dingtalk.com/",
+   "Update":"2020-08-18 12:20",
+   "Size":"225.20MB",
+   "More":"DingTalk Client on Deepin WIne 5.\n使用 deepin-wine5 进行打包，使用了官方的 Deepin-QQ 容器，并调整 Windows版本 为 Windows 7。感谢 gorquan 大佬修改的启动脚本。测试中功能基本正常，没有出现图标无法显示或者窗口阴影问题，托盘退出后可以正常再次启动。已知摄像头无法打开，可能还存在其他问题。仅供尝鲜试用，建议优先使用原生 Linux 版。"
+}
+,
+{
+   "Name":"钉钉",
+   "Version":"3.0.0-2",
+   "Filename":"dingtalk_3.0.0_amd64.deb",
+   "Pkgname":"dingtalk",
+   "Author":"钉钉团队",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-26 08:48",
+   "Size":"42.52MB",
+   "More":"万恶的钉钉～资本家的应用～然而这个版本的Linux钉钉还不能上网课（学生党狂喜）不过可以打卡了"
+}
+,
+{
+   "Name":"jitsi-meet",
+   "Version":"2.3.1",
+   "Filename":"jitsi-meet_2.3.1_a2d_amd64.deb",
+   "Pkgname":"jitsi-meet",
+   "Author":"jitsi-meet",
+   "Contributor":"jerrywang",
+   "Website":"https://jitsi.org/meet",
+   "Update":"2020-08-08 16:42",
+   "Size":"81.22MB",
+   "More":"开源视频会议 jitsi-meet 的官方electron客户端"
+}
+,
+{
+   "Name":"TIM（wine）",
+   "Version":"3.1.0.21789",
+   "Filename":"com.qq.tim.dcs_3.1.0.21789_i386.deb",
+   "Pkgname":"com.qq.tim.dcs",
+   "Author":"Tencent",
+   "Contributor":"zty199",
+   "Website":"https://tim.qq.com/",
+   "Update":"2020-08-09 17:01",
+   "Size":"148.24MB",
+   "More":"Tencent TIM Client on Deepin Wine 5.\n使用 deepin-wine5 重新打包，使用了官方的容器，升级安装。官方更新 deepin-wine5 后修复了启动缓慢和界面渲染不全的问题。\n仅供尝鲜使用。"
+}
+,
+{
+   "Name":"zoom",
+   "Version":"5.1.418436.0628",
+   "Filename":"zoom_amd64.deb",
+   "Pkgname":"zoom",
+   "Author":"zoom",
+   "Contributor":"Maicss",
+   "Website":"https://www.zoom.us",
+   "Update":"2020年7月3日",
+   "Size":"40M",
+   "More":"zoom是一款支持跨平台的优秀会议软件，被用户给予了很高的评价。\n但是当前zoom已经不再支持免费用户创建会议，加入会议不受影响，请大家知悉。"
+}
+,
+{
+   "Name":"潮信",
+   "Version":"1.8.3",
+   "Filename":"chaoxin_1.8.3_amd64.deb",
+   "Pkgname":"chaoxin",
+   "Author":"上海聊聊网络科技有限公司",
+   "Contributor":"sgb76",
+   "Website":"https://www.chaoxin.com/",
+   "Update":"2020-07-28 23:46",
+   "Size":"47.01MB",
+   "More":"潮信：和重要的人，聊重要的事。潮信旨在为用户提供安全可靠的聊天环境，专精要事交谈。潮信安全聊天采用端对端加密消息传输，服务器不留痕迹，消息阅后即焚，真正做到绝密、无痕。潮信支持Android、iOS、Windows以及Mac等各种平台，亦拥有Web版本。同一账号可同时登陆多个平台，各设备之间消息实时同步，并能互传文件。"
+}
+]

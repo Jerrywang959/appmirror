@@ -1,0 +1,249 @@
+[
+{
+   "Name":"XiaoMiTool（XMT2）",
+   "Version":"20.7.28",
+   "Filename":"com.xiaomitool_20.7.28_amd64.deb",
+   "Pkgname":"com.xiaomitool",
+   "Author":"XiaoMiTool",
+   "Contributor":"一只科技菌",
+   "Website":"https://www.xiaomitool.com/",
+   "Update":"2020-08-13 12:54",
+   "Size":"77.71MB",
+   "More":"小米bl解锁工具哦！！！"
+}
+,
+{
+   "Name":"opentoonz",
+   "Version":"1.4",
+   "Filename":"io.github.opentoonz_1.4_amd64.deb",
+   "Pkgname":"io.github.opentoonz",
+   "Author":"toonz",
+   "Contributor":"cht",
+   "Website":"https://opentoonz.github.io",
+   "Update":"2020-06-24 20:06",
+   "Size":"153.60MB",
+   "More":"宫崎骏御用软件"
+}
+,
+{
+   "Name":"微软核心字体",
+   "Version":"1.0",
+   "Filename":"ms-core-fonts_1.0_i386.deb",
+   "Pkgname":"ms-core-fonts",
+   "Author":"Microsoft",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-07-14 17:00",
+   "Size":"16.72MB",
+   "More":"微软核心字体包，WPS官网版以及商店部分Wine应用需要使用。"
+}
+,
+{
+   "Name":"IGV",
+   "Version":"2.8.2",
+   "Filename":"org.igv_2.8.2_all.deb",
+   "Pkgname":"org.igv",
+   "Author":" ",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-25 18:27",
+   "Size":"79.28MB",
+   "More":"开源的调音软件"
+
+}
+,
+{
+   "Name":"Seetong",
+   "Version":"4.0spark0",
+   "Filename":"com.seetong.nvr.jwyh.spark_4.0spark0_all.deb",
+   "Pkgname":"com.seetong.nvr.jwyh.spark",
+   "Author":"深圳市天视通电子科技有限公司 ",
+   "Contributor":"jwyh",
+   "Website":"http://nvr.seetong.com/",
+   "Update":"2020-08-13 17:07",
+   "Size":"13.82MB",
+   "More":"基于deepin-wine5打包制作（已在依赖中添加deepin-wine5）。\nSeetong是所有Seetong云设备的远程监控客户端。 该APP主要功能包括：用户注册，快捷添加云设备，设备列表智能排序，实时图像预览、对讲、录像、截屏，画面分割，轮巡，横屏或竖屏显示，不同网络环境播放模式选择，告警推送，远程录像回放，本地相册和录像回放管理等。"
+}
+,
+{
+   "Name":"natron",
+   "Version":"2.3.15",
+   "Filename":"io.github.natrongithub_2.3.15_amd64.deb",
+   "Pkgname":"io.github.natrongithub",
+   "Author":" ",
+   "Contributor":"cht",
+   "Website":"https://natrongithub.github.io/",
+   "Update":"2020-07-04 10:16",
+   "Size":"180.16MB",
+   "More":"视觉效果和动态图形行业的跨平台开源合成软件.Natron是功能强大的数字合成器，可以满足您的2D / 2.5D需求。Natron强大的OIIO文件格式和OpenFX架构使Natron成为视觉效果社区最灵活的开源合成器。在所有平台（如MacOS，Linux和Windows）上，其界面和功能均相同。Natron具有功能强大的抠像，roto / rotopaint，2D跟踪工具，是当前所有需要视觉效果的电影制作项目的必备工具"
+}
+,
+{
+   "Name":"小乐数学 zzllrr Mather (网页应用)",
+   "Version":"1.0.0",
+   "Filename":"zzllrr-mather_1.0.0_all.deb",
+   "Pkgname":"zzllrr-mather",
+   "Author":" ",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-07-12 22:45",
+   "Size":"6.11KB",
+   "More":"一款网页的数学工具箱请注意：spark-web-core尚不稳定，欢迎到主页应用反馈区报bug"
+}
+,
+{
+   "Name":"萌研社与熊论道",
+   "Version":"1.0.0",
+   "Filename":"bear-say_1.0.0_all.deb",
+   "Pkgname":"bear-say",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":" ",
+   "Update":"2020-08-15 20:17",
+   "Size":"94.68KB",
+   "More":"萌研社与熊论道。"
+}
+,
+{
+   "Name":"一只二维码",
+   "Version":"1.1",
+   "Filename":"top.yzzi.onecuter_1.1_amd64",
+   "Pkgname":"top.yzzi.onecuter",
+   "Author":"一只科技菌",
+   "Contributor":"一只科技菌",
+   "Website":"https://blog.yzzi.top",
+   "Update":"2020-08-08 11:00",
+   "Size":"282.28KB",
+   "More":"一个可爱风格的二维码生成器"
+}
+,
+{
+   "Name":"Windows 95",
+   "Version":"2.2.1",
+   "Filename":"windows95-linux-2.2.1_amd64.deb",
+   "Pkgname":"windows95",
+   "Author":"felixrieseberg",
+   "Contributor":"Anysets",
+   "Website":"https://github.com/felixrieseberg/windows95",
+   "Update":"2020-08-03 15:57",
+   "Size":"224.88MB",
+   "More":"基于 Electron 运行的 Windows 95 操作系统。支持 macOS，Linux 以及 Windows 平台。"
+}
+,
+{
+   "Name":"R-Linux数据恢复",
+   "Version":"5.6.175721",
+   "Filename":"RLinux5_i386.deb",
+   "Pkgname":"rlinux",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.r-tt.com/",
+   "Update":"2020-07-09 17:31",
+   "Size":"59.15MB",
+   "More":"R-Linux是Linux中使用的Ext2 / Ext3 / Ext4 FS文件系统的免费文件恢复实用程序。 R-Linux使用InteligentScan技术，并通过灵活的参数设置为Linux平台提供最快、最可靠的文件恢复。"
+}
+,
+{
+   "Name":"QtScrcpy",
+   "Version":"1.3.1",
+   "Filename":"qtscrcpy_1_3_1_deepinv20_beta_x64.deb",
+   "Pkgname":"qtscrcpy",
+   "Author":"Barry",
+   "Contributor":"anima",
+   "Website":"https://gitee.com/Barryda/QtScrcpy",
+   "Update":"2020-06-25 18:02",
+   "Size":"24.53MB",
+   "More":"Android实时投屏软件，此应用程序提供USB(或通过TCP/IP)连接的Android设备的显示和控制。它不需要任何root访问权限。"
+}
+,
+{
+   "Name":"Moneydance",
+   "Version":"2019",
+   "Filename":"moneydance_linux_amd64.deb",
+   "Pkgname":"moneydance",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"http://moneydance.com/",
+   "Update":"2020-07-28 14:31",
+   "Size":"117.41MB",
+   "More":"Moneydance是一款易于使用的个人理财软件，具有所需的所有功能：在线银行和账单支付，帐户管理，预算和投资跟踪。Moneydance可以轻松处理多种货币以及几乎任何财务任务。"
+}
+,
+{
+   "Name":"Macintosh System 8",
+   "Version":"1.0.5",
+   "Filename":"macintosh.js_1.0.5_amd64.deb",
+   "Pkgname":"macintosh.js",
+   "Author":"felixrieseberg",
+   "Contributor":"Anysets",
+   "Website":"https://github.com/felixrieseberg/macintosh.js",
+   "Update":"2020-08-03 16:05",
+   "Size":"187.78MB",
+   "More":"基于 Electron 运行的虚拟苹果 Macintosh 计算机，搭载第 8 版操作系统。"
+}
+,
+{
+   "Name":"Cryptomator",
+   "Version":"1.5.5",
+   "Filename":"cryptomator-1.5.5_amd64.deb",
+   "Pkgname":"cryptomator",
+   "Author":" ",
+   "Contributor":"qygw",
+   "Website":" ",
+   "Update":"2020-06-25 18:03",
+   "Size":"50.52MB",
+   "More":"一个实用友好的加密文件管理器，基于qt5"
+}
+,
+{
+   "Name":"ppet",
+   "Version":"1.2.1+1",
+   "FileName":"ppet_1.2.1+1_amd64.deb",
+   "Pkgname":"ppet",
+   "Author":"zenghongtu",
+   "Contributor":"乾一巽五",
+   "Website":"https://github.com/zenghongtu/PPet",
+   "Update":"2020.07.30 14:55",
+   "Size":"50.8MB",
+   "More":"在你桌面上放个看板娘！可调戏的哟！"
+}
+,
+{
+   "Name":"CrossOver for deepin",
+   "Version":"17.1.0-1",
+   "Filename":"crossover-deepin_17.1.0-1_i386.deb",
+   "Pkgname":"crossover-deepin",
+   "Author":"codeweavers & Linux Deepin",
+   "Contributor":"chaodn",
+   "Website":" ",
+   "Update":"2020-06-29 17:11",
+   "Size":"151.95MB",
+   "More":"CrossOver deepin定制版，通过蹲守apt archieves获取得到安装包。请注意：不保证在非deepin发行版的使用效果"
+}
+,
+{
+   "Name":"G语翻译器",
+   "Version":"1.0.0",
+   "Filename":"gaster-translator_1.0.0_all.deb",
+   "Pkgname":"gaster-translator",
+   "Author":" ",
+   "Contributor":"shenmo",
+   "Website":"http://www.shenmo.tech:420/",
+   "Update":"2020-08-15 13:30",
+   "Size":"308.01KB",
+   "More":"UT玩家的福利"
+}
+,
+{
+   "Name":"utools",
+   "Version":"1.2.0",
+   "Filename":"utools_1.2.0_amd64.deb",
+   "Pkgname":"utools",
+   "Author":"utools",
+   "Contributor":"jerrywang",
+   "Website":"https://u.tools/",
+   "Update":"2020-08-08 16:02",
+   "Size":"51.98MB",
+   "More":"高度定制化的工具合集"
+}
+]

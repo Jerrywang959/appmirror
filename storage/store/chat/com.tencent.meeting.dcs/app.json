@@ -1,0 +1,12 @@
+{
+   "Name":"腾讯会议（wine）",
+   "Version":"1.7.6.413",
+   "Filename":"com.tencent.meeting.dcs_1.7.6.413_i386.deb",
+   "Pkgname":"com.tencent.meeting.dcs",
+   "Author":"Tencent",
+   "Contributor":"zty199",
+   "Website":"https://meeting.tencent.com/",
+   "Update":"2020-07-30 23:59",
+   "Size":"83.99MB",
+   "More":"Tencent WeMeet Client on Deepin Wine 5.\n使用 deepin-wine5 重新打包，使用了官方的 Deepin-QQ 容器，调整 Windows 版本为 Windows 7，测试中功能基本正常，但是摄像头可以打开，显示黑屏，原因未知。\n感谢官方开发 deepin-wine5，以及 gorquan 大佬修改过的启动脚本。仅供尝鲜使用。"
+}

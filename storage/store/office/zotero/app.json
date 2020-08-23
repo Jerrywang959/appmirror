@@ -1,0 +1,12 @@
+{
+   "Name":"Zotero文献管理器",
+   "Version":"5.0.88",
+   "Filename":"zotero_5.0.88_amd64.deb",
+   "Pkgname":"zotero",
+   "Author":"retorquere",
+   "Contributor":"jerrywang",
+   "Website":"https://github.com/retorquere/zotero-deb",
+   "Update":"2020-07-07 08:42",
+   "Size":"60.18MB",
+   "More":"开源文献管理器. 官网: https://www.zotero.org/. 本软件是github大佬retorquere打包的"
+}

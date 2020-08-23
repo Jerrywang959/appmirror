@@ -1,0 +1,12 @@
+{
+   "Name":"微信（wine）",
+   "Version":"2.9.5.56",
+   "Filename":"com.qq.weixin.dcs_2.9.5.56_i386.deb",
+   "Pkgname":"com.qq.weixin.dcs",
+   "Author":"Tencent",
+   "Contributor":"zty199",
+   "Website":"https://weixin.qq.com/",
+   "Update":"2020-07-30 23:01",
+   "Size":"118.73MB",
+   "More":"Tencent WeChat Client on Deepin Wine 5.\n使用 deepin-wine5 重新打包，使用了官方的容器，调整 Windows 版本为 Windows 7，可以看到小程序面板，但是测试中打不开小程序，原因未知。根据论坛坛友描述，修复了 deepin-wine 2.18 安装高于 2.7版本微信时大图片和文件无法传输的问题。\n感谢官方开发 deepin-wine5 ，以及 gorquan 大佬修改过的启动脚本。仅供尝鲜使用。"
+}

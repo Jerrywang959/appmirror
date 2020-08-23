@@ -1,0 +1,12 @@
+{
+   "Name":"TXT转Epub电子书 TmdTextEpub",
+   "Version":"1.1.9",
+   "Filename":"TmdTextEpub_1.1.9_all.deb",
+   "Pkgname":"tmdtextepub",
+   "Author":"ystyle",
+   "Contributor":"jalawov",
+   "Website":"https://github.com/ystyle/TmdTextEpub",
+   "Update":"2020-07-07 17:27",
+   "Size":"2.16MB",
+   "More":"能把txt转化为epub的命令行小工具，使用方法：终端输入tmdtextepub"
+}

@@ -1,0 +1,12 @@
+{
+   "Name":"钉钉（wine）",
+   "Version":"5.1.15.24",
+   "Filename":"com.dingtalk.dcs_5.1.15.24_i386.deb",
+   "Pkgname":"com.dingtalk.dcs",
+   "Author":"钉钉（中国）信息技术有限公司",
+   "Contributor":"zty199",
+   "Website":"https://dingtalk.com/",
+   "Update":"2020-08-18 12:20",
+   "Size":"225.20MB",
+   "More":"DingTalk Client on Deepin WIne 5.\n使用 deepin-wine5 进行打包，使用了官方的 Deepin-QQ 容器，并调整 Windows版本 为 Windows 7。感谢 gorquan 大佬修改的启动脚本。测试中功能基本正常，没有出现图标无法显示或者窗口阴影问题，托盘退出后可以正常再次启动。已知摄像头无法打开，可能还存在其他问题。仅供尝鲜试用，建议优先使用原生 Linux 版。"
+}

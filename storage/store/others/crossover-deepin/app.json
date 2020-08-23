@@ -1,0 +1,12 @@
+{
+   "Name":"CrossOver for deepin",
+   "Version":"17.1.0-1",
+   "Filename":"crossover-deepin_17.1.0-1_i386.deb",
+   "Pkgname":"crossover-deepin",
+   "Author":"codeweavers & Linux Deepin",
+   "Contributor":"chaodn",
+   "Website":" ",
+   "Update":"2020-06-29 17:11",
+   "Size":"151.95MB",
+   "More":"CrossOver deepin定制版，通过蹲守apt archieves获取得到安装包。请注意：不保证在非deepin发行版的使用效果"
+}

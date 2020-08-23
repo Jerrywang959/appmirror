@@ -1,0 +1,12 @@
+{
+   "Name":"VEK游戏配置平台",
+   "Version":"1.0.0.2",
+   "Filename":"org.sea-group.raa_1.0.0.2_amd64.deb",
+   "Pkgname":"org.sea-group.raa",
+   "Author":"JackLee",
+   "Contributor":"Anysets",
+   "Website":"https://gitee.com/JackLee02/vekGame",
+   "Update":"2020-08-03 22:11",
+   "Size":"8.98MB",
+   "More":"VEK 主要用于 Linux 操作系统利用 Wine + dxvk 自动配置容器来运行 Windows 下的程序。\n主要特点有：操作简单，携带方便，容器配置高效。"
+}

@@ -1,0 +1,12 @@
+{
+   "Name":"Wine游戏助手",
+   "Version":"0.5.7.1",
+   "Filename":"net.winegame.client_0.5.7.1_amd64.deb",
+   "Pkgname":"net.winegame.client",
+   "Author":"老虎会游泳",
+   "Contributor":"Anysets",
+   "Website":"https://winegame.net",
+   "Update":"2020-07-27 15:41",
+   "Size":"1.67MB",
+   "More":"开源游戏平台，帮您在UOS/Linux系统中运行Windows游戏。（由于依赖问题，可能无法在deepinV15环境下安装）"
+}

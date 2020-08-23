@@ -1,0 +1,12 @@
+{
+   "Name":"blender",
+   "Version":"2.83.2",
+   "Filename":"blender-2.83.2-linux64.deb",
+   "Pkgname":"blender",
+   "Author":"Blender",
+   "Contributor":"Maicss",
+   "Website":"https://www.blender.org",
+   "Update":"2020年7月12日",
+   "Size":"131.5M",
+   "More":"Blender是一个免费的开源3D创作套件。它支持整个三维流水线建模、装配、动画、仿真、渲染、合成和运动跟踪、视频编辑和二维动画流水线。\n此包是在在官方提供的二进制包的基础上重新打包。"
+}

@@ -1,0 +1,12 @@
+{
+   "Name":"SMplayer",
+   "Version":"20.6.0+3.2",
+   "Filename":"smplayer_20.6.0_plus_3.2_amd64.deb",
+   "Pkgname":"smplayer",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.smplayer.info/",
+   "Update":"2020-08-16 22:45",
+   "Size":"3.30MB",
+   "More":"SMPlayer 是个适用于 Windows 和 Linux 的免费媒体播放器， 内置解码器，可以播放几乎所有格式的视频和音频文件，无需再安装任何外部解码器。 只要安装了 SMPlayer， 你就能够播放所有的格式，不用再费事查找安装解码包"
+}

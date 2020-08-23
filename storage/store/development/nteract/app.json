@@ -1,0 +1,12 @@
+{
+   "Name":"nteract",
+   "Version":"0.24.1",
+   "Filename":"nteract_0.24.1_amd64.1.deb",
+   "Pkgname":"nteract",
+   "Author":"nteract",
+   "Contributor":"jerrywang",
+   "Website":"https://nteract.io",
+   "Update":"2020-08-08 17:20",
+   "Size":"62.77MB",
+   "More":"Jupyter的桌面客户端, 数据科学必备. 此软件依赖于后端的jupyter服务"
+}

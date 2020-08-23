@@ -1,0 +1,12 @@
+{
+   "Name":"TIM（wine）",
+   "Version":"3.1.0.21789",
+   "Filename":"com.qq.tim.dcs_3.1.0.21789_i386.deb",
+   "Pkgname":"com.qq.tim.dcs",
+   "Author":"Tencent",
+   "Contributor":"zty199",
+   "Website":"https://tim.qq.com/",
+   "Update":"2020-08-09 17:01",
+   "Size":"148.24MB",
+   "More":"Tencent TIM Client on Deepin Wine 5.\n使用 deepin-wine5 重新打包，使用了官方的容器，升级安装。官方更新 deepin-wine5 后修复了启动缓慢和界面渲染不全的问题。\n仅供尝鲜使用。"
+}

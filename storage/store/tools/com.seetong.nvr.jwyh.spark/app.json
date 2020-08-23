@@ -1,0 +1,12 @@
+{
+   "Name":"Seetong",
+   "Version":"4.0spark0",
+   "Filename":"com.seetong.nvr.jwyh.spark_4.0spark0_all.deb",
+   "Pkgname":"com.seetong.nvr.jwyh.spark",
+   "Author":"深圳市天视通电子科技有限公司 ",
+   "Contributor":"jwyh",
+   "Website":"http://nvr.seetong.com/",
+   "Update":"2020-08-13 17:07",
+   "Size":"13.82MB",
+   "More":"基于deepin-wine5打包制作（已在依赖中添加deepin-wine5）。\nSeetong是所有Seetong云设备的远程监控客户端。 该APP主要功能包括：用户注册，快捷添加云设备，设备列表智能排序，实时图像预览、对讲、录像、截屏，画面分割，轮巡，横屏或竖屏显示，不同网络环境播放模式选择，告警推送，远程录像回放，本地相册和录像回放管理等。"
+}

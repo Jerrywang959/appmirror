@@ -1,0 +1,12 @@
+{
+   "Name":"Macintosh System 8",
+   "Version":"1.0.5",
+   "Filename":"macintosh.js_1.0.5_amd64.deb",
+   "Pkgname":"macintosh.js",
+   "Author":"felixrieseberg",
+   "Contributor":"Anysets",
+   "Website":"https://github.com/felixrieseberg/macintosh.js",
+   "Update":"2020-08-03 16:05",
+   "Size":"187.78MB",
+   "More":"基于 Electron 运行的虚拟苹果 Macintosh 计算机，搭载第 8 版操作系统。"
+}

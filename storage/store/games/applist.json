@@ -1,0 +1,456 @@
+[
+{
+   "Name":"mcpelauncher",
+   "Version":"1.0",
+   "Filename":"mcpelauncher-ui-qt_1.0_a2d_amd64.deb",
+   "Pkgname":"mcpelauncher-ui-qt",
+   "Author":" ",
+   "Contributor":"Anysets",
+   "Website":" ",
+   "Update":"2020-07-23 19:57",
+   "Size":"94.78MB",
+   "More":"A Minecraft: Bedrock Edition"
+}
+,
+{
+   "Name":"东方萃梦想",
+   "Version":"1",
+   "Filename":"com.immaterialandmissingpower.deepin_1_amd64.deb",
+   "Pkgname":"com.immaterialandmissingpower.deepin",
+   "Author":"zun",
+   "Contributor":"cht",
+   "Website":"https://thwiki.cc/",
+   "Update":"2020-06-24 20:12",
+   "Size":"598.3MB",
+   "More":"西瓜喝醉酒的故事"
+}
+,
+{
+   "Name":"osu!lazer汉化版",
+   "Version":"2020.717.0",
+   "Filename":"mfosu_2020.717.0_amd64.deb",
+   "Pkgname":"fydur-mfosu",
+   "Author":" ",
+   "Contributor":"fyljp",
+   "Website":"http://osu.ppy.sh/home",
+   "Update":"2020-07-19 20:43",
+   "Size":"112.73MB",
+   "More":"音游，值得一试"
+}
+,
+{
+   "Name":"东方地灵殿",
+   "Version":"1",
+   "Filename":"com.touhouchireiden.deepin_1_amd64.deb",
+   "Pkgname":"com.touhouchireiden.deepin",
+   "Author":"zun",
+   "Contributor":"传统",
+   "Website":"https://thwiki.cc/",
+   "Update":"2020-06-24 20:12",
+   "Size":"382.90MB",
+   "More":"温泉事变，神秘的地底宫殿，神秘又可怕的少女。。。。。"
+}
+,
+{
+   "Name":"3D平衡球",
+   "Version":"1.13",
+   "Filename":"com.atari.ballance.dcs_1.13_i386.deb",
+   "Pkgname":"com.atari.ballance.dcs",
+   "Author":" ",
+   "Contributor":"zty199",
+   "Website":"https://www.atari.com",
+   "Update":"2020-07-03 17:25",
+   "Size":"45.13MB",
+   "More":"经典游戏《Ballance》（非官方译名“平衡球”“3D平衡球”等），由德国的Atari（雅达利）公司旗下的开发商Cyparade于2004年4月2日在PC平台发布的一款单机滚球游戏。在游戏中，玩家要操纵一个可以改变自身材料种类（即物理性质）的球在高空或太空中搭建的庞大而复杂的迷宫建筑中穿梭，避开陷阱机关并破解一个个谜题，最终到达终点飞船以完成一个关卡。游戏提供了13个难度大致递增的关卡供玩家探索。此外，搭载了非常还原、真实的物理引擎使得球的操纵手感非常接近对现实生活中的认知，玩家也能够充分体验重力对平衡性的影响。"
+}
+,
+{
+   "Name":"祖玛豪华版（wine）",
+   "Version":"1.0.0.1spark0",
+   "Filename":"zuma-luxury.spark_1.0.0.1spark0_i386.deb",
+   "Pkgname":"zuma-luxury.spark",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":" ",
+   "Update":"2020-08-14 14:03",
+   "Size":"25.42MB",
+   "More":"本游戏是原版祖玛的豪华版，画面上与原作并无太大区别。本游戏能在当今多如牛毛的游戏中脱颖而出取决于它设计的几大优点：古老的界面，神秘的印加背景音乐，加上游戏的主人翁一只青蛙坐在其中，吐出各种颜色的珠子，石青蛙环绕着石青蛙的是载着彩球的轨道，彩球会沿着轨滚动。石青蛙吐出彩球进入轨道，轨道上颜色相同的彩球，数量达到三个以上就会消除得分。看似简单的游戏经过精心巧妙的设计后，让人玩起来趣味无穷。"
+}
+,
+{
+   "Name":"VEK游戏配置平台",
+   "Version":"1.0.0.2",
+   "Filename":"org.sea-group.raa_1.0.0.2_amd64.deb",
+   "Pkgname":"org.sea-group.raa",
+   "Author":"JackLee",
+   "Contributor":"Anysets",
+   "Website":"https://gitee.com/JackLee02/vekGame",
+   "Update":"2020-08-03 22:11",
+   "Size":"8.98MB",
+   "More":"VEK 主要用于 Linux 操作系统利用 Wine + dxvk 自动配置容器来运行 Windows 下的程序。\n主要特点有：操作简单，携带方便，容器配置高效。"
+}
+,
+{
+   "Name":"ons模拟器onscripter-jh",
+   "Version":"0.7.4-1",
+   "Filename":"onscripter-jh_0.7.4-1_amd64.deb",
+   "Pkgname":"onscripter-jh",
+   "Author":"jh10001",
+   "Contributor":"Baiyanglizhiyuan",
+   "Website":"https://bitbucket.org/jh10001/onscripter-jh",
+   "Update":"2020-07-24 12:51",
+   "Size":"200.81KB",
+   "More":"一个用于运行ons游戏的工具。在ons游戏目录右键打开终端，执行onscripter-jh即可打开游戏"
+}
+,
+{
+   "Name":"火炬之光",
+   "Version":"1.5",
+   "Filename":"torchlight_1.5_amd64.deb",
+   "Pkgname":"torchlight",
+   "Author":"Runic Games",
+   "Contributor":"sgb76",
+   "Website":" ",
+   "Update":"2020-08-01 14:32",
+   "Size":"440.24MB",
+   "More":"《火炬之光》（Torchlight）是一款以冒险为主题的单机游戏。在游戏中，冒险者将从火炬之光这个城镇出发，进入附近山区寻找能给他们的武器提供能量，但同时却也危及他们性命的魔法矿石。"
+}
+,
+{
+   "Name":"蒙特祖玛的宝藏2（wine）",
+   "Version":"1.0.0.1spark0",
+   "Filename":"treasures-of-montezuma2.spark_1.0.0.1spark0_i386.deb",
+   "Pkgname":"treasures-of-montezuma2.spark",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":" ",
+   "Update":"2020-08-14 14:45",
+   "Size":"72.71MB",
+   "More":"图腾和释放特殊权利，使用相同颜色标记，然后激活，并经历一系列的比赛。最后会有奖杯和宝石的奖励。游戏画面会带给玩家细腻与华丽的质感，整体游戏在前景与背景的制作方面下了一番功夫，丰富的游戏场景会使你目不暇接，刻画有不同花纹的彩石非常精致，消除效果具有绚丽的光影特效\n蒙特祖玛的宝藏2宝物全新匹配，有30多个关卡，更有趣更有挑战！"
+}
+,
+{
+   "Name":"纸境奇缘",
+   "Version":"1.4",
+   "Filename":"Epistory_1.4_amd64.deb",
+   "Pkgname":"epistory",
+   "Author":"Fishing Cactus",
+   "Contributor":"sgb76",
+   "Website":"http://www.fishingcactus.com/",
+   "Update":"2020-07-30 00:40",
+   "Size":"582.62MB",
+   "More":"《纸境奇缘》是一款意境优美的打字冒险游戏，讲述了一位缺乏灵感的作家，通过冥想的方式来撰写他的新书的故事。 在《纸境奇缘》中，你将扮演一位冥想者，在虚拟的未知世界中冒险。你的冒险从一张白纸上开始，但随着你不断获得灵感、击败敌人、解开谜题，世界也将变得更大、更鲜活。从探索到开箱到史诗般的战斗，本作中的一切游戏元素都由键盘来操控。 在折纸组成的奇幻世界中，故事随着作家的冥思来展开，蕴含魔法力量的神秘词汇随之显现。"
+}
+,
+{
+   "Name":"东方绯想天",
+   "Version":"1",
+   "Filename":"com.scarletweatherrhapsody.deepin_1_amd64.deb",
+   "Pkgname":"com.scarletweatherrhapsody.deepin",
+   "Author":"zun",
+   "Contributor":"cht",
+   "Website":"https://thwiki.cc/",
+   "Update":"2020-06-24 20:12",
+   "Size":"274.5MB",
+   "More":"天子把灵梦房子弄塌了被报复"
+}
+,
+{
+   "Name":"夏威夷纸牌（wine）",
+   "Version":"1.0.1.5spark0",
+   "Filename":"aloha-solitaire.spark_1.0.1.5spark0_i386.deb",
+   "Pkgname":"aloha-solitaire.spark",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":" ",
+   "Update":"2020-08-14 16:08",
+   "Size":"16.54MB",
+   "More":"《夏威夷纸牌》这是一款以夏威夷沙滩风情为主题的纸牌游戏。该作虽然是纸牌，但确是一个点击消除类游戏，两个相同数字的纸牌就可以消除，不分花色。所有纸牌全部消除就可以过关，系统会给一些底牌用于辅助消除。"
+}
+,
+{
+   "Name":"永远的伊苏ＩＩ",
+   "Version":"1.0-1",
+   "Filename":"com.falcom.ys2.deepin_1.0-1_i386.deb",
+   "Pkgname":"com.falcom.ys2.deepin",
+   "Author":"Falcom",
+   "Contributor":"gtjmaster",
+   "Website":"https://www.falcom.co.jp/",
+   "Update":"2020-07-26 19:58",
+   "Size":"172.27MB",
+   "More":"基于deepin-wine打包的，经典ＡＲＰＧ游戏——《永远的伊苏ＩＩ》。已知无法播放ＯＰ动画；无法播放ＢＧＭ。"
+}
+,
+{
+   "Name":"蚂蚁文托",
+   "Version":"1.0.3",
+   "Filename":"antventor_1.0.3_a2d_amd64.deb",
+   "Pkgname":"antventor",
+   "Author":"LoopyMood",
+   "Contributor":"sgb76",
+   "Website":" ",
+   "Update":"2020-08-09 19:03",
+   "Size":"372.77MB",
+   "More":"《蚂蚁文托》是LoopyMood制作发行的一款冒险解谜游戏。游戏的主角是一只发明家蚂蚁，他的个头虽小，但向往着一个伟大的梦想，玩家们需要操控他进行这段精彩的冒险，并且还要面对各种各样的挑战。"
+}
+,
+{
+   "Name":"仙剑奇侠传98柔情版(Linux)",
+   "Version":"98",
+   "Filename":"sdlpal_98_a2d.deb",
+   "Pkgname":"sdlpal",
+   "Author":" ",
+   "Contributor":"社区用户",
+   "Website":" ",
+   "Update":"2020-07-06 21:03",
+   "Size":"143.12MB",
+   "More":"开源的仙剑奇侠传98柔情版。"
+}
+,
+{
+   "Name":"sudoku",
+   "Version":"1.0.0",
+   "Filename":"sudoku_1.0.0_amd64.deb",
+   "Pkgname":"sudoku",
+   "Author":"colatea",
+   "Contributor":"anima",
+   "Website":"https://bbs.deepin.org/forum.php?mod=viewthread&tid=197116",
+   "Update":"2020-07-13 20:21",
+   "Size":"25.83MB",
+   "More":"数独游戏。"
+}
+,
+{
+   "Name":"缺氧",
+   "Version":"1.0",
+   "Filename":"OxygenNotIncluded_1.0_amd64.deb",
+   "Pkgname":"oxygennotincluded",
+   "Author":"Klei Entertainment",
+   "Contributor":"sgb76",
+   "Website":" ",
+   "Update":"2020-08-08 18:23",
+   "Size":"633.03MB",
+   "More":"《缺氧》是由开发过《饥荒》的Klei Entertainment所制作并发行的一款模拟游戏。其美术风格也与《饥荒》一脉相承，并同样采用了横版2D布局。这是一个太空殖民地模拟游戏，玩家需要管理你的居民，帮助他们挖掘、建立和维护一个地下的小行星基地。你需要水、食物、氧气、适当的调节压力和适宜的温度来维持他们活着并满足他们。"
+}
+,
+{
+   "Name":"Chiaki",
+   "Version":"1.2.1",
+   "Filename":"chiaki_1.2.1_a2d.deb",
+   "Pkgname":"chiaki",
+   "Author":"thestr4ng3r",
+   "Contributor":"zty199",
+   "Website":"https://github.com/thestr4ng3r/chiaki",
+   "Update":"2020-07-02 13:42",
+   "Size":"20.13MB",
+   "More":"Chiaki 是一款免费开源的 PS4 远程游戏客户端，兼容Linux，FreeBSD，OpenBSD，Android，macOS，Windows等多平台。"
+}
+,
+{
+   "Name":"植物大战僵尸-wine",
+   "Version":"1.0.0.1051",
+   "Filename":"plantsvszombies_deepin.deb",
+   "Pkgname":"plantsvszombies",
+   "Author":" ",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-26 08:38",
+   "Size":"28.10MB",
+   "More":"植物大战僵尸中文版"
+}
+,
+{
+   "Name":"饥荒",
+   "Version":"2018",
+   "Filename":"dontstarve_1.0_amd64.deb",
+   "Pkgname":"dontstarve",
+   "Author":"Klei Entertainment",
+   "Contributor":"sgb76",
+   "Website":"https://klei.com/games/dont-starve",
+   "Update":"2020-07-30 21:59",
+   "Size":"530.57MB",
+   "More":"饥荒（DontStarve）是KleiEntertainment制作发行的一款求生类游戏，游戏讲述了一位科学家被恶魔传送到了一个奇异的世界中，他在这里必须用自己的智慧在这一片荒野外生存下来。此游戏为中文汉化版，进入游戏后点击菜单mods，进入后选择chinese，然后保存退出，重启后即可。"
+}
+,
+{
+   "Name":"捣蛋猪",
+   "Version":"1.0.0",
+   "Filename":"com.rovio.badpiggies.dcs_1.0.0_i386.deb",
+   "Pkgname":"com.rovio.badpiggies.dcs",
+   "Author":" ",
+   "Contributor":"zty199",
+   "Website":"https://www.rovio.com",
+   "Update":"2020-07-03 17:15",
+   "Size":"34.39MB",
+   "More":"《捣蛋猪》是由《愤怒的小鸟》（Angry Birds）的开发商Rovio公司制作的一款益智游戏，于2012年9月27日正式发行。《捣蛋猪》通过飞行、爬行、滚动、旋转、撞击让小猪找到地图碎片、鸟蛋、蛋糕、钥匙等。《捣蛋猪》中的主角是雀斑猪，形象延续了《愤怒的小鸟》中的造型。但不同的是，《捣蛋猪》并不是将小猪砸向对手或建筑，而是玩家要通过载具来收集星星，完成关卡、沙盒的任务。"
+}
+,
+{
+   "Name":"星云模拟器（wine）",
+   "Version":"2.25b.0spark0",
+   "Filename":"com.emulatronia.nebula.spark_2.25b.0spark0_i386.deb",
+   "Pkgname":"com.emulatronia.nebula.spark",
+   "Author":"ElSemi",
+   "Contributor":"anima",
+   "Website":"http://nebula.emulatronia.com/",
+   "Update":"2020-08-17 15:20",
+   "Size":"7.63MB",
+   "More":"nebula模拟器是一款由EISemi所写的街机模拟器之一，nebula模拟器完美的支持三国战记、傲剑狂刀、大家来找碴、形意拳、西游记等国产PGM游戏！结构明晰运行稳定，界面简洁清爽功能强大全面占用体积小且专业。"
+}
+,
+{
+   "Name":"粘粘世界",
+   "Version":"1.5.2",
+   "Filename":"WorldOfGoo_1.5.2_amd64.deb",
+   "Pkgname":"worldofgoo",
+   "Author":"2D Boy",
+   "Contributor":"sgb76",
+   "Website":"https://2dboy.com/",
+   "Update":"2020-07-29 22:43",
+   "Size":"165.61MB",
+   "More":"《粘粘世界》（World of Goo）是一款由独立游戏开发者2D Boy制作并发行的物理学题材益智游戏。《粘粘世界》以凯勒·加布勒的概念游戏《Tower of Goo》为原型，主要玩法是利用粘性小球“粘粘球”（Goo）来构建建筑框架，协助尽量多的剩余粘粘球进入地图的管道内。"
+}
+,
+{
+    "Name":"魔兽争霸3冰封王座",
+    "Version":"1.24E+maicss2",
+    "Filename":"war3_1.24E.deb",
+    "Pkgname":"war3",
+    "Author":"暴雪",
+    "Contributor":"Maicss",
+    "Website":"http:.//www.shenmo.tech:420/",
+    "Update":"2020.06.25",
+    "Size":"759.8MB",
+    "More":"这是由暴雪公司开发的曾经风靡全球的竞技游戏，是如今很多moba类游戏的鼻祖。\n游戏通过wine技术运行在linux环境下，并加入了全屏补丁和启动器。"
+}
+,
+{
+   "Name":"美味星球2",
+   "Version":"1.0",
+   "Filename":"com.tastyplanet2.wine_1.0_amd64.deb",
+   "Pkgname":"com.tastyplanet2.wine",
+   "Author":"阿健",
+   "Contributor":"阿健",
+   "Website":"https://bbs.deepin.org/forum.php?mod=viewthread&tid=195972",
+   "Update":"2020-06-28 21:49",
+   "Size":"19.21MB",
+   "More":"在《美味星球2》中，我们将继续控制灰色粘球去吃比它小的东西，吃的越多会变得越大！不久就能吃下整个地球！本篇的故事开始于粘球吃下了一台时间机器，导致它被送回到六个不同时期，从现代开始，到白垩纪晚期，古埃及和古罗马，日本封建时代，以及遥远的未来世界。"
+}
+,
+{
+   "Name":"红色警戒",
+   "Version":"20200517",
+   "Filename":"RedAlertSimplifiedChinese-rasc_20200517-x86_64.deb",
+   "Pkgname":"openra-mods-rasc",
+   "Author":"OpenRA作战司令部",
+   "Contributor":"奇点法则",
+   "Website":"Q群：742982428",
+   "Update":"2020-07-26 01:00",
+   "Size":"41.63MB",
+   "More":"开源红警，国外制作的，OpenRA作战司令部属于汉化团队，奇点法则是搬运工"
+}
+,
+{
+   "Name":"Steam",
+   "Version":"latest",
+   "Filename":"steam_latest.deb",
+   "Pkgname":"steam-launcher",
+   "Author":"Valve",
+   "Contributor":"Maicss",
+   "Website":"https://store.steampowered.com",
+   "Update":"2020年6月27日",
+   "Size":"2.8M",
+   "More":"Steam平台是目前全球最大的综合性数字发行平台之一。玩家可以在该平台购买、下载、讨论、上传和分享游戏和软件。"
+}
+,
+{
+   "Name":"反恐精英",
+   "Version":"1.6",
+   "Filename":"cstrike_1.6_amd64.deb",
+   "Pkgname":"cstrike",
+   "Author":" ",
+   "Contributor":"Anysets",
+   "Website":" ",
+   "Update":"2020-07-27 13:51",
+   "Size":"583.96MB",
+   "More":"一款经典的FPS游戏"
+}
+,
+{
+   "Name":"永不孤单",
+   "Version":"1.8",
+   "Filename":"neveralone_1.8_amd64.deb",
+   "Pkgname":"neveralone",
+   "Author":"Upper One Games",
+   "Contributor":"sgb76",
+   "Website":" ",
+   "Update":"2020-08-03 14:49",
+   "Size":"3.51GB",
+   "More":"《永不孤单》（《Never Alone》）是由Upper One Games工作室制作的一款横版冒险解谜游戏。游戏根据一个阿拉斯加的民间传说，讲诉了一个小女孩和她的狐狸同伴，为探索暴风雪的起源，踏上了征程，从而发生了一系列故事。游戏已汉化，进入设置菜单设置为中文即可"
+}
+,
+{
+   "Name":"愤怒的小鸟",
+   "Version":"3.0.0",
+   "Filename":"com.rovio.angrybirds.dcs_3.0.0_i386.deb",
+   "Pkgname":"com.rovio.angrybirds.dcs",
+   "Author":" ",
+   "Contributor":"HadesStudio",
+   "Website":"https://www.rovio.com",
+   "Update":"2020-07-03 17:04",
+   "Size":"54.83MB",
+   "More":"《愤怒的小鸟》是由Rovio开发的一款休闲益智类游戏，游戏以小鸟报复偷走鸟蛋的肥猪为背景，讲述了小鸟与肥猪的一系列故事。"
+}
+,
+{
+   "Name":"死亡细胞",
+   "Version":"1.2.10+1",
+   "Filename":"net.siwang.xibao_1.2.10_plus_1_amd64.deb",
+   "Pkgname":"net.siwang.xibao",
+   "Author":"Motion Twin",
+   "Contributor":"chaodn",
+   "Website":"https://motion-twin.com/",
+   "Update":"2020-07-16 09:12",
+   "Size":"514.19MB",
+   "More":"《死亡细胞》，是由来自法国的开发商Motion Twin制作的一款类银河恶魔城风格的（Metroidvania）独立游戏。本作在Metroidvania的基础上融合了roguelike 。在PS4和任天堂Switch平台推出《死亡细胞（Dead Cells）》实体版本，实体版和PC正式版本都在18年8月18日推出。\n\n更新日志（20200716）\n1.修改为正确的图标。\n2.修复不能卸载的问题。"
+}
+,
+{
+   "Name":"Wine游戏助手",
+   "Version":"0.5.7.1",
+   "Filename":"net.winegame.client_0.5.7.1_amd64.deb",
+   "Pkgname":"net.winegame.client",
+   "Author":"老虎会游泳",
+   "Contributor":"Anysets",
+   "Website":"https://winegame.net",
+   "Update":"2020-07-27 15:41",
+   "Size":"1.67MB",
+   "More":"开源游戏平台，帮您在UOS/Linux系统中运行Windows游戏。（由于依赖问题，可能无法在deepinV15环境下安装）"
+}
+,
+{
+   "Name":"GettingOverIt",
+   "Version":"1.5861",
+   "Filename":"GettingOverIt_1.5861_a2d_amd64.deb",
+   "Pkgname":"gettingoverit",
+   "Author":"Bennett Foddy",
+   "Contributor":"sgb76",
+   "Website":" ",
+   "Update":"2020-08-13 11:43",
+   "Size":"542.39MB",
+   "More":"《Getting Over It》是一款休闲游戏，由Bennett Foddy制作推出。在游戏中，你将扮演一个猫在大锅里的裸男，手拿一个锤子，而你的目标则是登上前方的高山。"
+}
+,
+{
+   "Name":"辐射小马国：废土-wine",
+   "Version":"1.0.1",
+   "Filename":"fallout.equestria.remains_1.0.1_amd64.deb",
+   "Pkgname":"fallout.equestria.remains",
+   "Author":"Empalu",
+   "Contributor":"ShadowDumb",
+   "Website":"http://foe.ucoz.org/main_en.html",
+   "Update":"2020-07-26 13:32",
+   "Size":"295.69MB",
+   "More":"战争！战争从未改变！\n很久很久以前，在小马国这片神奇的土地上……\n一个将友谊理念让位于妒忌、自私、贪婪与残忍的时代来临了。在那次国与国之间，以自然资源为开端的大战中，没有任何的赢家。由小马蹄下击打而出的魔法迅速爆发失控，整个世界都被烈焰所吞噬。龙火与黑魔法结合而成的毁灭性武器，几乎抹除掉了这个星球上的所有生命。土壤，水源和空气都被辐射污染，城市毁灭，文明崩溃。无论是小马，还是他们的敌军都被从地表上抹除掉了。疯狂的先知所预言的审判日，几乎没有任何小马相信，直到那个命运注定的日子降临……\n但这并不是结局，仍然有很多小马幸免于难，一些躲在巨大的地下避难厩中，另一些不知何故适应了新的环境。那个审判日只不过是小马历史上另一个血腥篇章的序曲。在满目疮痍，毒素滋生的废土，暴力和残忍已是家常便饭，更是一种生存下去的方式……\n在曾经的小马国的那个末日之后，二百多年过去了……\n\n这是一款rougelike的横版射击游戏，游戏中包含有数十种武器、装备和技能，以及上百个随机关卡，当然敌人的种类也很多。小心，敌人也会布置陷进！\n游戏依赖于64位wine。游戏支持多种语言，包括中文。\n\n1.0.1更新：\n一些BUG修复，增加日语和西班牙语。"
+}
+]

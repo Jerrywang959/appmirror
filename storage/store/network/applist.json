@@ -1,0 +1,417 @@
+[
+{
+   "Name":"Teamviewer",
+   "Version":"15.8.3",
+   "Filename":"teamviewer_15.8.3_amd64.deb",
+   "Pkgname":"teamviewer",
+   "Author":"teamviewer",
+   "Contributor":"Anysets",
+   "Website":"www.teamviewer.com",
+   "Update":"2020-08-04 19:27",
+   "Size":"13.75MB",
+   "More":"跨平台的远程协助软件"
+}
+,
+{
+   "Name":"Cisco Packet Tracer",
+   "Version":"7.2.0",
+   "Filename":"PacketTracer_7.2.0_amd64.deb",
+   "Pkgname":"packettracer",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://www.netacad.com/virtual/app/introduction-packet-tracer",
+   "Update":"2020-06-30 22:32",
+   "Size":"217.57MB",
+   "More":"Cisco Packet Tracer 是由Cisco公司发布的一个辅助学习工具，为学习CCNA课程的网络初学者去设计、配置、排除网络故障提供了网络模拟环境。学生可在软件的图形用户界面上直接使用拖曳方法建立网络拓扑，软件中实现的IOS子集允许学生配置设备；并可提供数据包在网络中行进的详细处理过程，观察网络实时运行情况。"
+}
+,
+{
+   "Name":"云日历",
+   "Version":"1.0.2",
+   "Filename":"mytime_linux_1.02_amd64.deb",
+   "Pkgname":"mytime",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://mytime.ruanmei.com/",
+   "Update":"2020-06-25 18:06",
+   "Size":"52.42MB",
+   "More":"使用云日历管理日程、记录生活、订阅精彩，还有各种小工具使您的生活更便捷。"
+}
+,
+{
+   "Name":"天翼云盘（wine）",
+   "Version":"6.3.0spark0",
+   "Filename":"cn.189.cloud.spark_6.3.0spark0_i386.deb",
+   "Pkgname":"cn.189.cloud.spark",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://cloud.189.cn/",
+   "Update":"2020-08-12 22:42",
+   "Size":"37.78MB",
+   "More":"文件云端存储    从此抛弃U盘\n文件自动同步    便捷上传下载"
+}
+,
+{
+   "Name":"360安全浏览器",
+   "Version":"12.2.1070.0-1",
+   "Filename":"browser360-cn-stable_12.2.1070.0-1_amd64.deb",
+   "Pkgname":"browser360-cn-stable",
+   "Author":"360互联网安全中心",
+   "Contributor":"https://browser.360.cn/",
+   "Website":"https://browser.360.cn/",
+   "Update":"2020-08-14 22:51",
+   "Size":"61.05MB",
+   "More":"　　全新12.0版本360安全浏览器已升级至Chromium78内核，支持HTTP/2 标准和 JavaScript ES6标准，新标准做了很多底层架构的改革和创新, 极大的改善用户的网络访问速度。同时结合360庞大的安全数据库，为用户提供9层保护，全面保障上网安全。皮肤、跨屏浏览等功能升级，带来全新上网体验。\n\n·升级内核至Chromium 78 内核，支持HTTP/2 标准和 JavaScript ES6标准，速度更快更稳定。\n\n·全新炫酷皮肤，带来不一样的上网体验。\n·收藏夹支持一键搜索文件夹，快速方便查找。\n·新增“阅读模式”，给您更优质的阅读体验。\n·新增“挖矿防护功能”，安全守护您的上网环境。"
+}
+,
+{
+   "Name":"迅雷11（wine）",
+   "Version":"11.0.2.52spark0",
+   "Filename":"com.xunlei.spark_11.0.2.52spark0_i386.deb",
+   "Pkgname":"com.xunlei.spark",
+   "Author":" ",
+   "Contributor":"lenke(主), anima(副)",
+   "Website":"https://www.xunlei.com/",
+   "Update":"2020-08-10 10:07",
+   "Size":"259.70MB",
+   "More":"精彩，一下就有\n云盘，实力存储"
+}
+,
+{
+   "Name":"和彩云网盘（wine）",
+   "Version":"5.1.1spark0",
+   "Filename":"com.139.c.spark_5.1.1spark0_i386.deb",
+   "Pkgname":"com.139.c.spark",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://c.139.com/",
+   "Update":"2020-08-08 17:24",
+   "Size":"79.31MB",
+   "More":"上传下载不限速    定格时光不等待\n安全智能云存储    数字资产云安家"
+}
+,
+{
+   "Name":"锐捷校园网认证工具",
+   "Version":"2.4",
+   "Filename":"rj-aux_linux_v2.4-beta5_amd64.deb",
+   "Pkgname":"rj-aux",
+   "Author":" ",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-07-07 18:31",
+   "Size":"1.92MB",
+   "More":"快速进入锐捷校园网～"
+}
+,
+{
+   "Name":"腾讯微云（wine）",
+   "Version":"3.9.0spark0",
+   "Filename":"com.weiyun.spark_3.9.0spark0_i386.deb",
+   "Pkgname":"com.weiyun.spark",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://www.weiyun.com/",
+   "Update":"2020-08-09 12:09",
+   "Size":"67.55MB",
+   "More":"文件管理更便捷\n上传下载更稳定"
+}
+,
+{
+   "Name":"UOS浏览器",
+   "Version":"5.0.1001.13",
+   "Filename":"uosbrowser-cn-stable_5.0.1001.13_amd64.deb",
+   "Pkgname":"uosbrowser-cn-stable",
+   "Author":"UOS统信系统",
+   "Contributor":"奇点法则",
+   "Website":"QQ群：226570931",
+   "Update":"2020-08-15 11:38",
+   "Size":"55.57MB",
+   "More":"uos统信桌面系统官方浏览器提取版，使用deepin依赖打包，仅供体验"
+}
+,
+{
+   "Name":"NeatDownloadManager（wine）",
+   "Version":"1.2.10spark0",
+   "Filename":"com.neatdownloadmanager.spark_1.2.10spark0_i386.deb",
+   "Pkgname":"com.neatdownloadmanager.spark",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"http://www.neatdownloadmanager.com/",
+   "Update":"2020-08-08 11:58",
+   "Size":"11.27MB",
+   "More":"NeatDownloadManager on Deepin Wine。"
+}
+,
+{
+   "Name":"蜗牛下载器",
+   "Version":"1.4.0+sm",
+   "Filename":"snail-sm_1.0_amd64.deb",
+   "Pkgname":"snail",
+   "Author":" ",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-07-07 18:44",
+   "Size":"59.10MB",
+   "More":"Java下载器一个～"
+}
+,
+{
+   "Name":"冰点文库（wine）",
+   "Version":"3.2.13spark0",
+   "Filename":"com.bingdian001.spark_3.2.13spark0_i386.deb",
+   "Pkgname":"com.bingdian001.spark",
+   "Author":"等雪的鱼",
+   "Contributor":"anima",
+   "Website":"http://www.bingdian001.com/",
+   "Update":"2020-08-08 11:20",
+   "Size":"14.48MB",
+   "More":"冰点文库下载器，下载文档利刃当之首选！无需积分也无需登录就可以自由下载百度和豆丁文库，它支持百度、豆丁、丁香、畅享、MBALib、HP009、MAX、Book118、金字塔医学、大桔灯等文库文档，支持多个任务同时下载和断点续传下载，下载的文档与原始文档质量等同，最终生成高清晰度的PDF格式文档。"
+}
+,
+{
+   "Name":"迅雷S",
+   "Version":"20200711.s3",
+   "Filename":"deepin-wine-thunders_20200711.s3_i386.deb",
+   "Pkgname":"deepin-wine-thunders",
+   "Author":" ",
+   "Contributor":"lenke",
+   "Website":" ",
+   "Update":"2020-07-22 16:27",
+   "Size":"17.11MB",
+   "More":"迅雷融合版请注意：该包由社区投递，未经过星火测试，不保证能够正常运行"
+}
+,
+{
+   "Name":"Station浏览器",
+   "Version":"1.65.0",
+   "Filename":"station_1.65.0_amd64.deb",
+   "Pkgname":"station",
+   "Author":"Station",
+   "Contributor":"jerrywang",
+   "Website":"https://getstation.com/",
+   "Update":"2020-07-10 12:23",
+   "Size":"237.77MB",
+   "More":"Station is the first smart browser for busy people. A single place for all of your web applications."
+}
+,
+{
+   "Name":"火狐浏览器",
+   "Version":"78.0.2",
+   "Filename":"firefox-zh_78.0.1_amd64.deb",
+   "Pkgname":"firefox-zh",
+   "Author":"Mozilla基金会",
+   "Contributor":"Maicss",
+   "Website":"https://www.firefox.com.cn",
+   "Update":"2020年7月12日",
+   "Size":"55.4M",
+   "More":"火狐是一个自由及开放源代码的网页浏览器。"
+}
+,
+{
+   "Name":"百度网盘linux官网版",
+   "Version":"3.3.2",
+   "Filename":"baidunetdisk_3.3.2_amd64.deb",
+   "Pkgname":"baidunetdisk",
+   "Author":"百度",
+   "Contributor":"奇点法则",
+   "Website":"www.baidu.com",
+   "Update":"2020-08-13 17:30",
+   "Size":"105.94MB",
+   "More":"官网最新版百度网盘for  linux"
+}
+,
+{
+   "Name":"chrome浏览器",
+   "Version":"83.0.4103.116-1",
+   "Filename":"google-chrome-stable_current_amd64.deb",
+   "Pkgname":"google-chrome-stable",
+   "Author":"Google",
+   "Contributor":"Maicss",
+   "Website":"https://www.google.cn/intl/zh-CN/chrome/",
+   "Update":"2020年6月27日",
+   "Size":"68.6M",
+   "More":"全球范围内最受欢迎的浏览器之一，得益于内置的 Google 智能工具，Chrome 现在更易用、更安全、更快速。"
+}
+,
+{
+   "Name":"坚果云",
+   "Version":"5.0.1",
+   "Filename":"nautilus_nutstore_5.0.1_amd64.deb",
+   "Pkgname":"nautilus-nutstore-public",
+   "Author":"上海亦存网络科技有限公司",
+   "Contributor":"Maicss",
+   "Website":"https://www.jianguoyun.com",
+   "Update":"2020年8月9日",
+   "Size":"30.1M",
+   "More":"任何设备，随时随地实现文件共享。\n官方坚果云无法直接在V20中安装并正常使用，此版本为修复问题后重新打包版本，经测试一切正常。"
+}
+,
+{
+   "Name":"Tixati",
+   "Version":"2.74-1",
+   "Filename":"tixati_2.74-1_amd64.deb",
+   "Pkgname":"tixati",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.tixati.com/discover/",
+   "Update":"2020-07-26 15:52",
+   "Size":"10.14MB",
+   "More":"Tixati是一个点对点文件共享程序，使用流行的BitTorrent协议。该协议允许多个节点组成一个协作群，并且可以高效地下载非常大的文件。"
+}
+,
+{
+   "Name":"OneDrive for Linux 命令行版",
+   "Version":"2.4.3",
+   "Filename":"onedrive_2.4.3_all.deb",
+   "Pkgname":"onedrive",
+   "Author":"abraunegg",
+   "Contributor":"jalawov",
+   "Website":"https://github.com/abraunegg/onedrive",
+   "Update":"2020-07-07 17:58",
+   "Size":"4.54MB",
+   "More":"onedrive 的命令行客户端 支持business版和office365版，支持世纪互联（zg特色）版"
+}
+,
+{
+   "Name":"FileZilla",
+   "Version":"3.49.1",
+   "Filename":"filezilla-spark_3.49.1_amd64.deb",
+   "Pkgname":"filezilla-spark",
+   "Author":"filezilla",
+   "Contributor":"Anysets",
+   "Website":"https://www.filezilla.cn/",
+   "Update":"2020-08-04 20:02",
+   "Size":"7.30MB",
+   "More":"FileZilla是一个免费开源的FTP软件"
+}
+,
+{
+   "Name":"邮件客户端",
+   "Version":"5.1.0.16-1",
+   "Filename":"deepin-mail_5.1.0.16-1_amd64.deb",
+   "Pkgname":"deepin-mail",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":" ",
+   "Update":"2020-08-15 20:10",
+   "Size":"1.58MB",
+   "More":"简单好用的邮件客户端。"
+}
+,
+{
+   "Name":"交易侠",
+   "Version":"3.0.0",
+   "Filename":"TraderMaster_deepin_20_beta.deb",
+   "Pkgname":"tradermaster",
+   "Author":" ",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-28 22:15",
+   "Size":"75.11MB",
+   "More":"交易侠是国内第一个支持Linux的交易客户端"
+}
+,
+{
+   "Name":"酸酸乳",
+   "Version":"0.3.0-alpha.6",
+   "Filename":"科学上网_electron-ssr_0.3.0-alpha.6_amd64.deb",
+   "Pkgname":"electron-ssr",
+   "Author":"不详",
+   "Contributor":"奇点法则",
+   "Website":"不详",
+   "Update":"2020-08-14 16:33",
+   "Size":"45.07MB",
+   "More":"酸酸乳，小飞机，你懂的"
+}
+,
+{
+   "Name":"Firefox国际版",
+   "Version":"79.0",
+   "Filename":"firefox_79.0_amd64.deb",
+   "Pkgname":"firefox",
+   "Author":"Mozilla",
+   "Contributor":"Anysets",
+   "Website":"https://www.mozilla.org/en-US/firefox",
+   "Update":"2020-08-15 20:53",
+   "Size":"55.35MB",
+   "More":"Firefox是一个自由和开放源代码的网页浏览器"
+}
+,
+{
+   "Name":"向日葵X",
+   "Version":"10.0.2.24779",
+   "Filename":"com.oray.sunlogin.client_10.0.2.24779_amd64.deb",
+   "Pkgname":"com.oray.sunlogin.client",
+   "Author":"贝锐科技",
+   "Contributor":"Maicss",
+   "Website":"https://sunlogin.oray.com/",
+   "Update":"2020年6月27日",
+   "Size":"16M",
+   "More":"给您安全无忧、流畅无阻的稳定高效远控体验。"
+}
+,
+{
+   "Name":"微云同步助手",
+   "Version":"3.0.0spark0",
+   "Filename":"com.weiyunsync.spark_3.0.0spark0_i386.deb",
+   "Pkgname":"com.weiyunsync.spark",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://www.weiyun.com/",
+   "Update":"2020-08-09 12:51",
+   "Size":"45.83MB",
+   "More":"微云与电脑硬盘关联\n文件实时同步到云端"
+}
+,
+{
+   "Name":"Burpsuite",
+   "Version":"2020.5.1-0kali",
+   "Filename":"burpsuite.deb",
+   "Pkgname":"burpsuite",
+   "Author":"portswigger",
+   "Contributor":"Vlary",
+   "Website":"https://portswigger.net/burp",
+   "Update":"2020-07-08 21:27",
+   "Size":"337.20MB",
+   "More":"A platform for security testing of web applications.此版本是基于kali版本的重新打包。"
+}
+,
+{
+   "Name":"Qv2ray",
+   "Version":"2.6.1-1stable1+spark",
+   "Filename":"qv2ray_2.6.1-1stable1_plus_spark_amd64.deb",
+   "Pkgname":"qv2ray",
+   "Author":"The Qv2ray Authors",
+   "Contributor":"zty199",
+   "Website":"https://github.com/Qv2ray/Qv2ray",
+   "Update":"2020-07-16 03:20",
+   "Size":"1.62MB",
+   "More":"这是一款上网辅助工具，可以让你用更科学的方式进行网络访问。\nLinux/Windows/macOS 跨平台 V2ray/SSR/Trojan 客户端 | 使用 C++/Qt5 开发 | 可拓展插件式设计\nP.S.这是星火商店维护的最后一个版本，作者从这个版本开始为 Debian / Ubuntu 用户提供了独立的软件源进行更新，已经打包在里面，后面会自动更新的。还请大家记得去支持一下原作者。"
+}
+,
+{
+   "Name":"Motrix",
+   "Version":"1.5.15",
+   "Filename":"motrix_1.5.15_amd64.deb",
+   "Pkgname":"motrix",
+   "Author":"agalwood",
+   "Contributor":"shenmo",
+   "Website":"https://motrix.app",
+   "Update":"2020-07-01 02:15",
+   "Size":"56.34MB",
+   "More":"Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。"
+}
+,
+{
+   "Name":"XDM",
+   "Version":"7.2.11",
+   "Filename":"xtreme-download-manager_7.2.11_amd64.deb",
+   "Pkgname":"xtreme-download-manager",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://subhra74.github.io/xdm/",
+   "Update":"2020-08-17 19:08",
+   "Size":"50.46MB",
+   "More":"一款强大的下载加速器和视频下载器"
+}
+]

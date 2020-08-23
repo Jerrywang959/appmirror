@@ -1,0 +1,12 @@
+{
+   "Name":"PhotoGIMP",
+   "Version":"2.10.21",
+   "Filename":"photogimp_2.10.21_amd64.deb",
+   "Pkgname":"photogimp",
+   "Author":"sudo-give-me-coffee",
+   "Contributor":"zty199",
+   "Website":"https://github.com/sudo-give-me-coffee/PhotoGIMP",
+   "Update":"2020-06-25 23:19",
+   "Size":"138.41MB",
+   "More":"PhotoGIMP，是在GIMP基础上修改了界面布局，看起来更像PhotoShop的版本，原作者为来自Diolinux的Dionathan Simione。这个appimage版本基于他的flatpak版本补丁打包而来。"
+}

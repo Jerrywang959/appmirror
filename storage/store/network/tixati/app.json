@@ -1,0 +1,12 @@
+{
+   "Name":"Tixati",
+   "Version":"2.74-1",
+   "Filename":"tixati_2.74-1_amd64.deb",
+   "Pkgname":"tixati",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.tixati.com/discover/",
+   "Update":"2020-07-26 15:52",
+   "Size":"10.14MB",
+   "More":"Tixati是一个点对点文件共享程序，使用流行的BitTorrent协议。该协议允许多个节点组成一个协作群，并且可以高效地下载非常大的文件。"
+}

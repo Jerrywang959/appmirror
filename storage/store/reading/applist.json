@@ -1,0 +1,40 @@
+[
+{
+   "Name":"CopyTranslator",
+   "Version":"9.0.2",
+   "Filename":"copytranslator_9.0.2_amd64.deb",
+   "Pkgname":"copytranslator",
+   "Author":"Elliott Zheng",
+   "Contributor":"zty199",
+   "Website":"https://github.com/copytranslator/copytranslator#readme",
+   "Update":"2020-06-25 11:03",
+   "Size":"45.080MB",
+   "More":"这是一款外文辅助阅读翻译工具，支持复制翻译、拖拽翻译等翻译方式，无限接近划译的系统级开源实现。"
+}
+,
+{
+   "Name":"Redict",
+   "Version":"0.8.1",
+   "Filename":"redict-dtk5_0.8.1_amd64.deb",
+   "Pkgname":"redict-dtk5",
+   "Author":"rekols",
+   "Contributor":"shenmo",
+   "Website":"https://github.com/revenmartin/redict-dtk",
+   "Update":"2020-07-17 18:02",
+   "Size":"65.79KB",
+   "More":"一款 Deepin 平台下的词典，基于 Qt / DTK 开发，占用内存小，支持划词翻译，使用有道词典 API，内容版权归网易有道公司所有。\nP.S.此版本为DTK5版，ubuntu等其他发行版请通过终端执行 sudo apt install redict-dtk5-dtk2 安装dtk2版本。（dtk2版本其实很好看的）"
+}
+,
+{
+   "Name":"CuteTranslation",
+   "Version":"0.3.0+spark1",
+   "Filename":"cute-translation_0.3.0_plus_spark1_amd64.deb",
+   "Pkgname":"cute-translation",
+   "Author":"moriv4",
+   "Contributor":"moriv4",
+   "Website":"https://github.com/jiangzc/CuteTranslation/",
+   "Update":"2020-07-17 12:55",
+   "Size":"103.29KB",
+   "More":"CuteTranslation 是Linux系统上基于X11的一款取词翻译软件。帮助用户翻译多种语言的文字。支持取词翻译、截图翻译以及悬浮搜索框。"
+}
+]

@@ -1,0 +1,651 @@
+[
+{
+   "Name":"青竹",
+   "Version":"3.1.7",
+   "Filename":"qing-zhu_3.1.7_amd64.deb",
+   "Pkgname":"qing-zhu",
+   "Author":"济南达牛网络科技有限公司",
+   "Contributor":"sgb76",
+   "Website":"http://qingzhu.co/",
+   "Update":"2020-07-11 13:24",
+   "Size":"36.36MB",
+   "More":"青竹是一款集笔记文档、任务整理、在线作图于一体的记录工具。作为一款在线记录软件，青竹支持云端保存，及多人协作功能，让各种需要被记录的内容能集中化管理。使用青竹，用户可以快速记录笔记、Markdown、思维导图等，使记录集中化的呈现。"
+}
+,
+{
+   "Name":"Master Pdf编辑器",
+   "Version":"5.6.20",
+   "Filename":"master-pdf-editor-5.6.20-qt5.x86_64.deb",
+   "Pkgname":"master-pdf-editor",
+   "Author":"Code Industry",
+   "Contributor":"奇点法则（搬运）",
+   "Website":"https://code-industry.net/free-pdf-editor/#get",
+   "Update":"2020-07-21 12:35",
+   "Size":"10.54MB",
+   "More":"一个强大的PDF编辑器"
+}
+,
+{
+   "Name":"百度脑图",
+   "Version":"3.2.3",
+   "Filename":"com.baidu.naotu_3.2.3_amd64.deb",
+   "Pkgname":"com.baidu.naotu",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://naotu.baidu.com/",
+   "Update":"2020-07-14 12:43",
+   "Size":"37.19MB",
+   "More":"百度脑图是一款强大的思维导图编辑器。"
+}
+,
+{
+   "Name":"FoxitReader",
+   "Version":"2.4.4.0911",
+   "Filename":"foxitreader_2.4.4.0911_amd64.deb",
+   "Pkgname":"foxitreader",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.foxitsoftware.cn/",
+   "Update":"2020-08-10 04:23",
+   "Size":"73.59MB",
+   "More":"PDF阅读和打印可以如此简单"
+}
+,
+{
+   "Name":"haroopad",
+   "Version":"0.13.1",
+   "Filename":"haroopad-v0.13.1-x64.deb",
+   "Pkgname":"haroopad",
+   "Author":"haroopad",
+   "Contributor":"Maicss",
+   "Website":"http://pad.haroopress.com",
+   "Update":"2020年7月3日",
+   "Size":"29.1M",
+   "More":"The Markdown enabled Next Document Processor.\n新一代Markdown文档编辑工具。\n优化了打包，官网提供的版本可能无法安装。"
+}
+,
+{
+   "Name":"Marktext",
+   "Version":"0.16.2-3092",
+   "Filename":"marktext.deb",
+   "Pkgname":"marktext",
+   "Author":"marktext",
+   "Contributor":"jerrywang",
+   "Website":"https://github.com/marktext/marktext",
+   "Update":"2020-08-13 10:43",
+   "Size":"65.22MB",
+   "More":"一个简单而优雅的markdown编辑器, Typora的开源替代品. 中文界面快出了"
+}
+,
+{
+   "Name":"Xournal++",
+   "Version":"1.0.18~git20200415.1911",
+   "Filename":"xournalpp-1.0.18-Debian-buster-x86_64.deb",
+   "Pkgname":"xournalpp",
+   "Author":"Ulrich Huber & Bryan Tan",
+   "Contributor":"Andreas Butti",
+   "Website":"https://xournalpp.github.io/",
+   "Update":"2020-07-30 04:16",
+   "Size":"12.88MB",
+   "More":"Xournal++ is a hand note taking software written in C++ with the target of flexibility, functionality and speed."
+}
+,
+{
+   "Name":"Cmd Markdown",
+   "Version":"2017.01.14",
+   "Filename":"Cmd-Markdown_2017.01.14_amd64.deb",
+   "Pkgname":"cmd-markdown",
+   "Author":"作业部落@ghosert",
+   "Contributor":"sgb76",
+   "Website":"https://www.zybuluo.com/mdeditor",
+   "Update":"2020-07-19 18:39",
+   "Size":"25.90MB",
+   "More":"Cmd Markdown是一款漂亮简洁的Markdown写作软件。"
+}
+,
+{
+   "Name":"WizNoteLite",
+   "Version":"1.4.1",
+   "Filename":"wiznotelite_1.4.1_a2d_amd64.deb",
+   "Pkgname":"wiznotelite",
+   "Author":"WizNote",
+   "Contributor":"jerrywang",
+   "Website":"https://www.wiz.cn/",
+   "Update":"2020-08-08 11:49",
+   "Size":"107.75MB",
+   "More":"WizNote新版客户端WiznoteLite. "
+}
+,
+{
+   "Name":"Obsidian",
+   "Version":"0.8.0",
+   "Filename":"obsidian_0.8.0_a2d_amd64.deb",
+   "Pkgname":"obsidian",
+   "Author":" ",
+   "Contributor":"Anysets",
+   "Website":" ",
+   "Update":"2020-07-23 19:42",
+   "Size":"73.14MB",
+   "More":"Obsidian是一款功能齐全的Markdown编辑器"
+}
+,
+{
+   "Name":"Simplenote",
+   "Version":"1.19.0-14076",
+   "Filename":"Simplenote-linux-1.19.0-amd64.deb",
+   "Pkgname":"simplenote",
+   "Author":"Automattic ",
+   "Contributor":"Vlary",
+   "Website":"https://simplenote.com/",
+   "Update":"2020-07-07 10:05",
+   "Size":"59.61MB",
+   "More":"The simplest way to keep notes"
+}
+,
+{
+   "Name":"百度网盘-wine",
+   "Version":"5.7.3deepin0",
+   "Filename":"deepin.com.baidu.pan_5.7.3deepin0_i386.deb",
+   "Pkgname":"deepin.com.baidu.pan",
+   "Author":"百度",
+   "Contributor":"奇点法则",
+   "Website":" ",
+   "Update":"2020-08-13 19:23",
+   "Size":"73.51MB",
+   "More":"远古win版百度网盘，图就不放了。"
+}
+,
+{
+   "Name":"开源Evernote APP:Tusk",
+   "Version":"0.23.0-650",
+   "Filename":"tusk_0.23.0_amd64.deb",
+   "Pkgname":"tusk",
+   "Author":"klaussinani",
+   "Contributor":"Vlary",
+   "Website":"https://github.com/klaussinani/tusk",
+   "Update":"2020-07-06 22:34",
+   "Size":"52.55MB",
+   "More":"Tusk is an unofficial, featureful, open source, community-driven, free Evernote app used by people in more than 140 countries."
+}
+,
+{
+   "Name":"VNote",
+   "Version":"2.9.1",
+   "Filename":"vnote_2.9.1_a2d_amd64.deb",
+   "Pkgname":"vnote",
+   "Author":"tamlok",
+   "Contributor":"xingjiapeng",
+   "Website":"https://tamlok.gitee.io/vnote/zh_cn/",
+   "Update":"2020-07-25 20:17",
+   "Size":"55.08MB",
+   "More":"VNote 是一个更懂程序员和 Markdown 的笔记软件！"
+}
+,
+{
+   "Name":"JabRef",
+   "Version":"5.0.50001-1",
+   "Filename":"jabref_5.0-1_amd64.deb",
+   "Pkgname":"jabref",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"http://www.jabref.org/",
+   "Update":"2020-08-10 10:32",
+   "Size":"279.17MB",
+   "More":"掌握文献收集、组织和发掘的有效方法"
+}
+,
+{
+   "Name":"橙瓜码字（wine）",
+   "Version":"1.5.4",
+   "Filename":"com.chenggua.mz.dcs_1.5.4_i386.deb",
+   "Pkgname":"com.chenggua.mz.dcs",
+   "Author":"杭州富文网络科技有限公司",
+   "Contributor":"zty199",
+   "Website":"http://mz.chenggua.com/",
+   "Update":"2020-08-06 22:50",
+   "Size":"86.53MB",
+   "More":"橙瓜码字是一款颜值与功能并存的码字软件，支持 Windows / Mac OS / LINUX / iOS / Android 系统，电脑、手机多端同步,支持多端覆盖存储、数据统计、实时计算码字速度和每天码字记录、设定稿费标准进行稿费计算等功能；取名助手可以帮助随机生成人名、地名、武器、功法等名字；小黑屋功能以及敏感词检测功能；时光机功能，每章有十个云端备份以及一个本地备份，不担心丢稿。设计界面上支持自定义背景皮肤，护眼模式让人码字眼睛不再疲劳，极具人性化体验。导入导出功能支持多种文本的导入和导出，方便用户对文件进行转换存储。"
+}
+,
+{
+   "Name":"Zim 桌面维基",
+   "Version":"0.73.2",
+   "Filename":"zim_0.73.2_all.deb",
+   "Pkgname":"zim",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://zim-wiki.org/",
+   "Update":"2020-08-01 19:33",
+   "Size":"1.05MB",
+   "More":"Zim是一款用于维护Wiki页面集合的图形文本编辑器。"
+}
+,
+{
+   "Name":"viewnior",
+   "Version":"1.7-1",
+   "Filename":"viewnior_1.7-1_amd64.deb",
+   "Pkgname":"viewnior",
+   "Author":"xsisqox",
+   "Contributor":"lenke",
+   "Website":"https://xsisqox.github.io/Viewnior/",
+   "Update":"2020-08-11 20:02",
+   "Size":"123.35KB",
+   "More":"debian系都是1.6版，升级到1.7.并解决deepin商店里无法打开首选项的问题"
+}
+,
+{
+   "Name":"一只番茄",
+   "Version":"1.0.4",
+   "Filename":"top.yzzi.tomato_1.0.4_amd64.deb",
+   "Pkgname":"top.yzzi.tomato",
+   "Author":"一只科技菌",
+   "Contributor":"一只科技菌",
+   "Website":"https://blog.yzzi.top/",
+   "Update":"2020-08-14 12:54",
+   "Size":"123.10KB",
+   "More":"一个超高颜值的番茄钟！"
+}
+,
+{
+   "Name":"Write",
+   "Version":"3.0.0",
+   "Filename":"Write_3.0.0_amd64.deb",
+   "Pkgname":"write",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"http://www.styluslabs.com/",
+   "Update":"2020-07-27 16:54",
+   "Size":"2.52MB",
+   "More":"Write是一款出色的免费手写笔记应用程序，它适用于Windows、macOS、Linux、Android和iOS。它主要与有源触控笔配合使用，并可以在非触摸设备上使用。"
+}
+,
+{
+   "Name":"蚂蚁笔记",
+   "Version":"2.6.2",
+   "Filename":"com.leanote.net_2.6.2_amd64.deb",
+   "Pkgname":"com.leanote.net",
+   "Author":"若无（上海）信息科技有限公司",
+   "Contributor":"chaodn",
+   "Website":"https://leanote.com/",
+   "Update":"2020-07-16 08:34",
+   "Size":"36.63MB",
+   "More":"蚂蚁笔记，有极客范的云笔记！\n前所未有的文档体验，近乎完美的平台覆盖，支持团队协同，企业级私有云\n蚂蚁笔记 = 笔记 + 博客 + 协作 + 私有云"
+}
+,
+{
+   "Name":"百度网盘linux官网版",
+   "Version":"3.3.2",
+   "Filename":"baidunetdisk_3.3.2_amd64.deb",
+   "Pkgname":"baidunetdisk",
+   "Author":"百度",
+   "Contributor":"奇点法则",
+   "Website":"www.baidu.com",
+   "Update":"2020-08-13 17:30",
+   "Size":"105.94MB",
+   "More":"官网最新版百度网盘for  linux"
+}
+,
+{
+   "Name":"XMind",
+   "Version":"10.2.1-202008051959",
+   "Filename":"XMind-2020-for-Linux-amd-64bit-10.2.1-202008051959.deb",
+   "Pkgname":"xmind-vana",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.xmind.net/xmind2020/",
+   "Update":"2020-08-14 18:39",
+   "Size":"60.50MB",
+   "More":"XMind是一款跨平台的思维导图软件，支持Win、Mac、Linux和iOS，而且还能制作流程图、鱼骨图、二维图、树状图、逻辑图等，非常的实用。"
+}
+,
+{
+   "Name":"极音创作",
+   "Version":"1.3.5.8457",
+   "Filename":"ZenWriter_installer.deb",
+   "Pkgname":"zenwriter",
+   "Author":"小忙",
+   "Contributor":"小忙",
+   "Website":"http://zen.jinlixian.com/",
+   "Update":"2020-07-19 15:12",
+   "Size":"22.94MB",
+   "More":"极简快速的创作体验 - 小说创作的终极码字软件"
+}
+,
+{
+   "Name":"Freeplane",
+   "Version":"1.8.6~upstream-1",
+   "Filename":"freeplane_1.8.6~upstream-1_all.deb",
+   "Pkgname":"freeplane",
+   "Author":"Freeplane",
+   "Contributor":"xingjiapeng",
+   "Website":"http://freeplane.org/",
+   "Update":"2020-07-24 20:28",
+   "Size":"41.24MB",
+   "More":"开源的跨平台思维导图软件。"
+}
+,
+{
+   "Name":"滴答清单",
+   "Version":"1.0",
+   "Filename":"com.dida365.nonofficial_1.0_all.deb",
+   "Pkgname":"com.dida365.nonofficial",
+   "Author":" ",
+   "Contributor":"一只科技菌",
+   "Website":" ",
+   "Update":"2020-08-08 10:05",
+   "Size":"44.30MB",
+   "More":"滴答清单国内版"
+}
+,
+{
+   "Name":"OneDrive Client for Linux",
+   "Version":"2.4.3",
+   "Filename":"onedrive_2.4.3_all.deb",
+   "Pkgname":"onedrive",
+   "Author":"abraunegg",
+   "Contributor":"jalawov",
+   "Website":"https://github.com/abraunegg/onedrive",
+   "Update":"2020-07-07 17:58",
+   "Size":"4.54MB",
+   "More":"onedrive 的命令行客户端 支持business版和office365版，支持世纪互联（zg特色）版"
+}
+,
+{
+   "Name":"谷歌地球",
+   "Version":"7.3.3.7721-r0",
+   "Filename":"google-earth-pro-stable_current_amd64.deb",
+   "Pkgname":"google-earth-pro-stable",
+   "Author":"Google",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-25 08:07",
+   "Size":"53.44MB",
+   "More":"谷歌地球 [1]  （Google Earth，GE）是一款谷歌公司开发的虚拟地球软件，它把卫星照片、航空照相和GIS布置在一个地球的三维模型上。谷歌地球于2005年向全球推出，被《PC 世界杂志》评为2005年全球100种最佳新产品之一。用户们可以通过一个下载到自己电脑上的客户端软件，免费浏览全球各地的高清晰度卫星图片。Google地球分为免费版、专业版。"
+}
+,
+{
+   "Name":"pdfsam",
+   "Version":"4.1.4-1",
+   "Filename":"pdfsam_4.1.4-1_amd64.deb",
+   "Pkgname":"pdfsam-basic",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://pdfsam.org/",
+   "Update":"2020-08-14 23:46",
+   "Size":"54.41MB",
+   "More":"PDFsam Basic是一款用来分割、合并、旋转、混合以及从PDF文件中提取页面的pdf工具软件，免费而且开源"
+}
+,
+{
+   "Name":"RedNotebook",
+   "Version":"2.20",
+   "Filename":"rednotebook_2.20-0_202008022312_ubuntu20.04.1_all.deb",
+   "Pkgname":"rednotebook",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://rednotebook.sourceforge.io/index.html",
+   "Update":"2020-08-08 22:04",
+   "Size":"384.11KB",
+   "More":"RedNotebookj是一款桌面日记和日志软件，它支持Linux、Windows、Mac OS X等平台，它允许你格式化、标记和搜索条目。还可以添加图片、链接和自定义的模板，拼写检查笔记，以及导出为纯文本、HTML、Latex或PDF。"
+}
+,
+{
+   "Name":"墨者",
+   "Version":"1.9.7",
+   "Filename":"com.mozhes_1.9.7_amd64.deb",
+   "Pkgname":"com.mozhes",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://www.mozhes.com/",
+   "Update":"2020-07-12 11:14",
+   "Size":"59.14MB",
+   "More":"墨者是一个基于内容的兴趣社交互动平台。在这里，你可以摘下面具，放肆展现自己，和同好一起感受双倍快乐ヾ(๑╹◡╹)ﾉ"
+}
+,
+{
+   "Name":"TXT转Epub电子书 TmdTextEpub",
+   "Version":"1.1.9",
+   "Filename":"TmdTextEpub_1.1.9_all.deb",
+   "Pkgname":"tmdtextepub",
+   "Author":"ystyle",
+   "Contributor":"jalawov",
+   "Website":"https://github.com/ystyle/TmdTextEpub",
+   "Update":"2020-07-07 17:27",
+   "Size":"2.16MB",
+   "More":"能把txt转化为epub的命令行小工具，使用方法：终端输入tmdtextepub"
+}
+,
+{
+   "Name":"Zotero文献管理器",
+   "Version":"5.0.88",
+   "Filename":"zotero_5.0.88_amd64.deb",
+   "Pkgname":"zotero",
+   "Author":"retorquere",
+   "Contributor":"jerrywang",
+   "Website":"https://github.com/retorquere/zotero-deb",
+   "Update":"2020-07-07 08:42",
+   "Size":"60.18MB",
+   "More":"开源文献管理器. 官网: https://www.zotero.org/. 本软件是github大佬retorquere打包的"
+}
+,
+{
+   "Name":"有道云笔记（Wine）",
+   "Version":"6.10.1spark0",
+   "Filename":"com.youdao.note.spark_6.10.1spark0_i386.deb",
+   "Pkgname":"com.youdao.note.spark",
+   "Author":" ",
+   "Contributor":"gtjmaster(主), anima(副)",
+   "Website":"http://note.youdao.com/",
+   "Update":"2020-08-10 11:14",
+   "Size":"326.46MB",
+   "More":"文字/图片/语音/手写/OCR/Markdown等多种形式，随时随地记录你的精彩。全面兼容office、PDF等办公常用文档，无需下载即可查看编辑。"
+}
+,
+{
+   "Name":"Joplin",
+   "Version":"1.0.233",
+   "Filename":"joplin_1.0.233_a2d_amd64.deb",
+   "Pkgname":"joplin",
+   "Author":"joplin",
+   "Contributor":"jerrywang",
+   "Website":"https://joplinapp.org/",
+   "Update":"2020-08-09 15:25",
+   "Size":"116.35MB",
+   "More":"具有同步功能的开源笔记记录和待办事项应用程序"
+}
+,
+{
+   "Name":"Indicator Stickynotes",
+   "Version":"0.5.9-7",
+   "Filename":"indicator-stickynotes_0.5.9-7_amd64.deb",
+   "Pkgname":"indicator-stickynotes",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://github.com/umangv/indicator-stickynotes",
+   "Update":"2020-07-20 17:34",
+   "Size":"50.47KB",
+   "More":"Indicator Stickynotes是一个用于Linux的便签应用程序，它在系统托盘中运行，作为后台服务，该应用程序非常轻量级，具有许多有用的功能，使其成为一个有吸引力的笔记应用程序，如平面界面、笔记的导入和导出、可自定义的便签颜色等。"
+}
+,
+{
+   "Name":"QOwnNotes",
+   "Version":"20.7.9-1",
+   "Filename":"qownnotes_20.7.9-1_amd64.deb",
+   "Pkgname":"qownnotes",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.qownnotes.org/",
+   "Update":"2020-08-01 20:34",
+   "Size":"3.80MB",
+   "More":"QOwnNotes是一款支持Markdown和ownCloud同步的文本编辑器。可以对文本添加注释，支持文字和字符串搜索，搜索结果高亮显示，可以对文件进行加密。笔记和ownCloud服务器同步，可以从ownCloud服务器恢复旧版本和已删除版本。"
+}
+,
+{
+   "Name":"灯果写作（wine）",
+   "Version":"3.0.0",
+   "Filename":"com.idengguo.dcs_3.0.0_i386.deb",
+   "Pkgname":"com.idengguo.dcs",
+   "Author":"北京灯果网络科技有限公司",
+   "Contributor":"zty199",
+   "Website":"https://www.idengguo.com/",
+   "Update":"2020-08-01 14:03",
+   "Size":"102.29MB",
+   "More":"网文码字，就用灯果写作！专业团队打造，专为网文创作者而生的码字工具！在这里，我们给你更专注 更纯粹的创作空间，给你更温暖、更贴心的写作服务。你可以随时随地的在这里享受自己的世界，记录灵感，创作精妙绝伦的故事！"
+}
+,
+{
+   "Name":"WizNotePlus",
+   "Version":"2.8.1",
+   "Filename":"wiznoteplus_2.8.1_amd64.deb",
+   "Pkgname":"wiznoteplus",
+   "Author":"wiznoteplus",
+   "Contributor":"jerrywang",
+   "Website":"https://github.com/altairwei/WizNotePlus",
+   "Update":"2020-08-08 17:09",
+   "Size":"105.62MB",
+   "More":"为知笔记客户端的社区分支版"
+}
+,
+{
+   "Name":"WPS 2019 官网版",
+   "Version":"11.1.0.9604",
+   "Filename":"wps-office_11.1.0.9615_amd64.deb",
+   "Pkgname":"wps-office",
+   "Author":"WPS Team",
+   "Contributor":"shenmo",
+   "Website":"https://linux.wps.cn/",
+   "Update":"2020-07-02 11:56",
+   "Size":"286.61MB",
+   "More":"WPS Office 的官网版本，相比于官方商店的社区版没有了缓慢的字体获取过程，不会卡住20分钟了～"
+}
+,
+{
+   "Name":"AO",
+   "Version":"6.9.0-392",
+   "Filename":"ao_6.9.0_amd64.deb",
+   "Pkgname":"ao",
+   "Author":"klaussinani",
+   "Contributor":"一只科技菌",
+   "Website":"https://github.com/klaussinani/ao",
+   "Update":"2020-08-07 23:39",
+   "Size":"49.64MB",
+   "More":"一个微软to-do的第三方客户端"
+}
+,
+{
+   "Name":"妙笔",
+   "Version":"1.7.9.5225",
+   "Filename":"wonderpen_1.7.9_a2d.deb",
+   "Pkgname":"wonderpen",
+   "Author":"原子客栈 (Atominn)",
+   "Contributor":"zty199",
+   "Website":"https://www.atominn.com/wonderpen",
+   "Update":"2020-07-01 02:03",
+   "Size":"68.58MB",
+   "More":"妙笔是一款专业的写作软件，致力于为写作者们提供专注且流畅的写作体验。"
+}
+,
+{
+   "Name":"notion",
+   "Version":"2.0.8-win",
+   "Filename":"notion-desktop_2.0.8-win_amd64.deb",
+   "Pkgname":"notion-desktop",
+   "Author":"davidbailey00",
+   "Contributor":"jerrywang",
+   "Website":"https://github.com/davidbailey00/notion-deb-builder",
+   "Update":"2020-07-02 19:57",
+   "Size":"80.38MB",
+   "More":"一个将笔记、任务管理和知识库相结合的跨平台协作工具, 非常好的笔记软件. 官网: https://notion.so本软件是非官方包, 是github大神的在debian上的移植, 效果和win上的差不多, 可在有缓存的情况下离线编辑"
+}
+,
+{
+   "Name":"Stellarium",
+   "Version":"0.20.2",
+   "Filename":"stellarium_0.20.2_a2d.deb",
+   "Pkgname":"stellarium",
+   "Author":"Stellarium团队",
+   "Contributor":"chaodn",
+   "Website":"http://stellarium.org/",
+   "Update":"2020-06-30 17:46",
+   "Size":"220.63MB",
+   "More":"Stellarium 是一款开源的天象模拟软件。它以3D形式展示了极为逼真的星空，就像你在真实世界使用裸眼，双筒望远镜或天文望远镜看到的一样。"
+}
+,
+{
+   "Name":"笔神（wine）",
+   "Version":"3.1.12+3",
+   "Filename":"ink.bishen.dcs_3.1.12_plus_3_i386.deb",
+   "Pkgname":"ink.bishen.dcs",
+   "Author":"北京一笔两划科技有限公司",
+   "Contributor":"zty199",
+   "Website":"https://bishen.ink/",
+   "Update":"2020-08-07 22:05",
+   "Size":"69.80MB",
+   "More":"笔神是一款电脑端写作工具，笔神不仅支持markdown，还提供了树形目录管理可以让你更好的管理自己已完成的章节。笔神电脑版的界面非常简单，还提供了自动存储功能，登录账号即可获取已保存的内容，不用担心写到一半因为特殊原因导致的文档丢失。\nP.S.由于现有服务器没有统计下载量的方式，只能在安装deb包的时候用我们的反馈邮箱发一封邮件，以此来统计下载数量。如果给您造成不便，请您谅解。"
+}
+,
+{
+   "Name":"Typora",
+   "Version":"6.1.5-2",
+   "Filename":"io.typora_6.1.5-2_amd64.deb",
+   "Pkgname":"io.typora",
+   "Author":"typora.io",
+   "Contributor":"Maicss",
+   "Website":"https://www.typora.io/#",
+   "Update":"2020年6月27日",
+   "Size":"56.2M",
+   "More":"一个被广泛欢迎的简洁的Markdown编辑器。\ndeepin官方商店中该软件存在无法关联文件的问题，在这里修复了这个问题。"
+}
+,
+{
+   "Name":"Yosoro",
+   "Version":"1.1.7-1",
+   "Filename":"yosoro-linux.deb",
+   "Pkgname":"yosoro",
+   "Author":"IceEnd",
+   "Contributor":"anima",
+   "Website":"https://yosoro.coolecho.net/",
+   "Update":"2020-08-10 14:01",
+   "Size":"49.20MB",
+   "More":"简单纯粹可爱呆萌的开源免费跨平台 Markdown 笔记软件。"
+}
+,
+{
+   "Name":"cajviewer",
+   "Version":"1.0",
+   "Filename":"cajviewer_1.0_amd64.deb",
+   "Pkgname":"cajviewer",
+   "Author":"cnki",
+   "Contributor":"zhangn1985",
+   "Website":"https://cajviewer.cnki.net/",
+   "Update":"2020-06-25 21:04",
+   "Size":"15.55MB",
+   "More":"中国知网"
+}
+,
+{
+   "Name":"Gridea",
+   "Version":"0.9.2",
+   "Filename":"gridea_0.9.2_amd64.deb",
+   "Pkgname":"gridea",
+   "Author":" ",
+   "Contributor":"Diego",
+   "Website":"https://gridea.dev/",
+   "Update":"2020-08-15 14:03",
+   "Size":"52.78MB",
+   "More":"Gridea是一个静态博客写作客户端，配合github即可食用！"
+}
+,
+{
+   "Name":"TickTick",
+   "Version":"1.0",
+   "Filename":"com.ticktick.nonofficial_1.0_all.deb",
+   "Pkgname":"com.ticktick.nonofficial",
+   "Author":" ",
+   "Contributor":"一只科技菌",
+   "Website":" ",
+   "Update":"2020-08-08 10:04",
+   "Size":"44.30MB",
+   "More":"TickTick（滴答清单国际版）"
+}
+]

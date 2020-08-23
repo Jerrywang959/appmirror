@@ -1,0 +1,12 @@
+{
+   "Name":"Bleachbit",
+   "Version":"4.0.0",
+   "Filename":"bleachbit_4.0.0_all_debian10.deb",
+   "Pkgname":"bleachbit",
+   "Author":" ",
+   "Contributor":"zty199",
+   "Website":"https://www.bleachbit.org",
+   "Update":"2020-07-07 19:38",
+   "Size":"405.97KB",
+   "More":"BleachBit是一款开源的系统清理工具，它可以释放磁盘空间，保护您的隐私，清除缓存，删除cookies、internet历史、临时文件、日志和丢弃的垃圾文件等，支持清除应用的残留数据，切碎文件防止恢复、隐藏被删除文件的痕迹等功能。"
+}

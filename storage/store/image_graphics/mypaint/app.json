@@ -1,0 +1,12 @@
+{
+   "Name":"MyPaint",
+   "Version":"2.0.1",
+   "Filename":"MyPaint_2.0.1_amd64.deb",
+   "Pkgname":"mypaint",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"http://mypaint.org/",
+   "Update":"2020-07-18 12:59",
+   "Size":"27.91MB",
+   "More":"MyPaint是一款开源的绘图软件，2.0.1版支持线性合成，图层视图，笔刷笔划改进，新的对称模式，扩展的填充，新的笔刷设置，新的笔刷输入以及各种其他改进和修复。"
+}

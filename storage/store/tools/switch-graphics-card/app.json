@@ -1,0 +1,12 @@
+{
+   "Name":"任务栏显卡切换插件",
+   "Version":"1.5",
+   "Filename":"switch-graphics-card_1.5_amd64.deb",
+   "Pkgname":"switch-graphics-card",
+   "Author":"zty199",
+   "Contributor":"zty199",
+   "Website":"https://github.com/zty199/dde-dock-switch_graphics_card",
+   "Update":"2020-08-15 13:35",
+   "Size":"148.25KB",
+   "More":"dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/forum.php?mod=viewthread&tid=197280\n【更新日志】\nv1.5:\n1. prime-run 支持运行桌面快捷方式\n2.图标支持跟随系统主题颜色变化"
+}

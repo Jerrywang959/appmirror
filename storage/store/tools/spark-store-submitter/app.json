@@ -1,0 +1,12 @@
+{
+   "Name":"星火商店投稿器",
+   "Version":"2.0+2",
+   "Filename":"spark-store-submitter_2.0_plus_2_amd64.deb",
+   "Pkgname":"spark-store-submitter",
+   "Author":"乾一巽五",
+   "Contributor":"zty199",
+   "Website":"https://gitee.com/deepin-community-store/dcs-submitter",
+   "Update":"2020-07-22 23:35",
+   "Size":"22.95MB",
+   "More":"充满二次元风格的社区商店投稿器，由社区商店维护组开发大佬乾一巽五开发，由zty199维护。\n来嘛～来投稿嘛～\n【更新日志】\nversion 2.0+2 : 修改截图分辨率为 800x600 以获得更好的显示效果。"
+}

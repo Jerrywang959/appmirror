@@ -1,0 +1,12 @@
+{
+   "Name":"微软核心字体",
+   "Version":"1.0",
+   "Filename":"ms-core-fonts_1.0_i386.deb",
+   "Pkgname":"ms-core-fonts",
+   "Author":"Microsoft",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-07-14 17:00",
+   "Size":"16.72MB",
+   "More":"微软核心字体包，WPS官网版以及商店部分Wine应用需要使用。"
+}
