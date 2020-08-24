@@ -2217,6 +2217,28 @@ SHA512: 957f5c8912b80e2cc3930b9ae9b150870c9a19e2f5e2ba3d253170f4743c8551dcce3118
 Homepage: https://www.filezilla.cn/
 Description: Full-featured graphical FTP/FTPS/SFTP client
 
+Package: firefox-zh-spark
+Architecture: amd64
+Version: 79.0.0
+Priority: optional
+Section: web
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 194340
+Provides: gnome-www-browser, www-browser
+Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.24)
+Recommends: libflashplugin | libflashplugin-beta, libavcodec58 | libavcodec57 | libavcodec56 | libavcodec55 | libavcodec54 | libavcodec53
+Suggests: fonts-stix | otf-stix, fonts-lmodern, libgssapi-krb5-2 | libkrb53, libcanberra0, libgtk2.0-0
+Breaks: xul-ext-torbutton
+Filename: store/network/firefox-zh-spark/firefox-zh-spark_79.0.0_amd64.deb
+Size: 58290904
+MD5sum: 7ea51e966a15a3ad7242f46f864e67dd
+SHA1: 918033a59209effa5d2f5448a0a3fcc1897661b1
+SHA256: f6ef4709259e092f89fab74c196fc8471430cabc0ba8b78cc537ccba1dbae439
+SHA512: 8950b80bd612be530ba448e8edb866917530ade27746ebbc83ecbc8bac39997072fda393cb91644e5d1eae934b6a15aac57fe9b258621b06c908be107b066916
+Homepage: http://www.firefox.com.cn/
+Description: Mozilla Firefox web browser for zh
+ Firefox is a powerful, extensible web browser with support for modern web application technologies.
+
 Package: firefox-zh
 Architecture: amd64
 Version: 78.0.1
@@ -4575,18 +4597,18 @@ Description: Spark Store beta version.
 
 Package: spark-store
 Architecture: amd64
-Version: 1.0-beta7+1
+Version: 1.0-beta7.2
 Priority: optional
 Section: utils
 Maintainer: Maicss <unknown>
-Installed-Size: 432
-Depends: libqt5webkit5 (>= 5.212.0~alpha2-21), libdtkwidget5 (>= 5.2.0-1), libdtkcore5 (>= 5.2.0-1), libqt5network5 (>= 5.11.3.9-1), libqt5concurrent5 (>= 5.11.3.9-1), libdtkgui5 (>= 5.1.2-1), wget, curl, gdebi-core
-Filename: store/tools/spark-store/spark-store_1.0-beta7_plus_1_amd64.deb
-Size: 82892
-MD5sum: 1c23222379be374511b9da8cb831da00
-SHA1: 52942d3734772fca965d07a4acfdf53869b0c35a
-SHA256: 4a6085cbdbc5c1eb32ba337f2155b2782b009a38081498e44c62ea342ee6ac95
-SHA512: e3b7b21871dab35a8a80f323bb57296eaf8a4d6f903a820d937c702e0302772b0ad689348a50684d73cf17365442933fa3af03878a0ce4b63278f86fe59d849b
+Installed-Size: 420
+Depends: libqt5webkit5 (>= 5.212.0~alpha2-21), libdtkwidget5 (>= 5.2.0-1), libdtkcore5 (>= 5.2.1-1), libqt5network5 (>= 5.11.3.9-1), libqt5concurrent5 (>= 5.11.3.9-1), libdtkgui5 (>= 5.2.0-1), wget, curl, gdebi-core, gnupg
+Filename: store/tools/spark-store/spark-store_1.0-beta7.2_amd64.deb
+Size: 84292
+MD5sum: b2d58766fb7816be6038f2e2e50a372c
+SHA1: 037e76b7064930aca713b62292af6563d699995a
+SHA256: 1d86883dbf3a6bcbd00f685bce2bf8918e87b0cc23419b875f1cdc624462d7e8
+SHA512: 1fc7756f89a662095315f9cd787cea965f9b8a6c4593b6ab5206a22f90e4b9118c0e157315a8a703be391d6dc5ad664ec0127bfb983741e99103c1751ff5a06b
 Homepage: https://gitee.com/deepin-community-store/spark-store
 Description: Spark Store beta version.
 

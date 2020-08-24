@@ -300,15 +300,15 @@
 ,
 {
    "Name":"Spark应用商店",
-   "Version":"1.0-beta7+1",
-   "Filename":"spark-store_1.0-beta7_plus_1_amd64.deb",
+   "Version":"1.0-beta7.2",
+   "Filename":"spark-store_1.0-beta7.2_amd64.deb",
    "Pkgname":"spark-store",
    "Author":"Maicss",
    "Contributor":"Maicss",
    "Website":"https://gitee.com/deepin-community-store/spark-store",
-   "Update":"2020-08-10 12:19",
-   "Size":"80.91KB",
-   "More":"更新日志(20200810):\n1.修复postinst中存在的错误"
+   "Update":"2020-08-24 12:55",
+   "Size":"84.30KB",
+   "More":"更新日志(20200824):\n1.更新默认源服务器和图片服务器，提升使用体验\n\n更新日志(20200810):\n1.修复postinst中存在的错误"
 }
 ,
 {
