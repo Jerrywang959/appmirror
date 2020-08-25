@@ -1,0 +1,12 @@
+{
+   "Name":"深度终端",
+   "Version":"3.2.1.1+ds1-1",
+   "Filename":"deepin-terminal-legacy_3.2.1.1_plus_ds1-1_amd64.deb",
+   "Pkgname":"deepin-terminal-legacy",
+   "Author":"Deepin",
+   "Contributor":"Debian Deepin Packaging Team",
+   "Website":"https://github.com/linuxdeepin/deepin-terminal-old",
+   "Update":"2020-08-25 22:26",
+   "Size":"348.37KB",
+   "More":"深度终端旧版，从 Debian 软件仓库下载并重新打包的，与新版终端可以共存。\n\nP.S. 新旧两版终端配置文件似乎不通用，位置在 ~/.config/deepin/deepin-terminal/ ，里面的远程服务器配置文件建议清空后再使用。\n\nP.S. https://github.com/linuxdeepin/deepin-terminal-old 也可以下载到旧版本终端。"
+}

@@ -1162,6 +1162,23 @@ Description: Launcher for the Steam software distribution service
  installation, automatic updates, achievements, SteamCloud synchronized
  savegame and screenshot functionality, and many social features.
 
+Package: store.spark-app.hmcl
+Architecture: amd64
+Version: 3.3.175
+Priority: optional
+Section: games
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 204800
+Depends: fonts-wqy-zenhei,fonts-wqy-microhei
+Filename: store/games/store.spark-app.hmcl/store.spark-app.hmcl_3.3.175_amd64.deb
+Size: 62289620
+MD5sum: 73a67199bcae6518210a864f30ac21bf
+SHA1: a14a6429999d12f74b7e38b91c16d0792c81cfb9
+SHA256: 7ada7dc2067dfd5a5230dfc3ba6c2db7b4aef2b453fde25df68a4796789b2d8a
+SHA512: d74010648d62f15a56e379cb229e3dce1d5ff933b4819a5aa251855e09c3164fb04d3de1e5b7dc64c41ab1e7a420ecbba252756515ca87a638b635930af41932
+Homepage: https://hmcl.huangyuhui.net/
+Description: HMCL启动器开发版 3.3.175
+
 Package: sudoku
 Architecture: amd64
 Version: 1.0.0
@@ -1601,6 +1618,35 @@ SHA256: 4e2e20b30adce916baeaf9084382d59533afb9ac90e9eec38135ee8387f13607
 SHA512: 93d9624629118eb94561a244a2ded3a861d7828dc0008d5b6b8fd425fafae6e876382fac843848c4c0117931114d7889da7c227d4cd345f7984b206db5128036
 Description: An advanced raw photo development program
 
+Package: viewnior
+Architecture: amd64
+Version: 1.7-1
+Priority: optional
+Section: graphics
+Maintainer: Dariusz Dwornikowski <dariusz.dwornikowski@cs.put.poznan.pl>
+Installed-Size: 630
+Depends: libc6 (>= 2.14), libexiv2-14 (>= 0.25), libgcc1 (>= 1:3.0), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.37.3), libgtk2.0-0 (>= 2.24.32), libstdc++6 (>= 5.2)
+Filename: store/image_graphics/viewnior/viewnior_1.7-1_amd64.deb
+Size: 126312
+MD5sum: 6fc4726ca9f7ccc0486e9bd5adc3c198
+SHA1: 5c81f97fb312bc1d95ab2d0ae4888ba1d29f16f5
+SHA256: 362d15a536c23a0ff811563ee9c952c414428683e3996b0d3906993a0570018f
+SHA512: d8e9c2cca6a2d99b96209f27520d8e67625fa0aac361ed4c32fc8d1ed26ad9d41217911f4e0eb77fa4f9c4fb34f96bc3294af6c20ed2f67c659dc53d81ed3236
+Homepage: http://xsisqox.github.io/Viewnior/
+Description: simple, fast and elegant image viewer
+ This is Viewnior, an image viewer program. Created to be simple, fast
+ and elegant. Its minimalistic interface provides more screenspace for
+ your images. Among its features are:
+ .
+  * Fullscreen & Slideshow
+  * Rotate, flip, crop, save, delete images
+  * Animation support
+  * Browse only selected images
+  * Navigation window
+  * Set image as wallpaper (under GNOME, Fluxbox and LXDE)
+  * Simple interface
+  * Configurable mouse actions
+
 Package: chord
 Architecture: amd64
 Version: 0.2.29-174
@@ -1729,6 +1775,26 @@ Homepage: https://github.com/linuxdeepin/deepin-music
 Description: music player with brilliant and tweakful UI
  Deepin-UI based, GStreamer front-end, with features likes search music by pinyin,quanpin, colorful lyrics supports, and more powerful functions you will found.
  This package is part of DDE (Deepin Desktop Environment).
+
+Package: i5sing
+Architecture: amd64
+Version: 0.3.0
+Priority: optional
+Section: utils
+Maintainer: Miaowing
+Installed-Size: 447728
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
+Recommends: pulseaudio | libasound2
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
+Filename: store/music/i5sing/i5sing_0.3.0_amd64 .deb
+Size: 86099016
+MD5sum: 2c3214be37efd93cb3bfd46d2dfebec6
+SHA1: b6d36fe84a380c9bc8ebf643a875ba1c2132f834
+SHA256: 3b516719d4744a403535c60e3318c745cbf600774e6728beea13e5428656c23a
+SHA512: 252fec16162bb6dca754a0f41be57eb7d5ac6bd9a06e4d17121cc1958eacb6d4635581769a1f85bbddc04e65e7ba21c5a0f785d9a6065139ffb0a75b44183c1e
+Homepage: https://i5sing.com
+Description: 中国原创音乐基地 5sing 桌面版
+ My Electron application description
 
 Package: iease-music
 Architecture: amd64
@@ -2193,12 +2259,12 @@ Section: net
 Maintainer: The Electron-SSR Authors <xVanTuring@outlook.com>
 Installed-Size: 164212
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
-Filename: store/network/electron-ssr/科学上网_electron-ssr_0.3.0-alpha.6_amd64.deb
-Size: 47263416
-MD5sum: ac9e47f788471c178c1de9f0ae32ad02
-SHA1: 98ac8355aed38824d066bf9c2cf9324276f87434
-SHA256: 52409d08495106f90e678ff6dc50de31655179a82bba7db7384fcc07796b993a
-SHA512: 1ec745c8f47b4ec65cf0092d5c4624bb714f42bf012181e3185109fe8eebf2158c187fb6cae8f626aacd75ec5f2db029bc178f2077e8b06acc4bbfca9dab2723
+Filename: store/network/electron-ssr/electron-ssr_0.3.0-alpha.6_amd64.deb
+Size: 47269656
+MD5sum: 7db30b7d2e44ad87c8d4562dcf150011
+SHA1: fb5ab0b0ff7aa90d5e36f37c4fa3c9282b4328d5
+SHA256: 57caa35d6b96d6fb9da3f5b8ea9fdc30853b7b234596c60ef54cf2314802890a
+SHA512: 2b595d47dc1b7268f71beaf8a25fdb0fddec93f53c13d7c24295d19ac8c8d6286a4a29f704848ff02a795f343939020f5ba8fc9f7632f0850ee5b57198cd0505
 Homepage: https://github.com/shadowsocksrr/electron-ssr
 Description: Cross platform ShadowsocksR GUI client built with electron
 
@@ -3286,35 +3352,6 @@ Description: Refined Evernote desktop app
 License: MIT
 Vendor: Klaus Sinani <klaussinani@gmail.com>
 
-Package: viewnior
-Architecture: amd64
-Version: 1.7-1
-Priority: optional
-Section: graphics
-Maintainer: Dariusz Dwornikowski <dariusz.dwornikowski@cs.put.poznan.pl>
-Installed-Size: 630
-Depends: libc6 (>= 2.14), libexiv2-14 (>= 0.25), libgcc1 (>= 1:3.0), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.37.3), libgtk2.0-0 (>= 2.24.32), libstdc++6 (>= 5.2)
-Filename: store/office/viewnior/viewnior_1.7-1_amd64.deb
-Size: 126312
-MD5sum: 6fc4726ca9f7ccc0486e9bd5adc3c198
-SHA1: 5c81f97fb312bc1d95ab2d0ae4888ba1d29f16f5
-SHA256: 362d15a536c23a0ff811563ee9c952c414428683e3996b0d3906993a0570018f
-SHA512: d8e9c2cca6a2d99b96209f27520d8e67625fa0aac361ed4c32fc8d1ed26ad9d41217911f4e0eb77fa4f9c4fb34f96bc3294af6c20ed2f67c659dc53d81ed3236
-Homepage: http://xsisqox.github.io/Viewnior/
-Description: simple, fast and elegant image viewer
- This is Viewnior, an image viewer program. Created to be simple, fast
- and elegant. Its minimalistic interface provides more screenspace for
- your images. Among its features are:
- .
-  * Fullscreen & Slideshow
-  * Rotate, flip, crop, save, delete images
-  * Animation support
-  * Browse only selected images
-  * Navigation window
-  * Set image as wallpaper (under GNOME, Fluxbox and LXDE)
-  * Simple interface
-  * Configurable mouse actions
-
 Package: vnote
 Architecture: amd64
 Version: 2.9.1
@@ -3935,17 +3972,17 @@ Description: Foreign language assisted reading and translation solution
 
 Package: cute-translation
 Architecture: amd64
-Version: 0.3.0+spark1
+Version: 0.4.0
 Maintainer: moriv4 <985811440@qq.com>
-Depends: nodejs, gnome-screenshot, libqt5widgets5, libqt5x11extras5, libqt5network5, libqt5core5a, libqt5gui5, libqt5multimedia5
-Filename: store/reading/cute-translation/cute-translation_0.3.0+spark1_amd64.deb
-Size: 105600
-MD5sum: 8ecc6a5616a5556d94aeb860b29480db
-SHA1: f1e5b5b7dbe471b024bcc74d41646bd40db34ca9
-SHA256: 0990c04083b5e712395f846200480b59bd8e32c90d9ee57cbcbfe81ed3be3a50
-SHA512: 27abbbaf214da66716b332a769480e35827bf602fcf1ab786280f97d62fc70fd03cd5d63bbcb5223357d8d6260724224a669063d8d5c9ecf045bd7fbfee37b3b
+Depends: nodejs, gnome-screenshot, tidy, libqt5widgets5, libqt5x11extras5, libqt5network5, libqt5core5a, libqt5gui5, libqt5multimedia5
+Filename: store/reading/cute-translation/cute-translation_0.4.0_amd64.deb
+Size: 113244
+MD5sum: e1ccb3553bc1c6ac3ddb7bb3cc9bf1ce
+SHA1: 503346c580ec20b622522f0a0bc9c7cf0218bccf
+SHA256: e5bdee6309e9c117f6d680bc6e02e7d17c7f8eea1cc373caee50bd97234975d5
+SHA512: 4c36fa95526abc605681fc92f2004773c3aec46764ce60d63c3efcaa6b5744bca7989b6cec754035fe1421e9085966842306b1326d9fb4f27a67f06f9bb6994d
 Homepage: https://github.com/jiangzc/CuteTranslation
-Description: A translation program based on X11 on Linux.
+Description: A translation program.
 
 Package: redict-dtk5-dtk2
 Architecture: amd64
@@ -4389,6 +4426,29 @@ SHA1: d40e5c95c31d69cdcf4b0fdb29863a43b4ee2ad5
 SHA256: 946576498cf1e23542a3baafd752c5f81d3b23be28dda63f0ee1013a9aedaac9
 SHA512: 400702e78fce0fa58707e0cfaebb369d71559c5278e2a79dc34e808225c9673cbd9a408e0e3375107c49f197dfa918cf3bd9ecf4b0a3ca28242e129aea9ab127
 Description: Intel pstate tool plugin for dde-dock
+
+Package: deepin-terminal-legacy
+Architecture: amd64
+Version: 3.2.1.1+ds1-1
+Priority: optional
+Section: x11
+Maintainer: Debian Deepin Packaging Team <pkg-deepin-devel@lists.alioth.debian.org>
+Installed-Size: 2175
+Provides: x-terminal-emulator
+Depends: dbus-x11, deepin-menu, expect, lrzsz, zssh, libc6 (>= 2.14), libcairo2 (>= 1.14.0), libfontconfig1 (>= 2.12.6), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.40.0), libgtk-3-0 (>= 3.21.4), libjson-glib-1.0-0 (>= 0.12.0), libpango-1.0-0 (>= 1.22.0), libpangocairo-1.0-0 (>= 1.22.0), librsvg2-2 (>= 2.14.4), libsecret-1-0 (>= 0.7), libvte-2.91-0, libwnck-3-0 (>= 2.91.6), libx11-6
+Filename: store/tools/deepin-terminal-legacy/deepin-terminal-legacy_3.2.1.1_plus_ds1-1_amd64.deb
+Size: 356728
+MD5sum: f8ed15a60cf9a54d02d810931be8a26b
+SHA1: 9f7816ed5def23aa242b908c6e03cbe31dce6221
+SHA256: e81109e6a606ff045ef24b8dd545d491e72bbaaade0baca91cb7059002d22e05
+SHA512: 32c1fd1d35b3f94d68b0a1a8a53b8c171c3df5cbe1b54eebdd389c8ed0032a3a7556b5f1f8f40dba831c4f0ad11aeb5ca5f795c0e60bfebe26823bd6eeb86555
+Homepage: https://github.com/linuxdeepin/deepin-terminal
+Description: Deepin terminal emulator application
+ Deepin Terminal is an advanced terminal emulator with workspace, multiple
+ windows, remote management, quake mode and other features. It sharpens your
+ focus in the world of command line.
+ .
+ This package is part of DDE (Deepin Desktop Environment).
 
 Package: fydur-ventoy
 Architecture: amd64

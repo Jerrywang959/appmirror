@@ -1,12 +1,12 @@
 {
    "Name":"CuteTranslation",
-   "Version":"0.3.0+spark1",
-   "Filename":"cute-translation_0.3.0_plus_spark1_amd64.deb",
+   "Version":"0.4.0",
+   "Filename":"cute-translation_0.4.0_amd64.deb",
    "Pkgname":"cute-translation",
    "Author":"moriv4",
    "Contributor":"moriv4",
    "Website":"https://github.com/jiangzc/CuteTranslation/",
-   "Update":"2020-07-17 12:55",
-   "Size":"103.29KB",
+   "Update":"2020-08-25 16:10",
+   "Size":"110.60KB",
    "More":"CuteTranslation 是Linux系统上基于X11的一款取词翻译软件。帮助用户翻译多种语言的文字。支持取词翻译、截图翻译以及悬浮搜索框。"
 }
