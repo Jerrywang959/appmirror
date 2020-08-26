@@ -1,12 +1,12 @@
 {
-   "Name":"酸酸乳",
+   "Name":"electron-ssr",
    "Version":"0.3.0-alpha.6",
-   "Filename":"科学上网_electron-ssr_0.3.0-alpha.6_amd64.deb",
+   "Filename":"electron-ssr_0.3.0-alpha.6_amd64.deb",
    "Pkgname":"electron-ssr",
-   "Author":"不详",
+   "Author":"The Electron-SSR Authors",
    "Contributor":"奇点法则",
-   "Website":"不详",
+   "Website":"https://github.com/shadowsocksrr/electron-ssr",
    "Update":"2020-08-14 16:33",
    "Size":"45.07MB",
-   "More":"酸酸乳，小飞机，你懂的"
+   "More":"Shadowsocksr client using electron."
 }
