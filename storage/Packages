@@ -1786,7 +1786,7 @@ Installed-Size: 447728
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
 Recommends: pulseaudio | libasound2
 Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
-Filename: store/music/i5sing/i5sing_0.3.0_amd64 .deb
+Filename: store/music/i5sing/i5sing_0.3.0_amd64.deb
 Size: 86099016
 MD5sum: 2c3214be37efd93cb3bfd46d2dfebec6
 SHA1: b6d36fe84a380c9bc8ebf643a875ba1c2132f834
@@ -2283,6 +2283,22 @@ SHA512: 957f5c8912b80e2cc3930b9ae9b150870c9a19e2f5e2ba3d253170f4743c8551dcce3118
 Homepage: https://www.filezilla.cn/
 Description: Full-featured graphical FTP/FTPS/SFTP client
 
+Package: firefox-spark
+Architecture: amd64
+Version: 80.0
+Priority: optional
+Section: web
+Maintainer: Anysets <Anysets@spark-app.store>
+Installed-Size: 214784
+Filename: store/network/firefox-spark/firefox-spark_80.0_amd64.deb
+Size: 58753500
+MD5sum: af47eecee8f0ae3d86f74ece9dd2fe12
+SHA1: 1a51098e6294bcfa6eaf52ee4e68093a608993fd
+SHA256: f008af7560b8597557ef1087b7c14fd6fc8b6d7d7c0e6eeef941c6d9f041c097
+SHA512: 7729a299a774da58df5f6a97a6aa1191a3186024d8385fe6ed62cca1e43c2ccc39179859d087a0c04a611ba6dac1c3534fb7971cdfc4ce6e838e12df09061e3a
+Homepage: https://www.mozilla.org/en-US/firefox/
+Description: 一款开源自由的浏览器
+
 Package: firefox-zh-spark
 Architecture: amd64
 Version: 79.0.0
@@ -2304,80 +2320,6 @@ SHA512: 8950b80bd612be530ba448e8edb866917530ade27746ebbc83ecbc8bac39997072fda393
 Homepage: http://www.firefox.com.cn/
 Description: Mozilla Firefox web browser for zh
  Firefox is a powerful, extensible web browser with support for modern web application technologies.
-
-Package: firefox-zh
-Architecture: amd64
-Version: 78.0.1
-Priority: optional
-Section: web
-Maintainer: Packages <zs@deepin.com>
-Installed-Size: 194340
-Provides: gnome-www-browser, www-browser
-Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.24)
-Recommends: libflashplugin | libflashplugin-beta, libavcodec58 | libavcodec57 | libavcodec56 | libavcodec55 | libavcodec54 | libavcodec53
-Suggests: fonts-stix | otf-stix, fonts-lmodern, libgssapi-krb5-2 | libkrb53, libcanberra0, libgtk2.0-0
-Breaks: xul-ext-torbutton
-Filename: store/network/firefox-zh/firefox-zh_78.0.1_amd64.deb
-Size: 57995868
-MD5sum: bbd265a450e522dc879293d4380d7607
-SHA1: e527c41a5af593e77b41a11882f78cf9c4cb29c1
-SHA256: 55825e4ee293f0919039449da6554a093a74f8a431d6b25e95f5364cbcf4b5b3
-SHA512: 2f8fae318ab41def18c589b0c095050e24defd5b3aa5b13a9f8aeb689717f624fd3da8c325e574514028d3b69187f53c99ea5fdeb894a6a59fa29c2707bd8543
-Homepage: http://www.firefox.com.cn/
-Description: Mozilla Firefox web browser for zh
- Firefox is a powerful, extensible web browser with support for modern web application technologies.
-
-Package: firefox-zh
-Architecture: amd64
-Version: 78.0.2
-Priority: optional
-Section: web
-Maintainer: Packages <zs@deepin.com>
-Installed-Size: 194340
-Provides: gnome-www-browser, www-browser
-Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.24)
-Recommends: libflashplugin | libflashplugin-beta, libavcodec58 | libavcodec57 | libavcodec56 | libavcodec55 | libavcodec54 | libavcodec53
-Suggests: fonts-stix | otf-stix, fonts-lmodern, libgssapi-krb5-2 | libkrb53, libcanberra0, libgtk2.0-0
-Breaks: xul-ext-torbutton
-Filename: store/network/firefox-zh/firefox-zh_78.0.2_amd64.deb
-Size: 58040704
-MD5sum: 44b5aee04b3002eecac01decfa28562d
-SHA1: 9a24b1ec2d2b9077158c28ff3a3d91b8d8826882
-SHA256: afa029c4ca0d12d062fa9ff1fc09ac55b34e27ea9ea0fbf6fe5e2360e2ed051c
-SHA512: 3554765b5e77baa5c56d59257e46e465b49a418db10401f86177ba2b60303fc46e7d1816944d4f51f123155d9a7ff316599c71b0617eb7a4f85dc38a629b0a8e
-Homepage: http://www.firefox.com.cn/
-Description: Mozilla Firefox web browser for zh
- Firefox is a powerful, extensible web browser with support for modern web application technologies.
-
-Package: Firefox
-Architecture: amd64
-Version: 78.0.2
-Priority: optional
-Maintainer: Anysets <1443454956@qq.com>
-Installed-Size: 208728
-Filename: store/network/firefox/Firefox_78.0.2_amd64.deb
-Size: 57471720
-MD5sum: ec1ad05586ce9e25296ef9d75e474a32
-SHA1: 2ef2fdc950e5c682e53dcb6ccd38fbf80196c6b0
-SHA256: 049b0ed4c18d30efdee91c87f3216c21543565580e7775c3cd98cb90177836a3
-SHA512: 4a0285ade7770e13998cd438786620ac64be700de657018be0bca6f231b0c48ef906348983292e40fa33b93c62f50fb6f669ca849a36c37c4747ff54c152adba
-Homepage: https://www.mozilla.org/en-US/firefox/
-Description: Firefox国际版
-
-Package: firefox
-Architecture: amd64
-Version: 79.0
-Priority: optional
-Maintainer: Anysets <1443454956@qq.com>
-Installed-Size: 212956
-Filename: store/network/firefox/firefox_79.0_amd64.deb
-Size: 58034244
-MD5sum: fbe594664c24dc7c0803240330bc2635
-SHA1: 418e8419b289b693057766e1b1138f36902d0d73
-SHA256: 937f9119a2719f7f1d6392c8a9efe80decc4c7469d4cc05cad4c53c1f7846a7c
-SHA512: e31d7f6dd11cbf74b19037a1f5294733ca6fadd8f333afdbf39c76aa4fb475cbecd29c3d969eb58a1ec68295939fe8c1dbe20f0aab7a794eb912aa83a0c8936e
-Homepage: https://www.mozilla.org/en-US/firefox
-Description: Firefox国际版
 
 Package: google-chrome-stable
 Architecture: amd64
@@ -2753,6 +2695,25 @@ SHA1: 5d399f53352d892e2bbc5abc2121836f82467c72
 SHA256: a63bf696cba7a1378d9079f2e4ba024808e919840a564d00b3fa2ca1b3215fde
 SHA512: 6630dc9945a5cc31b817bda167f93d9d71651102f94f700fa2b759d8320d141f172778c38beb8f71d10b9fde573b0a936eca52047afe7d70e0ac2d61a794e352
 Description: 百度脑图是一款强大的思维导图编辑器。
+
+Package: com.bookxnote.spark
+Architecture: i386
+Version: 1.0.0.193spark0
+Multi-Arch: foreign
+Priority: optional
+Section: comm
+Maintainer: anima <402844767@139.com>
+Provides: spark.com.bookxnote
+Depends: deepin-wine5 (>= 5.0-deepin0), deepin-wine5-i386 (>= 5.0-deepin0), deepin-wine-helper (>= 5.0deepin0)
+Conflicts: spark.com.bookxnote
+Replaces: spark.com.bookxnote
+Filename: store/office/com.bookxnote.spark/com.bookxnote.spark_1.0.0.193spark0_i386.deb
+Size: 19265340
+MD5sum: a6b1e0a775a0ccf0079aafb834b9a73d
+SHA1: 936d5529f2b2c209ff3f7c47c2a32965fa15cab1
+SHA256: 1da1c6a6a77e101c91c72443f8951d4cd52c82a5359d351b4e7ea668ba45d7a9
+SHA512: 45283e761973111d64884984fcd6e664418907a9f808d07b24ec2214e1abc4ed8e2863df7b85d7df29449290c62756893cab49f5ec40c93e2c322f8469e9c68b
+Description: BookxNote on Deepin Wine
 
 Package: com.chenggua.mz.dcs
 Architecture: i386
