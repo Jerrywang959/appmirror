@@ -221,19 +221,6 @@
 }
 ,
 {
-   "Name":"viewnior",
-   "Version":"1.7-1",
-   "Filename":"viewnior_1.7-1_amd64.deb",
-   "Pkgname":"viewnior",
-   "Author":"xsisqox",
-   "Contributor":"lenke",
-   "Website":"https://xsisqox.github.io/Viewnior/",
-   "Update":"2020-08-11 20:02",
-   "Size":"123.35KB",
-   "More":"debian系都是1.6版，升级到1.7.并解决deepin商店里无法打开首选项的问题"
-}
-,
-{
    "Name":"一只番茄",
    "Version":"1.0.4",
    "Filename":"top.yzzi.tomato_1.0.4_amd64.deb",
@@ -309,6 +296,19 @@
    "Update":"2020-07-19 15:12",
    "Size":"22.94MB",
    "More":"极简快速的创作体验 - 小说创作的终极码字软件"
+}
+,
+{
+   "Name":"BookxNote（wine）",
+   "Version":"1.0.0.193spark0",
+   "Filename":"com.bookxnote.spark_1.0.0.193spark0_i386.deb",
+   "Pkgname":"com.bookxnote.spark",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"http://www.bookxnote.com/",
+   "Update":"2020-08-26 11:45",
+   "Size":"18.37MB",
+   "More":"笔记整理交给我，一心只读圣贤书。"
 }
 ,
 {

@@ -208,19 +208,6 @@
 }
 ,
 {
-   "Name":"火狐浏览器",
-   "Version":"78.0.2",
-   "Filename":"firefox-zh_78.0.1_amd64.deb",
-   "Pkgname":"firefox-zh",
-   "Author":"Mozilla基金会",
-   "Contributor":"Maicss",
-   "Website":"https://www.firefox.com.cn",
-   "Update":"2020年7月12日",
-   "Size":"55.4M",
-   "More":"火狐是一个自由及开放源代码的网页浏览器。"
-}
-,
-{
    "Name":"百度网盘linux官网版",
    "Version":"3.3.2",
    "Filename":"baidunetdisk_3.3.2_amd64.deb",
@@ -325,29 +312,16 @@
 }
 ,
 {
-   "Name":"酸酸乳",
+   "Name":"electron-ssr",
    "Version":"0.3.0-alpha.6",
-   "Filename":"科学上网_electron-ssr_0.3.0-alpha.6_amd64.deb",
+   "Filename":"electron-ssr_0.3.0-alpha.6_amd64.deb",
    "Pkgname":"electron-ssr",
-   "Author":"不详",
+   "Author":"The Electron-SSR Authors",
    "Contributor":"奇点法则",
-   "Website":"不详",
+   "Website":"https://github.com/shadowsocksrr/electron-ssr",
    "Update":"2020-08-14 16:33",
    "Size":"45.07MB",
-   "More":"酸酸乳，小飞机，你懂的"
-}
-,
-{
-   "Name":"Firefox国际版",
-   "Version":"79.0",
-   "Filename":"firefox_79.0_amd64.deb",
-   "Pkgname":"firefox",
-   "Author":"Mozilla",
-   "Contributor":"Anysets",
-   "Website":"https://www.mozilla.org/en-US/firefox",
-   "Update":"2020-08-15 20:53",
-   "Size":"55.35MB",
-   "More":"Firefox是一个自由和开放源代码的网页浏览器"
+   "More":"Shadowsocksr client using electron."
 }
 ,
 {
@@ -361,6 +335,19 @@
    "Update":"2020年6月27日",
    "Size":"16M",
    "More":"给您安全无忧、流畅无阻的稳定高效远控体验。"
+}
+,
+{
+   "Name":"火狐浏览器国际版",
+   "Version":"80.0",
+   "Filename":"firefox-spark_80.0_amd64.deb",
+   "Pkgname":"firefox-spark",
+   "Author":"Mozilla",
+   "Contributor":"Anysets",
+   "Website":"https://www.mozilla.org/en-US/firefox/",
+   "Update":"2020-08-26 15:27",
+   "Size":"56.03MB",
+   "More":"Firefox是一个自由和开放源代码的网页浏览器"
 }
 ,
 {
