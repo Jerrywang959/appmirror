@@ -275,6 +275,41 @@ Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of a code editor with what developers need for the core edit-build-debug cycle. See https://code.visualstudio.com/docs/setup/linux for installation instructions and FAQ.
 
+Package: ffdec
+Architecture: all
+Version: 11.3.0-1
+Priority: extra
+Section: editors
+Maintainer: JPEXS <jindra.petrik@gmail.com>
+Installed-Size: 13645
+Depends: java8-runtime
+Filename: store/development/ffdec/ffdec_11.3.0_nightly1726.deb
+Size: 11178270
+MD5sum: 043958adf2b023a8400f2fe4994b3d59
+SHA1: b943da5d0934cfc9c1e6a274876a9d688048e287
+SHA256: 622ce3ba1f03566011290d753bf66952a7d7fb5ec38edaa35acd68e78b10348d
+SHA512: 803ef963b0907de0f243a2af4e96b28eb4e61ed1b49e4b759e543ae2f90becd37af355e4d4abc5135c83dc80ed24b942b6c2e6fcf6eb35908b701818be7a1a9a
+Description: Decompiler and editor of Flash SWF files
+ JPEXS Free Flash Decompiler (FFDec) is opensource flash SWF decompiler and editor. Extract resources, convert SWF to FLA, edit ActionScript, replace images, sounds, texts or fonts. Various output formats available. Works with Java on Windows, Linux or MacOS.
+ .
+ Key Features:
+ - Exporting scripts, images, shapes, movies, sounds, fonts...
+ - SWF to FLA conversion
+ - SWF to XML export and import again
+ - Various output formats like SVG or HTML5 Canvas
+ - Displaying ActionScript source code.
+ - Experimental direct editing of ActionScript source
+ - Editing via assembler source
+ - Both ActionScript 1/2 and AS3 support
+ - Clicking decompiled source highlights P-code associated instruction and vice-versa
+ - Replacing images, editing texts, fonts and other tags
+ - Displaying SWF resources (shapes, sprites, fonts, buttons...)
+ - Hexadecimal dump view with color hilighting also available
+ - Built-in proxy server for editing SWF files which come through it
+ - Java based code which supports multiple platforms
+ - Multilanguage support (see language list)
+ - Can decompile some kinds of obfuscated code too
+
 Package: figma-linux
 Architecture: amd64
 Version: 0.6.2
@@ -742,11 +777,11 @@ Depends: deepin-wine (>= 2.18-21), deepin-wine32, deepin-wine32-preloader, deepi
 Conflicts: spark.com.emulatronia.nebula
 Replaces: spark.com.emulatronia.nebula
 Filename: store/games/com.emulatronia.nebula.spark/com.emulatronia.nebula.spark_2.25b.0spark0_i386.deb
-Size: 7999500
-MD5sum: fde14bc540a8468155eb46ca3f3f7a9a
-SHA1: 9943d95fe6e72c39ceab04eff0a8d98bf71b9dea
-SHA256: a1e23bfccf2dcf12d452c5798da072bc12d2e92a953098b8ff38d4c52dd246f5
-SHA512: 7720e4b1208c1b3b4c1aac60073d2c1b95b2b7dd267d2b2ebbc11a44b2170bd9fc2f82bcf852d15da6bfc29d315fb30f9805ff4dd5481f5d18d83dd7273caf25
+Size: 7465088
+MD5sum: f80fb9d788f3232ad49f9c83a6583fc3
+SHA1: d33a1bad409a3b35b153001d57f9a79b95485a1c
+SHA256: 2e991191b054d28469767d08357fa8c810af8e026f4e995533ac755a728d6b5b
+SHA512: 63b9aae04bbb692ae97c15a001b63127c8f52bd3f9e5f7ad3b0ebf76a74ad71d6d3bd9e432186a2a7c250598b66fd5c57e18cccd3450bfcc4b0201c9b27d5a04
 Description: Nebula on Deepin Wine
 
 Package: com.falcom.ys2.deepin
@@ -2050,11 +2085,11 @@ Depends: deepin-wine5 (>= 5.0-deepin0), deepin-wine5-i386 (>= 5.0-deepin0), deep
 Conflicts: spark.cn.189.cloud
 Replaces: spark.cn.189.cloud
 Filename: store/network/cn.189.cloud.spark/cn.189.cloud.spark_6.3.0spark0_i386.deb
-Size: 39614444
-MD5sum: 37e2a4a1f48ced15162628976d9a51cb
-SHA1: ba40367ae55c664c7bcbf206ecb688a45d07f4b3
-SHA256: 12fe86c0fcbf60c5a1e8376f62d1b8193e0ef557b596999c10ec10c2938e0f26
-SHA512: 184473b6d202611411d7dd10d831a30e08909d6164c676f1ee19ec67dc2602f05141253c867af2b4baccc4e08c87bc68ce2e6a7679bb0c8060b1f08c5fd3475f
+Size: 37929684
+MD5sum: 24343e29e965d22ece6a9bd90e8b41b9
+SHA1: 5753241ffd15dd45e195966b1ceb1116fe294791
+SHA256: 0b58e453e3d1355dc4c9021c09312e66188b1cfebe9f5ad60841df8224ad78d9
+SHA512: 58dd71dc61ebfbf0c982155fbae7b8cfce4a68d330347ac3c90b01a027b4eabdc997dbe16032cf092b490538535e6e77da0bc4094bfbd8f310edb927d750b9da
 Description: eCloud on Deepin Wine
 
 Package: com.139.c.spark
@@ -2086,11 +2121,11 @@ Depends: deepin-wine5 (>= 5.0-deepin0), deepin-wine5-i386 (>= 5.0-deepin0), deep
 Conflicts: spark.com.bingdian001
 Replaces: spark.com.bingdian001
 Filename: store/network/com.bingdian001.spark/com.bingdian001.spark_3.2.13spark0_i386.deb
-Size: 15179032
-MD5sum: d9f3ad469e6d2e5d158b62e3e8e30252
-SHA1: d1e6eda36ee930f663d6000cafdeebf4917f020b
-SHA256: 01e3ee67b3978984775c4079e758dfc44802a8afcaf7db9c9117b60549ea4df7
-SHA512: 3a9e197014e4aa8e787f8ed465e422ccd0c044a391c5a27c88deec6ab417c75ce1e5e8dba4afabf583cfcc1ab16fb99b9092e404a9ee3beb397fa93e2d258844
+Size: 14646952
+MD5sum: a3130c7d4d10983bc615f2211e73e797
+SHA1: 08bea2b2ee5b9a67bbbf43ca1bf673cbdee8ab95
+SHA256: bea88416b1ad38f81162ead821bf435a8dc3f596e51f55e3c24beeb5fc2992cd
+SHA512: cebbecbb8e3f4efe00721bb1b4291f4f5ecb157d843be32ec2b0f72c2d0d4beca79fd7c94b43fa975ae7ceb64d4327e4a043307047e302c484728e84a5e393cc
 Description: 冰点文库 on Deepin Wine
 
 Package: com.neatdownloadmanager.spark
@@ -3515,6 +3550,19 @@ SHA512: 4f0b7104fd020418a0ca3a134d92fa3dbdadc3b49eb29f38f2f2317e275a1b8f3bb4041d
 Homepage: http://jinlixian.com/
 Description: editer for writer
 
+Package: zhisuOcr
+Architecture: amd64
+Version: 1.1.10
+Maintainer: spark-store
+Depends:
+Filename: store/office/zhisuocr/zhisuocr_1.1.10_amd64.deb
+Size: 52867900
+MD5sum: 184031082ae0e8b8fd74771fa6df9fd8
+SHA1: 40035b3003a63f5497fda4894a19b7c9f4d8c0fa
+SHA256: 5aa47a55fdcd762784e90c26020d1fc468735128ba77013bb1fe0d06658d06a5
+SHA512: a2bd1f7798edb50fc2cecbeb4122c064667f98fdd597ed008758bd114683caa57a3054e39fe0b2365a68c072a52e8cf65affba9bfac79e4eb39f353df01cf327
+Description: 专业OCR软件，识别更精准、更快速，性能卓越，识别率高­
+
 Package: zim
 Architecture: all
 Version: 0.73.2
@@ -3820,6 +3868,20 @@ Homepage: http://www.r-tt.com
 Description: R-Linux
  R-Linux is a file recover utility for the Ext2/3/4FS file system used in the Linux OS and several Unixes. R-Linux uses unique IntelligentScan technology and flexible parameter settings to give you real control over the fastest data recovery ever seen. It recovers files from existing partitions even when file records are lost. R-Linux is a lite version of more powerful file recover utility R-Studio. R-Studio utilizes the IntelligentScan technology to its full extent, and therefore can recover data from partitions with broken file systems. Also, R-Studio recovers data over network.
 
+Package: sweethome3D
+Architecture: amd64
+Version: 6.4.2
+Priority: optional
+Maintainer: sgb76 <sgb76@163.com>
+Installed-Size: 139112
+Filename: store/others/sweethome3d/sweethome3D_6.4.2_amd64.deb
+Size: 51456840
+MD5sum: 9fc073c1b7543d8a44a4a101b1b2c095
+SHA1: 44833615bfe5f0df6a363bdd6fe6de20561b5dec
+SHA256: f14d854b4403da1d3201a8984e9e5dcf248eac82dfa252a5b78ce67e6a60d56a
+SHA512: 171b825a37cef94298b2a94e80fe638057a29a514d500e5094e4bed36d77eeb5ca039fb1a5178694d448e690b0e63ac5e03b97e980b2334edd5ff0300101fcf2
+Description: 一个免费的室内设计应用程序
+
 Package: top.yzzi.onecuter
 Architecture: amd64
 Version: 1.1
@@ -3878,6 +3940,19 @@ Description:
   你的生产力工具集
 License: unknown
 Vendor: 福州猿力信息科技有限公司 <tellme@u.tools>
+
+Package: vysor
+Architecture: amd64
+Version: 3.1.4
+Maintainer: spark-store
+Depends:
+Filename: store/others/vysor/vysor_3.1.4_amd64.deb
+Size: 65794204
+MD5sum: 2a058042fa7d8e1fbcd7adcc0ecc60c1
+SHA1: fbcc0906f1df1398ff4add8531a82e61abd7b3a2
+SHA256: 963b952dc0db6def96a9ffafb01c571f783960d931d117f0770052d6c79caff5
+SHA512: 2f726f7e66bf1255554ea835414bba7252f24c639e0787df4d452cc2969ed7384e7e4161f534d5d546f50cac0e1820ed10b9971cee7cfefd1b8534c69ff85ebe
+Description: A Window to Your Android
 
 Package: windows95
 Architecture: amd64

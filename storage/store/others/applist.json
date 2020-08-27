@@ -144,6 +144,19 @@
 }
 ,
 {
+   "Name":"vysor",
+   "Version":"3.1.4",
+   "Filename":"vysor_3.1.4_amd64.deb",
+   "Pkgname":"vysor",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://vysor.io/manual",
+   "Update":"2020-08-27 14:15",
+   "Size":"62.75MB",
+   "More":"A Window to Your Android"
+}
+,
+{
    "Name":"QtScrcpy",
    "Version":"1.3.1",
    "Filename":"qtscrcpy_1_3_1_deepinv20_beta_x64.deb",
@@ -206,6 +219,19 @@
    "Update":"2020.07.30 14:55",
    "Size":"50.8MB",
    "More":"在你桌面上放个看板娘！可调戏的哟！"
+}
+,
+{
+   "Name":"SweetHome3D",
+   "Version":"6.4.2",
+   "Filename":"sweethome3D_6.4.2_amd64.deb",
+   "Pkgname":"sweethome3d",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"http://www.sweethome3d.com/",
+   "Update":"2020-08-26 23:38",
+   "Size":"49.07MB",
+   "More":"Sweet Home 3D是一个免费的室内设计应用程序 ，可帮助您绘制房屋平面图，布置家具并以3D形式访问结果"
 }
 ,
 {
