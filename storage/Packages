@@ -1393,6 +1393,21 @@ SHA512: 841cde541710eddd2e784618d77987320ff2023d4b6cb784e8d189d38bcacaa84158406c
 Homepage: https://bigjpg.com/
 Description: ai人工智能图片放大工具
 
+Package: com.meitu.xiuxiu
+Architecture: amd64
+Version: 1.0.0.0
+Priority: extra
+Section: alien
+Maintainer: gtjmaster <gtjdoctor@163.com>
+Installed-Size: 96215
+Filename: store/image_graphics/com.meitu.xiuxiu/mtxx_1.0.0.0_amd64.deb
+Size: 18845594
+MD5sum: 8c6026da333548ce384c46102f971e7d
+SHA1: bb5b4cdba88d516df973f7b603e017e27c17791a
+SHA256: 36ede8e18d755e93051f2fa7055d8631cfd2f2a46544fb6f0bf6c1a993e7d802
+SHA512: 46cc42918f5022a49a3b0e6e854bdb4be03eb250c1834a790fcfd7ce8c828f9e9a30a73404fd84c0dcc1a1b1a7d72ff19eff98f2bd0a1f9b2eae6aac6a0f6a86
+Description: 图片美化编辑软件
+
 Package: com.tupitube
 Architecture: amd64
 Version: 0.2.14
@@ -2743,11 +2758,11 @@ Depends: deepin-wine5 (>= 5.0-deepin0), deepin-wine5-i386 (>= 5.0-deepin0), deep
 Conflicts: spark.com.bookxnote
 Replaces: spark.com.bookxnote
 Filename: store/office/com.bookxnote.spark/com.bookxnote.spark_1.0.0.193spark0_i386.deb
-Size: 19265340
-MD5sum: a6b1e0a775a0ccf0079aafb834b9a73d
-SHA1: 936d5529f2b2c209ff3f7c47c2a32965fa15cab1
-SHA256: 1da1c6a6a77e101c91c72443f8951d4cd52c82a5359d351b4e7ea668ba45d7a9
-SHA512: 45283e761973111d64884984fcd6e664418907a9f808d07b24ec2214e1abc4ed8e2863df7b85d7df29449290c62756893cab49f5ec40c93e2c322f8469e9c68b
+Size: 18734320
+MD5sum: e51fcae66ae94a03793bfc70c3617733
+SHA1: 4f1dfbbaf3a55ae3470b526a539032abf26a8617
+SHA256: e1f727f255d345278cdfc0061a0a4de65af3145ed72d5a3ce1ce21146888d601
+SHA512: 90dd1ed46941b861782ad6abf2b98d110b551029ae001c9110007f5e91f374783f31c6a3d51b3ece42211de7ef580b1be1bd9147f1655af3eba54fbaf94ce9a1
 Description: BookxNote on Deepin Wine
 
 Package: com.chenggua.mz.dcs
@@ -4711,6 +4726,23 @@ SHA512: 1fc7756f89a662095315f9cd787cea965f9b8a6c4593b6ab5206a22f90e4b9118c0e1573
 Homepage: https://gitee.com/deepin-community-store/spark-store
 Description: Spark Store beta version.
 
+Package: spark-store
+Architecture: amd64
+Version: 2.0
+Priority: optional
+Section: utils
+Maintainer: Maicss <unknown>
+Installed-Size: 420
+Depends: libqt5webkit5 (>= 5.212.0~alpha2-21), libdtkwidget5 (>= 5.2.0-1), libdtkcore5 (>= 5.2.1-1), libqt5network5 (>= 5.11.3.9-1), libqt5concurrent5 (>= 5.11.3.9-1), libdtkgui5 (>= 5.2.0-1), wget, curl, gdebi-core, gnupg
+Filename: store/tools/spark-store/spark-store_2.0_amd64.deb
+Size: 93636
+MD5sum: dcadd6980c12a20c6b5fd4d510214840
+SHA1: f8f23caf7517e3f7abdf4b43ce177be9415213bd
+SHA256: 8b8931050c806332ce4c7e41de43c8111abb217b55fc2219fbce6293a6616e83
+SHA512: 901aae4e46d558342fceb24b3bea66e39ec50d54b43ab1e47177c77a6ce7a0025820989751b62dbfbff99b17f46a7e28bc8bbd29bb422543136638a8e22f1141
+Homepage: https://gitee.com/deepin-community-store/spark-store
+Description: Spark Store beta version.
+
 Package: spark-web-core
 Architecture: all
 Version: 1.0.1
@@ -5005,6 +5037,46 @@ Description: A great media player
  One of the main features is the ability to remember the state of a
  played file, so when you play it later it will be resumed at the same point
  and with the same settings.
+
+Package: tenvideo-universal
+Architecture: amd64
+Version: 1.0.10
+Priority: extra
+Section: AudioVideo
+Maintainer: 腾讯视频 <video@tencent.com>
+Installed-Size: 180922
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
+Filename: store/video/tenvideo-universal/Tenvideo_universal_1.0.10_amd64.deb
+Size: 50632316
+MD5sum: 60a6457f0322055dff54f54e7efa8062
+SHA1: 86f294107fb14064a329950b21d5c720c856630b
+SHA256: d890f867c92e3620950764896c4dd54ef0f552c79d55998458d4bf046ae2452a
+SHA512: 9ebd464bdf36648a4475ffa56c2ee581609e5f8d195c05d7c7d31d6602ded3a7e78ae187bdf56f7f49211cfda0746931c22b5c0ae2d8693e641805b5f823e6d9
+Homepage: https://github.com/electron/electron-quick-start#readme
+Description: 
+  腾讯视频通用版
+License: CC0-1.0
+Vendor: 腾讯视频 <video@tencent.com>
+
+Package: uos-youku-app
+Architecture: amd64
+Version: 1.0.0
+Priority: extra
+Section: default
+Maintainer: ${author}
+Installed-Size: 270020
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
+Filename: store/video/uos-youku-app/uos-youku-app_1.0.0_amd64.deb
+Size: 79271524
+MD5sum: d49852bc66cae7bd9d213d4c2be6972e
+SHA1: 2e17aa8148057e58d240bd0e4c385351cd1f994a
+SHA256: ae0b2ecd57224db7eedcf453dcd1178b2bf78e08fea2885978f7048dd0ebb78f
+SHA512: c92178402cee57a48176eeafa80087fe987ac5c35ab5922ef2c5c0760076b9d88ba982e4a8b2a761479f266ee8f8452706493d3a2d336cbadb5103c01e349e1c
+Homepage: http://gitlab.alibaba-inc.com/youku-node/uos-youku-app/blob/master/README.md
+Description: 
+  uos版本优酷客户端APP，基于Electron 技术实现在uos（国产操作系统）的APP客户端。
+License: ISC
+Vendor: ${author}
 
 Package: vst-video
 Architecture: amd64

@@ -13,6 +13,19 @@
 }
 ,
 {
+   "Name":"腾讯视频",
+   "Version":"1.0.10",
+   "Filename":"Tenvideo_universal_1.0.10_amd64.deb",
+   "Pkgname":"tenvideo-universal",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://v.qq.com/",
+   "Update":"2020-08-28 21:08",
+   "Size":"48.29MB",
+   "More":"中国领先的在线视频媒体平台，海量高清视频在线观看．"
+}
+,
+{
    "Name":"bilibili录播姬",
    "Version":"1.8.0",
    "Filename":"live-recorder_1.8.0_amd64.deb",
@@ -75,6 +88,19 @@
    "Update":"2020-08-16 22:45",
    "Size":"3.30MB",
    "More":"SMPlayer 是个适用于 Windows 和 Linux 的免费媒体播放器， 内置解码器，可以播放几乎所有格式的视频和音频文件，无需再安装任何外部解码器。 只要安装了 SMPlayer， 你就能够播放所有的格式，不用再费事查找安装解码包"
+}
+,
+{
+   "Name":"优酷",
+   "Version":"1.0.0",
+   "Filename":"uos-youku-app_1.0.0_amd64.deb",
+   "Pkgname":"uos-youku-app",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://www.youku.com/",
+   "Update":"2020-08-28 21:47",
+   "Size":"75.60MB",
+   "More":"这世界很酷！"
 }
 ,
 {
