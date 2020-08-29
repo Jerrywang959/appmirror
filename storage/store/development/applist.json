@@ -151,10 +151,9 @@
    "Contributor":"qygw",
    "Website":"https://www.renpy.org",
    "Update":"2020-07-28 14:00",
-   "Size":"70.2MB",
+   "Size":"70.20MB",
    "More":"基于pyGame库的GalGame制作工具。《心跳心跳文学部》便是由其制作。"
 }
- 
 ,
 {
    "Name":"Godot",
@@ -249,14 +248,14 @@
 ,
 {
    "Name":"Visual Studio Code",
-   "Version":"1.47.0-1594283939",
-   "Filename":"code_1.47.0-1594283939_amd64.deb",
+   "Version":"1.48.0-1597304990",
+   "Filename":"code_1.48.0-1597304990_amd64.deb",
    "Pkgname":"code",
    "Author":"Microsoft",
    "Contributor":"chaodn",
    "Website":"https://code.visualstudio.com/",
-   "Update":"2020-07-14 12:23",
-   "Size":"59.76MB",
+   "Update":"2020-08-28 23:30",
+   "Size":"59.80MB",
    "More":"Visual Studio Code是一个运行于 Mac OS X、Windows和 Linux 之上的，针对于编写现代 Web 和云应用的跨平台源代码编辑器。该编辑器也集成了所有一款现代编辑器所应该具备的特性，包括语法高亮（syntax high lighting），可定制的热键绑定（customizable keyboard bindings），括号匹配（bracket matching）以及代码片段收集（snippets）。"
 }
 ]

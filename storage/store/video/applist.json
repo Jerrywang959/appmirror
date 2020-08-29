@@ -104,6 +104,19 @@
 }
 ,
 {
+   "Name":"央视影音",
+   "Version":"4.6.6.9",
+   "Filename":"ysyy.spark_4.6.6.9_i386.deb",
+   "Pkgname":"ysyy.spark",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://app.cctv.com/appkhdxz/pc/",
+   "Update":"2020-08-29 21:38",
+   "Size":"78.54MB",
+   "More":"央视影音，回播随时看"
+}
+,
+{
    "Name":"Flash Player",
    "Version":"32.0.0",
    "Filename":"flashplayer_amd64.deb",

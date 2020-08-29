@@ -777,11 +777,11 @@ Depends: deepin-wine (>= 2.18-21), deepin-wine32, deepin-wine32-preloader, deepi
 Conflicts: spark.com.emulatronia.nebula
 Replaces: spark.com.emulatronia.nebula
 Filename: store/games/com.emulatronia.nebula.spark/com.emulatronia.nebula.spark_2.25b.0spark0_i386.deb
-Size: 7465088
-MD5sum: f80fb9d788f3232ad49f9c83a6583fc3
-SHA1: d33a1bad409a3b35b153001d57f9a79b95485a1c
-SHA256: 2e991191b054d28469767d08357fa8c810af8e026f4e995533ac755a728d6b5b
-SHA512: 63b9aae04bbb692ae97c15a001b63127c8f52bd3f9e5f7ad3b0ebf76a74ad71d6d3bd9e432186a2a7c250598b66fd5c57e18cccd3450bfcc4b0201c9b27d5a04
+Size: 7464464
+MD5sum: 03b60870a4d57c85e9d6b993b2c20032
+SHA1: b1fe8254dec7f5bf01125ba002d20a8e0be481ec
+SHA256: 018fb7f63144e9374636fcdee4e61f2b15c8dde1dbaad78b6953edb971a6b84f
+SHA512: 7c07b5b4085009d1a1959c77bf58ac2f458b3416d8ef570396a969c062bf58ce7cc1199a20e184372d51daf9c905fa901e3a5a487dddca3dd87cf9c700e9b8f2
 Description: Nebula on Deepin Wine
 
 Package: com.falcom.ys2.deepin
@@ -2155,11 +2155,11 @@ Depends: deepin-wine5 (>= 5.0-deepin0), deepin-wine5-i386 (>= 5.0-deepin0), deep
 Conflicts: spark.com.neatdownloadmanager
 Replaces: spark.com.neatdownloadmanager
 Filename: store/network/com.neatdownloadmanager.spark/com.neatdownloadmanager.spark_1.2.10spark0_i386.deb
-Size: 11819664
-MD5sum: ea9a242f1403c56a8cd398abf646c48b
-SHA1: de1ff17b334946d80b93ddc0644dab40030c3eb9
-SHA256: c7c1a32e8e6ce1cd31865a037036abbae729928b55d79504c184a799e118f42a
-SHA512: 7daffde932016a5b1dea0d3b8aba56d9eb0650ce1845cee337fff1a1bf075a54e0c5a6a7aba9448e02623637b928eb08e24fbba4bc21f2131a886394fe7ea082
+Size: 10146336
+MD5sum: e27a2b2b3bceacc7fb9042a0d9f555c4
+SHA1: 6eec07f63f5310d968c0437cdce703719e076a58
+SHA256: a762ad90a1118e53f9b4fb26a37cdeef4f821301cdcda18e59a1243054ad537b
+SHA512: bf4f3117b2fa7b0e557c4adc8e2f06a94347ef8763c03030d9aea78e8be82fb53558b44871fb5b2fba0d0586170f001afdc9aa1e1c3bdfd621b71a108f70507e
 Description: NeatDownloadManager on Deepin Wine
 
 Package: com.oray.sunlogin.client
@@ -2717,6 +2717,25 @@ Description:
   百度网盘
 License: https://pan.baidu.com/disk/duty/
 Vendor: lidan06 <lidan06@baidu.com>
+
+Package: cajviewer
+Architecture: amd64
+Version: 1.0+sm1
+Multi-Arch: same
+Priority: optional
+Section: office
+Maintainer: Zhang Ning <zhangn1985@XYZ.com>
+Installed-Size: 44942
+Depends: libc6 (>= 2.17), libdrm2 (>= 2.4.30), libegl1, libgcc1 (>= 1:3.4), libgl1, libstdc++6 (>= 6), libwayland-client0 (>= 1.9.91), libwayland-cursor0 (>= 1.0.2), libwayland-egl1 (>= 1.15.0), libx11-6, libx11-xcb1, libxcb-glx0, libxcb1 (>= 1.8), libxext6
+Filename: store/office/cajviewer/cajviewer_1.0_amd64.deb
+Size: 16306816
+MD5sum: 652a15c8a971d29715eff83a46369843
+SHA1: 8b0619d94d9f531ba53bcd2b9f416c570c792e7e
+SHA256: 0c43bcf47d2b262ef28472b1dea0382fc4b6a8a425ed671aef38bcac52f86c31
+SHA512: ddce2004ea779c101b6cfb2e29af41305c1a260a36ca214d3afbf742ed3d70ab178daa80d509e651ec715fcd1cb3c467525bea0ad4873bffe9df100a8048556b
+Homepage: http://cajviewer.cnki.net/
+Description: CAJViewer
+ This package is repackage of official CAJviewer
 
 Package: Cmd-Markdown
 Architecture: amd64
@@ -5094,6 +5113,25 @@ SHA1: 572fed5cdb65c094c76b601d2e5af9c23b6f71dc
 SHA256: 6e0b155db5f5fe8398b60dec60db3b9e6e6e36703df6cd707b200a2178911581
 SHA512: 80da9945d2bf7d24af94d91cb171fec4ce59fc6d7cd3373262f0e58e8326fea255607cb2da403259230dde6af42ef41f09ca6dc8155028ea96711fb7e0b9f35b
 Description: 全聚合影视 打造linux云播放平台,项目地址：https://github.com/xymov/vst-video
+
+Package: ysyy.spark
+Architecture: i386
+Version: 4.6.6.9
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: sgb76 <sgb76@163.com>
+Provides: spark.ysyy
+Depends: deepin-wine5 (>= 5.0-deepin0), deepin-wine5-i386 (>= 5.0-deepin0), deepin-wine-helper (>= 5.0deepin0)
+Conflicts: spark.ysyy
+Replaces: spark.ysyy
+Filename: store/video/ysyy.spark/ysyy.spark_4.6.6.9_i386.deb
+Size: 82350720
+MD5sum: 4e1b40a1fe9e47a78be991742523a101
+SHA1: d0aab82af5417ae24add9ae85f15d9cd30ee1f05
+SHA256: d3c39e5742d17d2e70dc48d5259b2fd43bd4c1a9f1430a6ba0b99db0afba190c
+SHA512: 59f8ab520850605833b592943c4b3e04c0e6668a6bd87e4a149c7bb24a394840a8b98912dd4897019402166dc5cca8908be38cf4f620343077528afd23d154d7
+Description: ysyy on Deepin Wine
 
 Package: zyplayer
 Architecture: amd64
