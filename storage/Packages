@@ -595,6 +595,21 @@ SHA256: f2ee42138d6a0534ce17f5eac4d50a7f5532cb95d721ea81db2d6a0be5df7322
 SHA512: 423e8b1a5ffd995a30d72c299d569c59caf9214050a1b3b148e64abf5fbe1d74af41a3578ecec6e33441100d93976d10f7eb5e18860395d8969d880360b9d0a1
 Description: Postman 是一个 强大的接口测试工具，提供功能强大的 Web API & HTTP 请求调试。它能够发送任何类型的HTTP 请求 。本工具源码来自官方由amengrobot打包维护。
 
+Package: pycharm-community-spark
+Architecture: amd64
+Version: 2020.2.1
+Priority: optional
+Maintainer: Anysets <Anysets@spark-app.store>
+Installed-Size: 817364
+Filename: store/development/pycharm-community-spark/pycharm-community-spark_2020.2.1_amd64.deb
+Size: 308545016
+MD5sum: 83c17684766b086a410bc2be3d4af2d2
+SHA1: 7e7e889f793adece7059cefa2d87b424ae0373a1
+SHA256: 0d690771b384f5601ea9ab70660e488b1b8c96c22ecce721a68502e152883ce5
+SHA512: ca6ca65ee7549c4cf8e3ff1e4cb8c8cec117b15d2e66afdf4b5381ef4208257234564f4f98aa428432995812de39c12504ad5a3fa050489c3c593f967246f87d
+Homepage: https://www.jetbrains.com/pycharm/
+Description: The Python IDE for Professional Developers
+
 Package: redisplus
 Architecture: amd64
 Version: 3.2.0
